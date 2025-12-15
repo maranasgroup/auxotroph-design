@@ -1,0 +1,88 @@
+Identifier,cmpd name,abbrev.,EX_ rxn ?,finding
+1D04,"1,2-Propanediol",12ppd-S,EX_12ppd_S(e),none
+2D10,γ-Amino ButyricAcid,4abut,EX_4abut(e),none
+2000000000000,5-Keto-DGluconicAcid,5dglcn,EX_5dglcn(e),growth
+1C08,Acetic Acid,ac,EX_ac(e),weak
+1G07,Acetoacetic Acid,acac,EX_acac(e),none
+1A03,N-Acetyl-DGlucosamine,acgam,EX_acgam(e),growth
+1G08,N-Acetyl-β-DMannosamine,acmana,EX_acmana(e),weak
+2B02,N-Acetyl-Neuraminic Acid,acnam,EX_acnam(e),growth
+1000000000000,Adenosine,adn,EX_adn(e),growth
+1D06,α-Keto-GlutaricAcid,akg,EX_akg(e),growth
+1A09,D-Alanine,ala-D,EX_ala_D(e),growth
+1G05,L-Alanine,ala-L,EX_ala_L(e),weak
+2B03,β-D-Allose,all-D,EX_all_D(e),growth
+1A02,L-Arabinose,arab-L,EX_arab_L(e),growth
+2G04,L-Arginine,arg-L,EX_arg_L(e),none
+1D01,L-Asparagine,asn-L,EX_asn_L(e),none
+1A07,L-Aspartic Acid,asp-L,EX_asp_L(e),growth
+2D12,Butyric Acid,but,EX_but(e),none
+1F02,Citric Acid,cit,EX_cit(e),none
+100000000000,2-DeoxyAdenosine,dad-2,EX_dad_2(e),growth
+20,Capric Acid,dca,EX_dca(e),none
+2H09,DihydroxyAcetone,dha,EX_dha(e),none
+1H12,2-Aminoethanol,etha,EX_etha(e),none
+10000,Fructose-6-Phosphate,f6p,EX_f6p(e),growth
+1B10,Formic Acid,for,EX_for(e),weak
+1C07,D-Fructose,fru,EX_fru(e),growth
+1B04,L-Fucose,fuc-L,EX_fuc_L(e),growth
+1F05,Fumaric Acid,fum,EX_fum(e),growth
+1000,Glucose-1-Phosphate,g1p,EX_g1p(e),growth
+1C01,Glucose-6-Phosphate,g6p,EX_g6p(e),growth
+1A06,D-Galactose,gal,EX_gal(e),growth
+1F08,Mucic Acid,galct-D,EX_galct_D(e),growth
+1C02,D-GalactonicAcid-γ-Lactone,galctn-D,EX_galctn_D(e),growth
+1H09,L-GalactonicAcid-γ-Lactone,galctn-L,EX_galctn_L(e),growth
+1A12,Dulcitol,galt,EX_galt(e),none
+1H10,D-GalacturonicAcid,galur,EX_galur(e),growth
+1C09,α-D-Glucose,glc-D,EX_glc(e),growth
+1B06,D-Gluconic Acid,glcn,EX_glcn(e),growth
+1A04,D-Saccharic Acid,glcr,EX_glcr(e),growth
+1B05,D-GlucuronicAcid,glcur,EX_glcur(e),growth
+10,L-Glutamine,gln-L,EX_gln_L(e),weak
+1B12,L-Glutamic Acid,glu-L,EX_glu_L(e),none
+2G05,Glycine,gly,EX_gly(e),weak
+1B03,Glycerol,glyc,EX_glyc(e),none
+1B07,"D,L-α-Glycerol-Phosphate",glyc3p,EX_glyc3p(e),none
+1F09,Glycolic Acid,glyclt,EX_glyclt(e),weak
+2G06,L-Histidine,his-L,EX_his_L(e),none
+2G07,L-Homoserine,hom-L,EX_hom_L(e),none
+200,Caproic Acid,hxa,EX_hxa(e),none
+2G09,L-Isoleucine,ile-L,EX_ile_L(e),none
+1F03,M-Inositol,inost,EX_inost(e),none
+1F12,Inosine,ins,EX_ins(e),growth
+1B09,L-Lactic Acid,lac-L,EX_lac_L(e),growth
+1D09,α-D-Lactose,lcts,EX_lcts(e),growth
+2G10,L-Leucine,leu-L,EX_leu_L(e),none
+2G11,L-Lysine,lys-L,EX_lys_L(e),none
+1H06,L-Lyxose,lyx-L,EX_lyx_L(e),weak
+1G11,D-Malic Acid,mal-D,EX_mal_D(e),growth
+1G12,L-Malic Acid,mal-L,EX_mal_L(e),growth
+1C10,Maltose,malt,EX_malt(e),growth
+10000000000,Maltotriose,malttr,EX_malttr(e),growth
+1A11,D-Mannose,man,EX_man(e),growth
+1C11,D-Melibiose,melib,EX_melib(e),growth
+2G12,L-Methionine,met-L,EX_met_L(e),none
+1B11,D-Mannitol,mnl,EX_mnl(e),growth
+2H01,L-Ornithine,orn,EX_orn(e),none
+1H11,Phenylethylamine,peamn,EX_peamn(e),none
+2H02,L-Phenylalanine,phe-L,EX_phe_L(e),none
+1F07,Propionic Acid,ppa,EX_ppa(e),none
+1A08,L-Proline,pro-L,EX_pro_L(e),none
+2H08,Putrescine,ptrc,EX_ptrc(e),none
+1H08,Pyruvic Acid,pyr,EX_pyr(e),growth
+1C04,D-Ribose,rib-D,EX_rib_D(e),growth
+1C06,L-Rhamnose,rmn,EX_rmn(e),growth
+1B02,D-Sorbitol,sbt-D,EX_sbt_D(e),growth
+1B01,D-Serine,ser-D,EX_ser_D(e),growth
+1G03,L-Serine,ser-L,EX_ser_L(e),growth
+1A05,Succinic Acid,succ,EX_succ(e),growth
+1D11,Sucrose,sucr,EX_sucr(e),none
+2F12,L-Tartaric Acid,tartr-L,EX_tartr_L(e),none
+1G04,L-Threonine,thr-L,EX_thr_L(e),none
+1C12,Thymidine,thymd,EX_thymd(e),growth
+1A10,D-Trehalose,tre,EX_tre(e),growth
+1H04,Tyramine,tym,EX_tym(e),none
+1D12,Uridine,uri,EX_uri(e),growth
+2H04,L-Valine,val-L,EX_val_L(e),none
+1B08,D-Xylose,xyl-D,EX_xyl_D(e),growth

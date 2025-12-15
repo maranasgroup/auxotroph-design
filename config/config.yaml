@@ -1,0 +1,88 @@
+# Essential Gene Analysis Configuration
+# =====================================
+# This configuration file controls all aspects of the analysis.
+#
+# Usage:
+#   python run_analysis.py --config config/config.yaml
+#
+# NOTE: Update the paths below to match your file locations!
+
+# =============================================================================
+# Model Settings
+# =============================================================================
+# Path to your metabolic model file (SBML .xml or JSON .json format)
+# REQUIRED - Update this path to your model location
+model_path: "data/iAF1260b.xml"
+
+# =============================================================================
+# Solver Settings
+# =============================================================================
+# LP solver to use: 'glpk' (free), 'cplex', or 'gurobi'
+solver: "glpk"
+
+# Number of parallel processes for gene essentiality analysis
+processes: 4
+
+# =============================================================================
+# Medium Conditions
+# =============================================================================
+# Carbon uptake rate in mmol/gDW/h (negative = uptake)
+carbon_uptake_rate: -10.0
+
+# Oxygen uptake rate in mmol/gDW/h (negative = uptake, set to 0 for anaerobic)
+oxygen_uptake_rate: -20.0
+
+# =============================================================================
+# Analysis Settings
+# =============================================================================
+# Minimum growth rate threshold for viability
+growth_threshold: 1.0e-6
+
+# Reference substrate for conditional essentiality analysis
+# Genes essential on other substrates but NOT on this one are "conditionally essential"
+reference_substrate: "α-D-Glucose"
+
+# =============================================================================
+# Input Files
+# =============================================================================
+# Path to CSV file with carbon substrate information
+# REQUIRED - Update this path
+# Expected columns: 'cmpd name', 'EX_ rxn ?', 'finding' (or customize below)
+carbon_substrates_file: "data/carbon_substrate.csv"
+
+# Path to CSV file with reactions to turn off (optional, set to null to skip)
+# Expected column: 'reactions' (or customize below)
+off_reactions_file: "data/off_reactions_aerobic.csv"
+
+# Path to universal model for gap-filling (optional, set to null to skip)
+universal_model_path: "data/universal_model.json"
+
+# =============================================================================
+# Output Settings
+# =============================================================================
+# Directory where output files will be saved
+output_dir: "./outputs"
+
+# Export format: 'csv', 'json', or 'both'
+export_format: "both"
+
+# Whether to generate visualization figures
+generate_figures: true
+
+# Enable verbose logging
+verbose: false
+
+# =============================================================================
+# Column Mappings for Input CSV Files
+# =============================================================================
+# These map columns in your CSV files to expected fields
+# Update these if your CSV files have different column names
+
+# Carbon substrates CSV columns
+substrate_name_column: "cmpd name"
+substrate_reaction_column: "EX_ rxn ?"
+substrate_filter_column: "finding"
+substrate_filter_value: "growth"
+
+# Off reactions CSV column
+off_reactions_column: "reactions"

@@ -1,0 +1,13 @@
+condition_name	rule
+CRP_GLCN	(glcn(e) > 0)
+CRP_noARAB	(NOT((glcn(e) > 0) OR (glc-D(e) > 0) OR (arab-L(e) > 0)))
+CRP_noGL	(NOT((glcn(e) > 0) OR (glc-D(e) > 0) OR (arab-L(e) > 0) OR (xyl-D(e) > 0) OR (rib-D(e) > 0) OR (mal-L(e) > 0) OR (glyc(e) > 0)))
+CRP_noGLC	(NOT((glcn(e) > 0) OR (glc-D(e) > 0)))
+CRP_noGLCN	(NOT((glcn(e) > 0)))
+CRP_noGLT	(NOT((glcn(e) > 0) OR (glc-D(e) > 0) OR (arab-L(e) > 0) OR (xyl-D(e) > 0) OR (rib-D(e) > 0) OR (mal-L(e) > 0) OR (glyc(e) > 0) OR (sbt-D(e) > 0)))
+CRP_noLAC	(NOT((glcn(e) > 0) OR (glc-D(e) > 0) OR (arab-L(e) > 0) OR (xyl-D(e) > 0) OR (rib-D(e) > 0) OR (mal-L(e) > 0) OR (glyc(e) > 0) OR (sbt-D(e) > 0) OR (lac-D(e) > 0)))
+CRP_noMAL	(NOT((glcn(e) > 0) OR (glc-D(e) > 0) OR (arab-L(e) > 0) OR (xyl-D(e) > 0) OR (rib-D(e) > 0) OR (mal-L(e) > 0)))
+CRP_noMAN	(NOT((glcn(e) > 0) OR (glc-D(e) > 0) OR (arab-L(e) > 0) OR (xyl-D(e) > 0) OR (rib-D(e) > 0) OR (mal-L(e) > 0) OR (glyc(e) > 0) OR (sbt-D(e) > 0) OR (lac-D(e) > 0) OR (man(e) > 0)))
+CRP_noRIB	(NOT((glcn(e) > 0) OR (glc-D(e) > 0) OR (arab-L(e) > 0) OR (xyl-D(e) > 0) OR (rib-D(e) > 0)))
+CRP_noSUCC	(NOT((glcn(e) > 0) OR (glc-D(e) > 0) OR (arab-L(e) > 0) OR (xyl-D(e) > 0) OR (rib-D(e) > 0) OR (mal-L(e) > 0) OR (glyc(e) > 0) OR (sbt-D(e) > 0) OR (lac-D(e) > 0) OR (man(e) > 0) OR (succ(e) > 0)))
+CRP_noXYL	(NOT((glcn(e) > 0) OR (glc-D(e) > 0) OR (arab-L(e) > 0) OR (xyl-D(e) > 0)))
