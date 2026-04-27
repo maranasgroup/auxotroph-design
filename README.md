@@ -43,11 +43,8 @@ Each stage reads the previous stage's CSVs from `outputs/`. Total runtime ~6–1
 | `{single,double,triple}_ko_conditionally_essential.csv` | CE designs per substrate |
 | `{single,double,triple}_ko_rescue_dedup.csv` | rescue functions per design |
 
-Manuscript counts: 258 designs (97 SKO, 142 DKO, 19 TKO; Scheme A).
 
 ## Parameters
 
 Hardcoded at the top of `src/knockout_utils.py` — these are the values that produced the published figures.
-
-`UPTAKE_RATE=10`, `O2_RATE=20`, `ATPM_MAINT=8.39`, `ESS_THRESH=0.10`, `RESCUE_THRESH=0.10`.
 
