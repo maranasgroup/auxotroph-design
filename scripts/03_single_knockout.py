@@ -14,8 +14,12 @@ Outputs
   single_ko_rescue.csv                  -- rescue reactions per CE gene
 """
 import sys, time, multiprocessing, pandas as pd
-sys.path.insert(0, "/home/claude")
-from knockout_utils import (load_model, load_off_reactions, load_carbon_sources,
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parent      # or .parent.parent if scripts live in src/
+DATA      = REPO_ROOT / "data"
+OUT       = REPO_ROOT / "outputs"
+OUT.mkdir(exist_ok=True)
+from src.knockout_utils import (load_model, load_off_reactions, load_carbon_sources,
                              prepare_condition, get_essential_genes,
                              load_reaction_library,
                              find_rescue_genes_from_library,
@@ -27,10 +31,7 @@ def main():
     off_rxns   = load_off_reactions()
     cs_map     = load_carbon_sources()
     lib_df, mi = load_reaction_library()
-    # Optionally load external model for Layer 2 rescue:
-    # import cobra
-    # external_model = cobra.io.load_json_model(
-    #     "/mnt/user-data/uploads/universal_model.json")
+
     external_model = None
 
     all_genes = [g.id for g in model.genes if g.reactions]

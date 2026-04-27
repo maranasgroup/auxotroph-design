@@ -38,8 +38,13 @@ from pathlib import Path
 from collections import defaultdict
 
 warnings.filterwarnings("ignore")
-BASE = Path("../imL1515")
-OUT  = Path("")
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parent      # or .parent.parent if scripts live in src/
+DATA      = REPO_ROOT / "data"
+OUT       = REPO_ROOT / "outputs"
+OUT.mkdir(exist_ok=True)
+BASE = DATA
+
 
 # ── Annotation key aliases ────────────────────────────────────────────────────
 EC_ALIASES   = {"ec-code", "ec", "EC", "brenda", "BRENDA"}

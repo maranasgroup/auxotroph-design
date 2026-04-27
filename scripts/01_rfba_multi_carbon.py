@@ -22,10 +22,11 @@ Outputs
 import re, warnings, pandas as pd
 import cobra
 from pathlib import Path
-
-warnings.filterwarnings("ignore")
-BASE = Path("/Users/rbm5893/Documents/1.1 Roghaye Obisdian/1.1Research/GAP/publication/revision1/imL1515")
-OUT  = Path("/Users/rbm5893/Documents/1.1 Roghaye Obisdian/1.1Research/GAP/publication/revision1/analysis")
+REPO_ROOT = Path(__file__).resolve().parent      # or .parent.parent if scripts live in src/
+DATA      = REPO_ROOT / "data"
+OUT       = REPO_ROOT / "outputs"
+BASE = DATA
+OUT.mkdir(exist_ok=True)
 
 # ── Load model & rules ────────────────────────────────────────────────────────
 print("Loading model and rules...")

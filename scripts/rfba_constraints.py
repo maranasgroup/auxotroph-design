@@ -13,9 +13,13 @@ Implements the correct Covert 2001-2004 rFBA approach:
 import re, warnings, pandas as pd, numpy as np, cobra
 from pathlib import Path
 
-warnings.filterwarnings("ignore")
-BASE = Path("/mnt/user-data/uploads")
-OUT  = Path("/mnt/user-data/outputs")
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parent      # or .parent.parent if scripts live in src/
+DATA      = REPO_ROOT / "data"
+OUT       = REPO_ROOT / "outputs"
+OUT.mkdir(exist_ok=True)
+BASE = DATA
+
 
 # ── Load model & rules ────────────────────────────────────────────────────────
 print("Loading model and rules...")

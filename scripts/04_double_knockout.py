@@ -1,10 +1,6 @@
 """
 double_knockout.py
 ==================
-Double-gene knockout analysis — synthetic lethal pairs across 46
-carbon sources.  Uses COBRApy's double_gene_deletion (vectorised +
-parallel).  Only gene pairs where NEITHER gene is individually
-essential on the target substrate are tested (true synthetic lethals).
 
 Run order: single_knockout.py → double_knockout.py
 
@@ -15,11 +11,16 @@ Outputs
 """
 import sys, time, multiprocessing, pandas as pd
 
-from knockout_utils import (load_model, load_off_reactions, load_carbon_sources,
+from src.knockout_utils import (load_model, load_off_reactions, load_carbon_sources,
                              deduplicate_rescues,
                              prepare_condition, get_essential_genes,
                              get_essential_pairs, load_reaction_library,
                              find_rescue_genes_from_library, OUT)
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parent      # or .parent.parent if scripts live in src/
+DATA      = REPO_ROOT / "data"
+OUT       = REPO_ROOT / "outputs"
+OUT.mkdir(exist_ok=True)
 
 def main():
     print("Loading...")

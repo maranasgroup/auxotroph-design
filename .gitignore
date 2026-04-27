@@ -35,15 +35,6 @@ _Recommends.ctf
 ######
 *.log
 
-# Microsoft Office Temporary Files
-##################################
-~$*.docx
-~$*.xlsx
-~$*.pptx
-~$*.doc
-~$*.xls
-~$*.ppt
-
 # vi Temporary Files
 ####################
 [._]*.sw[a-p]

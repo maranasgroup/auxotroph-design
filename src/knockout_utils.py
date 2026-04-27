@@ -15,9 +15,14 @@ from pathlib import Path
 from cobra.flux_analysis import single_gene_deletion, double_gene_deletion
 
 warnings.filterwarnings("ignore")
+from pathlib import Path
+REPO_ROOT = Path(__file__).resolve().parent      # or .parent.parent if scripts live in src/
+DATA      = REPO_ROOT / "data"
+OUT       = REPO_ROOT / "outputs"
+OUT.mkdir(exist_ok=True)
 
-BASE = Path("../imL1515")
-OUT = Path("")
+BASE = DATA
+OUT = OUT
 
 UPTAKE_RATE = 10.0
 O2_RATE = 20.0

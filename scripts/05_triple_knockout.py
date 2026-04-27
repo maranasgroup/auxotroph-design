@@ -2,12 +2,6 @@
 triple_knockout.py
 ==================
 Triple-gene knockout analysis — targeted synthetic lethal triples.
-
-Loads pre-computed single and double KO results directly from CSV files
-instead of rerunning those analyses. This avoids the most expensive
-computation (single_gene_deletion × 45 substrates × 1,300 genes and
-double_gene_deletion × 45 substrates × pair_cands) which is already done.
-
 Run order: single_knockout.py → double_knockout.py → triple_knockout.py
 
 Outputs
@@ -20,9 +14,7 @@ Outputs
 import sys, time, multiprocessing, pandas as pd
 from itertools import combinations
 from collections import defaultdict
-
-sys.path.insert(0, "/home/claude")
-from knockout_utils import (load_model, load_off_reactions, load_carbon_sources,
+from src.knockout_utils import (load_model, load_off_reactions, load_carbon_sources,
                              prepare_condition, load_reaction_library,
                              find_rescue_genes_from_library,
                              deduplicate_rescues, ESS_THRESH, OUT)
