@@ -1,0 +1,5 @@
+condition,wt_growth,rfba_growth,growth_impact,n_applied,n_relaxed_FlagB,n_candidates_total,feasible
+aerobic_glucose,0.6923,0.6919,0.0004,295,7,302,True
+anaerobic_glucose,0.1575,0.1532,0.0043,313,4,317,True
+aerobic_glucose_acetate,0.6923,0.6919,0.0004,295,7,302,True
+aerobic_glucose_lactose,0.7125,0.712,0.0005,295,7,302,True

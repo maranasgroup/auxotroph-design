@@ -1,0 +1,317 @@
+reaction_id,reaction_name,subsystem,gpr,off_in_n,conditions,off_genes,wt_flux,aerobic_glucose,anaerobic_glucose,aerobic_glucose_acetate,aerobic_glucose_lactose
+14GLUCANtexi,"1,4-alpha-D-glucan transport via diffusion (extracellular to periplasm) irreversible",Transport / Ion channels,b4036,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4036,0.0,1,1,1,1
+23PDE2pp,"2',3'-cyclic-nucleotide phosphodiesterase (UMP) (periplasm)",Nucleotide metabolism,b4213,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4213,0.0,1,1,1,1
+23PDE4pp,"2',3'-cyclic-nucleotide phosphodiesterase (CMP) (periplasm)",Nucleotide metabolism,b4213,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4213,0.0,1,1,1,1
+23PDE7pp,"2',3'-cyclic-nucleotide phosphodiesterase (AMP) (periplasm)",Nucleotide metabolism,b4213,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4213,0.0,1,1,1,1
+23PDE9pp,"2',3'-cyclic-nucleotide phosphodiesterase (GMP) (periplasm)",Nucleotide metabolism,b4213,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4213,0.0,1,1,1,1
+3AMACHYD,3-aminoacrylate hydrolase,Other metabolism,b1009,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1009,0.0,1,1,1,1
+3HCINNMH,3-hydroxycinnamate hydroxylase,Other metabolism,b0347,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0347,0.0,1,1,1,1
+3HPPPNH,3-(3-hydroxy-phenyl)propionate hydroxylase,Other metabolism,b0347,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0347,0.0,1,1,1,1
+3SLAR,3-sulfolactaldehyde reductase,Oxidative phosphorylation,b3882,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3882,0.0,1,1,1,1
+42A12BOOXpp,"4-(2-Aminoethyl)-1,2-benzenediol:oxygen oxidoreductase(deaminating)(flavin-containing)",Oxidative phosphorylation,b1386,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1386,0.0,1,1,1,1
+5DGLCNR,5-dehydro-D-gluconate reductase,Oxidative phosphorylation,b4266,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4266,0.0,1,1,1,1
+5DGLCNt2rpp,"5-Dehydro-D-gluconate transport via proton symport, reversible (periplasm)",Transport / Ion channels,b4265,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4265,0.0,1,1,1,1
+6D6SFK,6-deoxy-6-sulfofructose kinase,Other metabolism,b3883,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3883,0.0,1,1,1,1
+6D6SPA,6-deoxy-6-sulfofructose-1-phosphate aldolase,Inorganic ion metabolism,b3881,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3881,0.0,1,1,1,1
+ABUTD,Aminobutyraldehyde dehydrogenase,Other metabolism,b1444,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1444,0.0,1,1,1,1
+ACACt2pp,Acetoacetate transport via proton symport  (periplasm),Transport / Ion channels,b2223,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2223,0.0,1,1,1,1
+ACBIPGT,Adenosyl cobinamide phosphate guanyltransferase,Inorganic ion metabolism,b1993,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1993,0.0,1,1,1,1
+ACM6PH,N-acetylmuramate 6-phosphate hydrolase,Inorganic ion metabolism,b2428,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2428,0.0,1,1,1,1
+ACONMT,Trans-aconitate methyltransferase,Other metabolism,b1519,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1519,0.0,1,1,1,1
+ACOXT,Acetyl-CoA:oxalate CoA-transferase,Glyoxylate / Acetate,b2371,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2371,0.0,1,1,1,1
+ACP1p,Acid phosphatase (FMN),Other metabolism,b0383,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0383,0.0,1,1,1,1
+ACt4pp,Na+/Acetate symport (periplasm),Transport / Ion channels,b4067,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4067,0.0,1,1,1,1
+ADA,Adenosine deaminase,Amino acid catabolism,b1623,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1623,0.0,1,1,1,1
+ADNt2pp_copy2,Adenosine transport in via proton symport (periplasm),Transport / Ion channels,b2406,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2406,0.0,1,1,1,1
+ADOCBIK,Adenosyl cobinamide kinase,Other metabolism,b1993,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1993,0.0,1,1,1,1
+ADOCBLS,Adenosylcobalamin 5'-phosphate synthase,Cofactor biosynthesis,b1992,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1992,0.0,1,1,1,1
+AGDC,N-acetylglucosamine-6-phosphate deacetylase,Inorganic ion metabolism,b0677,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0677,0.0,1,1,1,1
+AI2K,Autoinducer-2 kinase,Other metabolism,b1511,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1511,0.00031,1,1,1,1
+ALAGLUE,L-alanyl-gamma-glutamate epimerase,Other metabolism,b1325,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1325,0.0,1,1,1,1
+ALDD19xr,"Aldehyde dehydrogenase (phenylacetaldehyde, NAD)",Other metabolism,b1385,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1385,0.0,1,1,1,1
+ALLPI,Allose 6-phosphate isomerase,Inorganic ion metabolism,b4090,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4090,0.0,1,1,1,1
+ALLTAMH2,Allantoate amidinohydrolase,Other metabolism,b0516,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0516,0.0,1,1,1,1
+AMALT1,Amylomaltase (maltotriose),Other metabolism,b3416,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3416,0.0,1,1,1,1
+AMALT2,Amylomaltase (maltotetraose),Transport / Ion channels,b3416,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3416,0.0,1,1,1,1
+AMALT3,Amylomaltase (maltopentaose),Transport / Ion channels,b3416,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3416,0.0,1,1,1,1
+AMALT4,Amylomaltase (maltohexaose),Transport / Ion channels,b3416,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3416,0.0,1,1,1,1
+AMPNTAT,Aminoalkylphosphonate N-acetyltransferase,Other metabolism,b4093,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4093,0.0,1,1,1,1
+AP4AS,Ap4A synthetase,Other metabolism,b4129,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4129,0.0,1,1,1,1
+ARABDI,L-fucose isomerase,Sugar catabolism,b2802,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2802,0.0,1,1,1,1
+ARAI,L-arabinose isomerase,Sugar catabolism,b0062,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0062,0.0,1,1,1,1
+ARBt2rpp,L-arabinose transport via proton symport (periplasm),Transport / Ion channels,b2841,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2841,0.0,1,1,1,1
+ARGAGMt7pp,Arginine/agmatine antiport (periplasm),Transport / Ion channels,b4115,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4115,0.0,1,1,1,1
+ARGDC,Arginine decarboxylase,Amino acid biosynthesis,b4117,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4117,0.0,1,1,1,1
+ASCBPL,L-ascorbate 6-phosphate lactonase,Inorganic ion metabolism,b4192,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4192,0.0,1,1,1,1
+ASNNpp,L-asparaginase,Other metabolism,b2957,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2957,0.0,1,1,1,1
+ASPO3,L-aspartate oxidase,Oxidative phosphorylation,b2574,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2574,0.0,1,1,1,1
+ASPO4,L-aspartate oxidase,Oxidative phosphorylation,b2574,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2574,0.0,1,1,1,1
+ASPO6,L-aspartate oxidase,Oxidative phosphorylation,b2574,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2574,0.0,1,1,1,1
+ASPt2_2pp,Aspartate transport via proton symport (2 H) (periplasm),Transport / Ion channels,b3528,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3528,0.0,1,1,1,1
+AST,Arginine succinyltransferase,Amino acid biosynthesis,b1747,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1747,0.0,1,1,1,1
+BMOCOS,Bis-molybdenum cofactor synthase,Other metabolism,b0827,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0827,0.0,1,1,1,1
+BUTt2rpp,"Butyrate transport via proton symport, reversible (periplasm)",Transport / Ion channels,b2223,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2223,0.0,1,1,1,1
+BWCOS,Tungsten bispterin cofactor synthase,Other metabolism,b0827,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0827,0.0,1,1,1,1
+CFAS160E,"Cyclopropane fatty acid synthase (Phosphatidylethanolamine, n-C16:0)",Fatty acid metabolism,b1661,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1661,0.0,1,1,1,1
+CFAS160G,"Cyclopropane fatty acid synthase (Phosphatidylglycerol, n-C16:0)",Fatty acid metabolism,b1661,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1661,0.0,1,1,1,1
+CFAS180E,"Cyclopropane fatty acid synthase (Phosphatidylethanolamine, n-C18:0)",Fatty acid metabolism,b1661,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1661,0.0,1,1,1,1
+CFAS180G,"Cyclopropane fatty acid synthase (Phosphatidylglycerol, n-C18:0)",Fatty acid metabolism,b1661,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1661,0.0,1,1,1,1
+CHOLATEtpp,Cholate transport via proton antiport,Transport / Ion channels,b4337,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4337,0.0,1,1,1,1
+CITt7pp,Citrate transport via succinate antiport (periplasm),Transport / Ion channels,b0612,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0612,0.0,1,1,1,1
+CPL,Carbon-phosphorous lyase,Amino acid catabolism,b4098,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4098,0.0,1,1,1,1
+CRNBTCT,Gamma-butyrobetainyl-CoA: carnitine CoA transferase,Other metabolism,b0038,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0038,0.0,1,1,1,1
+CRNCAL2,Carnitine-CoA Ligase,Other metabolism,b0037,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0037,0.0,1,1,1,1
+CRNCAR,Carnitine-CoA racemase,Other metabolism,b0036,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0036,0.0,1,1,1,1
+CRNCBCT,Crotonobetainyl-CoA: carnitine CoA transferase,Other metabolism,b0038,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0038,0.0,1,1,1,1
+CRNCDH,Carnityl-CoA dehydratse,Other metabolism,b0036,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0036,0.0,1,1,1,1
+CRNDCAL2,D-Carnitine-CoA Ligase,Other metabolism,b0037,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0037,0.0,1,1,1,1
+CRNDt2rpp,D-carnitine outward transport (H+ antiport),Transport / Ion channels,b4111,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4111,0.0,1,1,1,1
+CRNt2rpp,L-carnitine outward transport (H+ antiport),Transport / Ion channels,b4111,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4111,0.0,1,1,1,1
+CRNt7pp,Carnitine/butyrobetaine antiporter (periplasm),Transport / Ion channels,b0040,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0040,0.0,1,1,1,1
+CRNt8pp,L-carnitine/D-carnitine antiporter (periplasm),Transport / Ion channels,b0040,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0040,0.0,1,1,1,1
+CTBTCAL2,Crotonobetaine-CoA Ligase,TCA cycle,b0037,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0037,0.0,1,1,1,1
+CTBTt2rpp,Cronobetaine outward transport (H+ antiport),Transport / Ion channels,b4111,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4111,0.0,1,1,1,1
+CYNTAH,Cyanate aminohydrolase,Other metabolism,b0340,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0340,0.0,1,1,1,1
+CYNTt2pp,Cyanate transport via proton symport (periplasm),Transport / Ion channels,b0341,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0341,0.0,1,1,1,1
+CYSDDS,D-cysteine desulfhydrase,Amino acid biosynthesis,b1919,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1919,0.0,1,1,1,1
+CYTD,Cytidine deaminase,Amino acid catabolism,b2143,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2143,0.0,1,1,1,1
+CYTDt2pp_copy2,Cytidine transport in via proton symport (periplasm),Transport / Ion channels,b2406,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2406,0.0,1,1,1,1
+DAAD,D-Amino acid dehydrogenase,Other metabolism,b1189,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1189,0.0,1,1,1,1
+DADA,Deoxyadenosine deaminase,Amino acid catabolism,b1623,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1623,0.0,1,1,1,1
+DC6PDA,Chito-oligosaccharide mono-deacetylase,Other metabolism,b1733,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1733,0.0,1,1,1,1
+DCYTD,Deoxycytidine deaminase,Amino acid catabolism,b2143,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2143,0.0,1,1,1,1
+DDCAtexi,Fatty acid (dodecanoate) transport via facilitated irreversible diffusion (extracellular to periplasm),Transport / Ion channels,b2344,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2344,0.0,1,1,1,1
+DDGALK,2-dehydro-3-deoxygalactonokinase,Other metabolism,b3693,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3693,0.0,1,1,1,1
+DDGLCNt2rpp,"2-dehydro-3-deoxy-D-gluconate transport via proton symport, reversible (periplasm)",Transport / Ion channels,b3909,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3909,0.0,1,1,1,1
+DDGLK,2-dehydro-3-deoxygluconokinase,Other metabolism,b3526,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3526,0.0,1,1,1,1
+DDPGALA,2-dehydro-3-deoxy-6-phosphogalactonate aldolase,Sugar catabolism,b4477,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4477,0.0,1,1,1,1
+DHBD,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase",Other metabolism,b0596,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0596,0.0,1,1,1,1
+DHBS,"2,3-dihydroxybenzoate adenylate synthase",Other metabolism,b0594,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0594,0.0,1,1,1,1
+DHCIND,"2,3-dihydroxycinnamate dehydrogenase",Other metabolism,b2541,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2541,0.0,1,1,1,1
+DHCINDO,"2,3-dihydroxycinnamate 1,2-dioxygenase",Other metabolism,b0348,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0348,0.0,1,1,1,1
+DHPPD,"2,3-dihydroxyphenylpropionate dehydrogenase",Other metabolism,b2541,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2541,0.0,1,1,1,1
+DMQMT,3-Dimethylubiquinonol 3-methyltransferase,Other metabolism,b2232,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2232,-0.0,1,1,1,1
+DOGULNR,"2,3 dioxo-L-gulonate reductase",Oxidative phosphorylation,b3575,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3575,0.0,1,1,1,1
+DRPA,Deoxyribose-phosphate aldolase,Nucleotide metabolism,b4381,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4381,0.0,1,1,1,1
+DSBGGT,DsbG:glutathione thiotransferase,Oxidative stress response,b0604,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0604,0.0,1,1,1,1
+DXYLK,1-Deoxy-D-xylulose kinase,Other metabolism,b3564,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3564,0.0,1,1,1,1
+EDD,6-phosphogluconate dehydratase,Sugar catabolism,b1851,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1851,0.0,1,1,1,1
+ENTCS,Enterochelin synthase,Other metabolism,b0583,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0583,0.0,1,1,1,1
+ENTERES,Enterochelin Esterase,Other metabolism,b0585,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0585,0.0,1,1,1,1
+F6Pt6_2pp,Fructose-6-phosphate transport via phosphate antiport (periplasm),Transport / Ion channels,b3666,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3666,0.0,1,1,1,1
+FCI,L-fucose isomerase,Sugar catabolism,b2802,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2802,0.0,1,1,1,1
+FCLK,L-fuculokinase,Other metabolism,b2803,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2803,0.0,1,1,1,1
+FDMO,FMNH2-dependent monooxygenase,Other metabolism,b0935,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0935,0.0,1,1,1,1
+FDMO2,FMNH2-dependent monooxygenase (methanesulfonate),Other metabolism,b0935,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0935,0.0,1,1,1,1
+FDMO3,FMNH2-dependent monooxygenase (ethanesulfonate),Other metabolism,b0935,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0935,0.0,1,1,1,1
+FDMO4,FMNH2-dependent monooxygenase (butanesulfonate),Other metabolism,b0935,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0935,0.0,1,1,1,1
+FDMO6,FMNH2-dependent monooxygenase (sulfoacetate),Glyoxylate / Acetate,b0935,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0935,0.0,1,1,1,1
+FE2t2pp,Iron (II) transport in via proton symport (periplasm),Transport / Ion channels,b2392,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2392,0.0,1,1,1,1
+FE3DCITR5,Ferric-dicitrate reductase via nadph,Oxidative phosphorylation,b3070,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3070,0.0,1,1,1,1
+FE3DHBZS3R,"Fe(III)-(2,3-dihydroxybenzoylserine)3 reductase via NADPH",Oxidative phosphorylation,b3070,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3070,0.0,1,1,1,1
+FEENTERES,Enterochelin Esterase (Fe containing),Other metabolism,b0585,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0585,0.0,1,1,1,1
+FEENTERR4,Fe-enterobactin reduction via nadph,Iron acquisition,b3070,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3070,0.0,1,1,1,1
+FEOXAMR1,Ferroxamine reductase,Oxidative phosphorylation,b4367,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4367,0.0,1,1,1,1
+FEOXAMR2,Ferroxamine reductase,Oxidative phosphorylation,b4367,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4367,0.0,1,1,1,1
+FEOXAMR3,Ferroxamine reductase,Oxidative phosphorylation,b4367,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4367,0.0,1,1,1,1
+FESR,Iron-sulfur cluster repair,Iron acquisition,b4209,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4209,0.0,1,1,1,1
+FOMETRi,Aminomethyltransferase,Other metabolism,b2912,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2912,0.0,1,1,1,1
+FORCT,Formyl-CoA Transferase,Other metabolism,b2374,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2374,0.0,1,1,1,1
+FRUK,Fructose-1-phosphate kinase,Inorganic ion metabolism,b2168,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2168,0.0,1,1,1,1
+FRULYSDG,Fructoselysine phosphate deglycase,Amino acid biosynthesis,b3371,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3371,0.0,1,1,1,1
+FRULYSE,Fructoselysine 3-epimerase,Amino acid biosynthesis,b4474,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4474,0.0,1,1,1,1
+FRULYSK,Fructoselysine Kinase,Amino acid biosynthesis,b3374,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3374,0.0,1,1,1,1
+FRULYSt2pp,Fructoselysine transport via proton symport (periplasm),Transport / Ion channels,b3370,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3370,0.0,1,1,1,1
+FRUURt2rpp,"D-fructuronate transport via proton symport, reversible (periplasm)",Transport / Ion channels,b4321,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4321,0.0,1,1,1,1
+FUCtpp,L-fucose transport via proton symport (periplasm),Transport / Ion channels,b2801,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2801,0.0,1,1,1,1
+FUMt2_2pp,Fumarate transport via proton symport (2 H) (periplasm),Transport / Ion channels,b3528,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3528,0.0,1,1,1,1
+G6PDA,Glucosamine-6-phosphate deaminase,Amino acid catabolism,b0678,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0678,0.0,1,1,1,1
+G6Pt6_2pp,Glucose-6-phosphate transport via phosphate antiport (periplasm),Transport / Ion channels,b3666,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3666,0.0,1,1,1,1
+GALCTD,Galactarate dehydratase,Other metabolism,b3128,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3128,0.0,1,1,1,1
+GALCTLO,L-galactonate oxidoreductase,Oxidative phosphorylation,b4358,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4358,0.0,1,1,1,1
+GALCTND,Galactonate dehydratase,Sugar catabolism,b4478,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4478,0.0,1,1,1,1
+GALCTNt2pp,D-galactonate transport via proton symport (periplasm),Transport / Ion channels,b3691,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3691,0.0,1,1,1,1
+GALKr,Galactokinase,Other metabolism,b0757,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0757,0.0,1,1,1,1
+GALM2pp,Aldose-1-epimerase,Other metabolism,b0756,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0756,0.0,1,1,1,1
+GALS3,A-galactosidase (melibiose),Other metabolism,b4119,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4119,0.0,1,1,1,1
+GAM6Pt6_2pp,D-Glucosamine 6-phosphate transport via phosphate antiport (periplasm),Transport / Ion channels,b3666,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3666,0.0,1,1,1,1
+GGGABAH,Gamma-glutamyl-gamma-aminobutyric acid hydrolase,Other metabolism,b1298,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1298,0.0,1,1,1,1
+GGPTRCO,Gamma glutamyl putrescine oxidase,Oxidative phosphorylation,b1301,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1301,0.0,1,1,1,1
+GHBDHx,Gamma-hydroxybutyrate dehydrogenase (NADH),Other metabolism,b3882,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3882,0.0,1,1,1,1
+GLCRAL,5-dehydro-4-deoxyglucarate aldolase,Other metabolism,b3126,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3126,0.0,1,1,1,1
+GLCtex_copy1,Glucose transport via diffusion (extracellular to periplasm),Transport / Ion channels,b4036,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4036,10.0,1,1,1,1
+GLTPD,Galactitol-1-phosphate dehydrogenase,Inorganic ion metabolism,b2091,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2091,0.0,1,1,1,1
+GLUNpp,Glutaminase,Other metabolism,b2957,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2957,0.0,1,1,1,1
+GLUt4pp,Na+/glutamate symport (periplasm),Transport / Ion channels,b3653,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3653,0.0,1,1,1,1
+GLYAT,Glycine C-acetyltransferase,Amino acid biosynthesis,b3617,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3617,0.0,1,1,1,1
+GLYC3Pt6pp,Glycerol-3-phosphate : phosphate antiporter (periplasm),Transport / Ion channels,b2240,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2240,0.0,1,1,1,1
+GLYCK2,Glycerate kinase,Other metabolism,b3124,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3124,0.0,1,1,1,1
+GLYCLTt4pp,Glycolate transport via sodium symport (periplasm),Transport / Ion channels,b4067,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4067,0.0,1,1,1,1
+GLYK,Glycerol kinase,Other metabolism,b3926,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3926,0.0,1,1,1,1
+GLYOX3,Glyoxalase III,Other metabolism,b1967,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1967,0.0,1,1,1,1
+GPDDA1,Glycerophosphodiester phosphodiesterase (Glycerophosphocholine),Other metabolism,b3449,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3449,0.0,1,1,1,1
+GPDDA1pp,Glycerophosphodiester phosphodiesterase (Glycerophosphocholine),Other metabolism,b2239,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2239,0.0,1,1,1,1
+GPDDA2,Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine),Other metabolism,b3449,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3449,0.0,1,1,1,1
+GPDDA2pp,Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine),Other metabolism,b2239,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2239,0.0,1,1,1,1
+GPDDA3,Glycerophosphodiester phosphodiesterase (Glycerophosphoserine),Amino acid biosynthesis,b3449,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3449,0.0,1,1,1,1
+GPDDA3pp,Glycerophosphodiester phosphodiesterase (Glycerophosphoserine),Amino acid biosynthesis,b2239,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2239,0.0,1,1,1,1
+GPDDA4,Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol),Other metabolism,b3449,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3449,0.0,1,1,1,1
+GPDDA4pp,Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol),Other metabolism,b2239,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2239,0.0,1,1,1,1
+GPDDA5,Glycerophosphodiester phosphodiesterase (Glycerophosphoinositol),Other metabolism,b3449,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3449,0.0,1,1,1,1
+GPDDA5pp,Glycerophosphodiester phosphodiesterase (Glycerophosphoinositol),Other metabolism,b2239,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2239,0.0,1,1,1,1
+GTHOr,Glutathione oxidoreductase,Oxidative phosphorylation,b3500,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3500,0.0,1,1,1,1
+GTPDPK,GTP diphosphokinase,Other metabolism,b2784,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2784,0.0,1,1,1,1
+HDCAtexi,Hexadecanoate transport via facilitated irreversible diffusion (extracellular to periplasm),Transport / Ion channels,b2344,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2344,0.0,1,1,1,1
+HDCEAtexi,Hexadecenoate transport via facilitated irreversible diffusion (extracellular to periplasm),Transport / Ion channels,b2344,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2344,0.0,1,1,1,1
+HEXt2rpp,"Hexanoate transport via proton symport, reversible (periplasm)",Transport / Ion channels,b2223,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2223,0.0,1,1,1,1
+HKNDDH,"2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase",Other metabolism,b0349,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0349,0.0,1,1,1,1
+HKNTDH,2-hydroxy-6-ketononotrienedioate hydrolase,Other metabolism,b0349,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0349,0.0,1,1,1,1
+HOPNTAL,4-hydroxy-2-oxopentanoate aldolase,Other metabolism,b0352,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0352,0.0,1,1,1,1
+HPPPNDO,"2,3-dihydroxypheylpropionate 1,2-dioxygenase",Other metabolism,b0348,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0348,0.0,1,1,1,1
+I4FE4SR,ISC [4Fe-4S] Reduction,Other metabolism,b2529,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2529,0.00018,1,1,1,1
+ICHORS_copy1,Isochorismate synthase,Other metabolism,b0593,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0593,0.0,1,1,1,1
+ICHORT,Isochorismatase,Other metabolism,b0595,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0595,0.0,1,1,1,1
+ICL,Isocitrate lyase,Amino acid catabolism,b4015,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4015,0.0,1,1,1,1
+IDOND,L-idonate 5-dehydrogenase,Other metabolism,b4267,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4267,0.0,1,1,1,1
+IDOND2,L-indonate 5-dehydrogenase (NADP),Other metabolism,b4267,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4267,0.0,1,1,1,1
+IDONt2rpp,"L-idonate transport via proton symport, reversible (periplasm)",Transport / Ion channels,b4265,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4265,0.0,1,1,1,1
+LA4NTpp,"4-amino-4-deoxy-L-arabinotransferase (LPS lipid A modification, periplasmic face of membrane))",Transport / Ion channels,b2257,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2257,0.0,1,1,1,1
+LACZ,B-galactosidase,Other metabolism,b0344,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0344,0.0,1,1,1,1
+LADGMDH,L-alanyl-gamma-D-glutamyl-meso-diaminopimelate hydrolase,Other metabolism,b1326,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1326,0.0,1,1,1,1
+LALGP,L-alanyl-gamma-L-glutamate peptidase,Other metabolism,b0237,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0237,0.0,1,1,1,1
+LCARS,"Lacaldehyde reductase (S-propane-1,2-diol forming)",Oxidative phosphorylation,b2799,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2799,0.0,1,1,1,1
+LCTStpp,Lactose transport via proton symport (periplasm),Transport / Ion channels,b0343,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0343,0.0,1,1,1,1
+LDGUNPD,Linear diguanylate phosphodiesterase,Nucleotide metabolism,b1285,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1285,0.0,1,1,1,1
+LYXI,Lyxose isomerase,Other metabolism,b3903,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3903,0.0,1,1,1,1
+LYXt2pp,L-Lyxose transport via proton symport (periplasm),Transport / Ion channels,b3907,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3907,0.0,1,1,1,1
+M1PD,Mannitol-1-phosphate 5-dehydrogenase,Sugar catabolism,b3600,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3600,0.0,1,1,1,1
+MALDt2_2pp,D-Malate transport via proton symport (2 H) (periplasm),Transport / Ion channels,b3528,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3528,0.0,1,1,1,1
+MALTHXtexi,Maltohexaose transport via diffusion (extracellular to periplasm) irreversible,Transport / Ion channels,b4036,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4036,0.0,1,1,1,1
+MALTPTtexi,MaltopentaoseMaltotriose transport via diffusion (extracellular to periplasm) irreversible,Transport / Ion channels,b4036,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4036,0.0,1,1,1,1
+MALTTRtexi,Maltotriose transport via diffusion (extracellular to periplasm) irreversible,Transport / Ion channels,b4036,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4036,0.0,1,1,1,1
+MALTTTRtexi,MaltotetraoseMaltotriose transport via diffusion (extracellular to periplasm) irreversible,Transport / Ion channels,b4036,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4036,0.0,1,1,1,1
+MALTtexi,MaltoseMaltotriose transport via diffusion (extracellular to periplasm) irreversible,Transport / Ion channels,b4036,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4036,0.0,1,1,1,1
+MALt2_2pp,Malate transport via proton symport (2 H) (periplasm),Transport / Ion channels,b3528,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3528,0.0,1,1,1,1
+MAN6Pt6_2pp,Mannose-6-phosphate transport via phosphate antiport (periplasm),Transport / Ion channels,b3666,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3666,0.0,1,1,1,1
+MANAO,Mannonate oxidoreductase,Oxidative phosphorylation,b4323,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4323,0.0,1,1,1,1
+MANPGH,2-O-alpha-mannosyl-6-phosphate-D-glycerate hydrolase,Inorganic ion metabolism,b0732,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0732,0.0,1,1,1,1
+MC6PH,Monoacetylchitobiose-6-phosphate hydrolase,Inorganic ion metabolism,b1734,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1734,0.0,1,1,1,1
+MCITD,2-methylcitrate dehydratase,TCA cycle,b0334,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0334,0.0,1,1,1,1
+MCITL2,Methylisocitrate lyase,Amino acid catabolism,b0331,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0331,0.0,1,1,1,1
+MCITS,2-methylcitrate synthase,TCA cycle,b0333,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0333,0.0,1,1,1,1
+MG2uabcpp,"Magnesium (Mg+2) ABC transporter (ubtake, periplasm)",Transport / Ion channels,b4242,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4242,0.0,1,1,1,1
+MLTG1,Maltodextrin glucosidase (maltotriose),Other metabolism,b0403,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0403,0.0,1,1,1,1
+MLTG2,Maltodextrin glucosidase (maltotetraose),Other metabolism,b0403,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0403,0.0,1,1,1,1
+MLTG3,Maltodextrin glucosidase (maltopentaose),Other metabolism,b0403,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0403,0.0,1,1,1,1
+MLTG4,Maltodextrin glucosidase (maltohexaose),Other metabolism,b0403,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0403,0.0,1,1,1,1
+MLTG5,Maltodextrin glucosidase (maltoheptaose),Glyoxylate / Acetate,b0403,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0403,0.0,1,1,1,1
+MLTP1,Maltodextrin phosphorylase (maltopentaose),Other metabolism,b3417,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3417,0.0,1,1,1,1
+MLTP2,Maltodextrin phosphorylase (maltohexaose),Other metabolism,b3417,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3417,0.0,1,1,1,1
+MLTP3,Maltodextrin phosphorylase (maltoheptaose),Glyoxylate / Acetate,b3417,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3417,0.0,1,1,1,1
+MNNH,D-mannonate hydrolyase,Amino acid catabolism,b4322,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4322,0.0,1,1,1,1
+MNt2pp,Manganese (Mn+2) transport in via proton symport (periplasm),Transport / Ion channels,b2392,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2392,0.0,1,1,1,1
+MOCOS,Molybdenum cofactor synthase,Other metabolism,b0827,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0827,0.0,1,1,1,1
+MPTSS,Molybdopterin synthase sulfurylase,Cofactor biosynthesis,b0826,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0826,0.0,1,1,1,1
+NAMNPP,Nicotinic acid mononucleotide pyrophosphorylase,Nucleotide metabolism,b0931,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0931,0.0,1,1,1,1
+NAt3_2pp,Sodium proton antiporter (H:NA is 2) (periplasm),Transport / Ion channels,b0019,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0019,0.0,1,1,1,1
+NNDMBRT,Nicotinate-nucleotide dimethylbenzimidazole phosphoribosyltransferase,Nucleotide metabolism,b1991,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1991,0.0,1,1,1,1
+NTP3pp,Nucleoside-triphosphatase (GTP) (periplasm),Nucleotide metabolism,b0980,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0980,0.0,1,1,1,1
+NTP5,Nucleoside-triphosphatase (CTP),Nucleotide metabolism,b4161,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4161,0.0,1,1,1,1
+OCDCAtexi,Octadecanoate transport via facilitated irreversible diffusion (extracellular to periplasm),Transport / Ion channels,b2344,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2344,0.0,1,1,1,1
+OCDCEAtexi,Octadecenoate (n-C18:1) transport via facilitated irreversible diffusion (extracellular to periplasm),Transport / Ion channels,b2344,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2344,0.0,1,1,1,1
+OHPHM,2-octaprenyl-6-hydroxyphenol methylase,Other metabolism,b2232,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2232,-0.0,1,1,1,1
+OP4ENH,2-oxopent-4-enoate hydratase,Other metabolism,b0350,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0350,0.0,1,1,1,1
+OROTt2_2pp,Orotate transport via proton symport (2 H) (periplasm),Transport / Ion channels,b3528,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3528,0.0,1,1,1,1
+OXCDC,Oxalyl-CoA decarboxylase,Amino acid catabolism,b2373,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2373,0.0,1,1,1,1
+P5CD,1-pyrroline-5-carboxylate dehydrogenase,Other metabolism,b1014,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1014,0.0,1,1,1,1
+PAI2T,"3-hydroxy-2,4-pentadione 5-phosphate thiolase",Inorganic ion metabolism,b1517,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1517,0.00031,1,1,1,1
+PEAMNOpp,Phenethylamine oxidase,Oxidative phosphorylation,b1386,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1386,0.0,1,1,1,1
+PHYTSpp,Phytase (periplasm),Other metabolism,b0980,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0980,0.0,1,1,1,1
+POAACR,Peroxyaminoacrylate reductase,Oxidative phosphorylation,b1010,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1010,0.0,1,1,1,1
+POX,Pyruvate oxidase,Oxidative phosphorylation,b0871,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0871,0.0,1,1,1,1
+PPAt4pp,Na+/Propionate symporter (periplasm),Transport / Ion channels,b1015,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1015,0.0,1,1,1,1
+PPM,Phosphopentomutase,Other metabolism,b4383,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4383,-0.64617,1,1,1,1
+PPM2,Phosphopentomutase 2 (deoxyribose),Nucleotide metabolism,b4383,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4383,0.0,1,1,1,1
+PPTHpp,Phosphonate hydrogenase (periplasm),Other metabolism,b0383,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0383,0.0,1,1,1,1
+PRCPD,"5-phospho-?-D-ribosyl 1,2-cyclic phosphate phosphodiesterase",Inorganic ion metabolism,b4092,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4092,0.0,1,1,1,1
+PROD3,Proline dehydrogenase (q8),Amino acid biosynthesis,b1014,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1014,0.0,1,1,1,1
+PROt4pp,Na+/Proline-L symporter (periplasm),Transport / Ion channels,b1015,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1015,0.0036,1,1,1,1
+PSCLYSt2pp,Psicoselysine transport via proton symport (periplasm),Transport / Ion channels,b3370,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3370,0.0,1,1,1,1
+PSURIK,Pseudouridine kinase,Nucleotide metabolism,b2166,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2166,0.0,1,1,1,1
+PUNP1,Purine-nucleoside phosphorylase (Adenosine),Nucleotide metabolism,b4384,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4384,-0.00047,1,1,1,1
+PUNP2,Purine-nucleoside phosphorylase (Deoxyadenosine),Nucleotide metabolism,b4384,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4384,0.0,1,1,1,1
+PUNP7,Purine-nucleoside phosphorylase (Xanthosine),Nucleotide metabolism,b2407,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2407,0.0,1,1,1,1
+R15BPK,"Ribose-1,5-bisphosphokinase",Other metabolism,b4094,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4094,0.64571,1,1,1,1
+RBK,Ribokinase,Other metabolism,b3752,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3752,0.0,1,1,1,1
+RBK_L1,L-ribulokinase (L-ribulose),Other metabolism,b0063,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0063,0.0,1,1,1,1
+RMI,L-rhamnose isomerase,Sugar catabolism,b3903,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3903,0.0,1,1,1,1
+RMK,Rhamnulokinase,Other metabolism,b3904,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3904,0.0,1,1,1,1
+RMNtpp,L-rhamnose transport via proton symport (periplasm),Transport / Ion channels,b3907,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3907,0.0,1,1,1,1
+RMPA,Rhamnulose-1-phosphate aldolase,Inorganic ion metabolism,b3902,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3902,0.0,1,1,1,1
+RPNTPH,RPnTP hydrolase,Other metabolism,b4095,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4095,0.0,1,1,1,1
+RU5PP,Ribulose-5-Phosphate Phosphatase,Inorganic ion metabolism,b2293,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2293,0.0,1,1,1,1
+SADH,Succinylarginine dihydrolase,Amino acid biosynthesis,b1745,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1745,0.0,1,1,1,1
+SBTPD,Sorbitol-6-phosphate dehydrogenase,Sugar catabolism,b2705,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2705,0.0,1,1,1,1
+SERD_D,D-serine deaminase,Amino acid biosynthesis,b2366,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2366,0.0,1,1,1,1
+SERtpp,L-serine export via facilitated transport,Transport / Ion channels,b1533,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1533,0.0,1,1,1,1
+SGDS,Succinylglutamate desuccinylase,Other metabolism,b1744,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1744,0.0,1,1,1,1
+SGSAD,Succinylglutamic semialdehyde dehydrogenase,Other metabolism,b1746,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1746,0.0,1,1,1,1
+SHGO,S-2-hydroxyglutarate oxidase,Oxidative phosphorylation,b2660,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2660,0.0,1,1,1,1
+SKMt2pp,Shikimate transport in via proton symport (periplasm),Transport / Ion channels,b1981,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1981,0.0,1,1,1,1
+SOTA,Succinylornithine transaminase,Other metabolism,b1748,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1748,0.0,1,1,1,1
+SPODMpp,Superoxide dismutase,Oxidative stress response,b1646,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1646,0.0,1,1,1,1
+SQVOSI,Sulfoquinovose isomerase,Other metabolism,b3880,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3880,0.0,1,1,1,1
+SUCTARTtpp,Succinate:D-tartrate antiporter (periplasm),Transport / Ion channels,b4123,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4123,0.0,1,1,1,1
+TARTt2_3pp,D-tartrate transport via proton symport (3 H) (periplasm),Transport / Ion channels,b4123,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4123,0.0,1,1,1,1
+TAUDO,Taurine dioxygenase,Other metabolism,b0368,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0368,0.0,1,1,1,1
+THMDt2pp_copy2,Thymidine transport in via proton symport (periplasm),Transport / Ion channels,b2406,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2406,0.0,1,1,1,1
+TMDPP,Thymidine phosphorylase,Other metabolism,b4382,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4382,0.0,1,1,1,1
+TPRDCOAS,Triphosphoribosyl-dephospho-CoA synthase,Transport / Ion channels,b0613,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0613,0.0,1,1,1,1
+TRE6PH,Trehalose-6-phosphate hydrolase,Inorganic ion metabolism,b4239,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4239,0.0,1,1,1,1
+TRE6PP,Trehalose-phosphatase,Other metabolism,b1897,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1897,0.0,1,1,1,1
+TRE6PS,"Alpha,alpha-trehalose-phosphate synthase (UDP-forming)",Inorganic ion metabolism,b1896,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1896,0.0,1,1,1,1
+TREH,"Alpha,alpha-trehalase",Other metabolism,b3519,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3519,0.0,1,1,1,1
+TREHpp,"Alpha,alpha-trehalase (periplasm)",Other metabolism,b1197,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1197,0.0,1,1,1,1
+TRPAS2,Tryptophanase (L-tryptophan),Amino acid biosynthesis,b3708,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3708,-0.03935,1,1,1,1
+TTDCAtexi,Tetradecanoate transport via facilitated irreversible diffusion (extracellular to periplasm),Transport / Ion channels,b2344,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2344,0.0,1,1,1,1
+TTDCEAtexi,Tetradecenoate transport via facilitated irreversible diffusion (extracellular to periplasm),Transport / Ion channels,b2344,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2344,0.0,1,1,1,1
+TYROXDApp,Tyramine:oxygen oxidoreductase(deaminating)(flavin-containing) (periplasm),Oxidative phosphorylation,b1386,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1386,0.0,1,1,1,1
+UDPG4E,UDPglucose 4-epimerase,Other metabolism,b0759,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0759,0.0,1,1,1,1
+UDPGDC,UDP-glucuronate C-4'' decarboxylase,Amino acid catabolism,b2255,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2255,0.0,1,1,1,1
+UDPKAAT,UDP-4''-ketopentose:UDP-4-amino-4-deoxy-L-arabinose aminotransferase,Amino acid biosynthesis,b2253,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2253,0.0,1,1,1,1
+UGLT,UDPglucose--hexose-1-phosphate uridylyltransferase,Inorganic ion metabolism,b0758,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0758,0.0,1,1,1,1
+ULA4NFT,UDP-L-Ara4N formyltransferase,Other metabolism,b2255,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2255,0.0,1,1,1,1
+UPLA4FNF,Undecaprenyl phosphate-L-Ara4FN formylase,Inorganic ion metabolism,b2256,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2256,0.0,1,1,1,1
+UPLA4FNT,Undecaprenyl phosphate-L-Ara4FN transferase,Inorganic ion metabolism,b2254,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2254,0.0,1,1,1,1
+URACPAH,Peroxyureidoacrylate hydrolase,Other metabolism,b1011,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b1011,0.0,1,1,1,1
+URIt2pp_copy2,Uridine transport in via proton symport (periplasm),Transport / Ion channels,b2406,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2406,0.0,1,1,1,1
+WCOS,Tungsten pterin cofactor synthase,Other metabolism,b0827,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b0827,0.0,1,1,1,1
+XTSNt2rpp,Xanthosine transport via proton symport (periplasm),Transport / Ion channels,b2406,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2406,0.0,1,1,1,1
+XYLI1,Xylose isomerase,Sugar catabolism,b3565,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3565,0.0,1,1,1,1
+XYLI2,Xylose isomerase,Sugar catabolism,b3565,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b3565,0.0,1,1,1,1
+XYLt2pp,D-xylose transport in via proton symport (periplasm),Transport / Ion channels,b4031,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b4031,0.0,1,1,1,1
+YUMPS,YUMP synthetase,Other metabolism,b2165,4,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose; anaerobic_glucose,b2165,0.0,1,1,1,1
+ACS,Acetyl-CoA synthetase,Glyoxylate / Acetate,b4069,3,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose,b4069,0.0,1,0,1,1
+ASPT,L-aspartase,Amino acid catabolism,b4139,3,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose,b4139,0.0,1,0,1,1
+CADVtpp,Lysine/Cadaverine antiporter (periplasm),Transport / Ion channels,b4132,3,aerobic_glucose; aerobic_glucose_acetate; aerobic_glucose_lactose,b4132,0.0,1,0,1,1
+ACOAD1f,Acyl-CoA dehydrogenase (butanoyl-CoA),Fatty acid metabolism,b0221,1,anaerobic_glucose,b0221,0.0,0,1,0,0
+ACOAD2f,Acyl-CoA dehydrogenase (hexanoyl-CoA),Fatty acid metabolism,b0221,1,anaerobic_glucose,b0221,-0.05607,0,1,0,0
+ACOAD3f,Acyl-CoA dehydrogenase (octanoyl-CoA),Fatty acid metabolism,b0221,1,anaerobic_glucose,b0221,-0.05607,0,1,0,0
+ACOAD4f,Acyl-CoA dehydrogenase (decanoyl-CoA),Fatty acid metabolism,b0221,1,anaerobic_glucose,b0221,-0.05607,0,1,0,0
+ACOAD5f,Acyl-CoA dehydrogenase (dodecanoyl-CoA),Fatty acid metabolism,b0221,1,anaerobic_glucose,b0221,-0.05607,0,1,0,0
+ACOAD6f,Acyl-CoA dehydrogenase (tetradecanoyl-CoA),Fatty acid metabolism,b0221,1,anaerobic_glucose,b0221,-0.0438,0,1,0,0
+ACOAD7f,Acyl-CoA dehydrogenase (hexadecanoyl-CoA),Fatty acid metabolism,b0221,1,anaerobic_glucose,b0221,-0.02011,0,1,0,0
+ACOAD8f,Acyl-CoA dehydrogenase (octadecanoyl-CoA),Fatty acid metabolism,b0221,1,anaerobic_glucose,b0221,0.0,0,1,0,0
+BETALDHx,Betaine-aldehyde dehydrogenase,Other metabolism,b0312,1,anaerobic_glucose,b0312,0.0,0,1,0,0
+BETALDHy,Betaine-aldehyde dehydrogenase,Other metabolism,b0312,1,anaerobic_glucose,b0312,0.0,0,1,0,0
+CTECOAI6,3-cis-2-trans-enoyl-CoA isomerase,Fatty acid metabolism,b3846,1,anaerobic_glucose,b3846,0.0,0,1,0,0
+CTECOAI7,3-cis-2-trans-enoyl-CoA isomerase,Fatty acid metabolism,b3846,1,anaerobic_glucose,b3846,-0.0237,0,1,0,0
+CTECOAI8,3-cis-2-trans-enoyl-CoA isomerase,Fatty acid metabolism,b3846,1,anaerobic_glucose,b3846,0.0,0,1,0,0
+HEMEOS,Heme O synthase,Cofactor biosynthesis,b0428,1,anaerobic_glucose,b0428,0.0,0,1,0,0
+MDH,Malate dehydrogenase,TCA cycle,b3236,1,anaerobic_glucose,b3236,0.11172,0,1,0,0
+MDH2,Malate dehydrogenase (ubiquinone 8 as acceptor),Cofactor biosynthesis,b2210,1,anaerobic_glucose,b2210,0.0,0,1,0,0
+MDH3,Malate dehydrogenase (menaquinone 8 as acceptor),Cofactor biosynthesis,b2210,1,anaerobic_glucose,b2210,0.0,0,1,0,0
+NODOx,Nitric oxide dioxygenase,Other metabolism,b2552,1,anaerobic_glucose,b2552,0.0,0,1,0,0
+NODOy,Nitric oxide dioxygenase,Other metabolism,b2552,1,anaerobic_glucose,b2552,0.0,0,1,0,0
+PETNT161pp,Phosphoethanolamine transferase (c-C16:1),Other metabolism,b3546,1,anaerobic_glucose,b3546,0.0,0,1,0,0
+PETNT181pp,Phosphoethanolamine transferase (c-C16:1),Other metabolism,b3546,1,anaerobic_glucose,b3546,0.0,0,1,0,0

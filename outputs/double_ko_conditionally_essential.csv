@@ -1,0 +1,3824 @@
+substrate,gene1,gene2,gene1_name,gene2_name,ko_type,wt_growth
+Maltotriose,b0388,b3390,aroL,aroK,double,1.3595
+Maltotriose,b0765,b2422,modC,cysA,double,1.3595
+Maltotriose,b0928,b4054,aspC,tyrB,double,1.3595
+Maltotriose,b3117,b3772,tdcB,ilvA,double,1.3595
+Maltotriose,b2508,b2868,guaB,xdhC,double,1.3595
+Maltotriose,b0048,b1606,folA,folM,double,1.3595
+Maltotriose,b1779,b3738,gapA,atpB,double,1.3595
+Maltotriose,b2926,b3732,pgk,atpD,double,1.3595
+Maltotriose,b0764,b2423,modB,cysW,double,1.3595
+Maltotriose,b2414,b2421,cysK,cysM,double,1.3595
+Maltotriose,b1692,b3281,ydiB,aroE,double,1.3595
+Maltotriose,b2926,b3734,pgk,atpA,double,1.3595
+Maltotriose,b0155,b1592,clcA,clcB,double,1.3595
+Maltotriose,b2465,b2935,tktB,tktA,double,1.3595
+Maltotriose,b1779,b3731,gapA,atpC,double,1.3595
+Maltotriose,b0907,b2551,serC,glyA,double,1.3595
+Maltotriose,b1779,b3736,gapA,atpF,double,1.3595
+Maltotriose,b0870,b0907,ltaE,serC,double,1.3595
+Maltotriose,b1779,b3737,gapA,atpE,double,1.3595
+Maltotriose,b1702,b2779,ppsA,eno,double,1.3595
+Maltotriose,b0684,b2895,fldA,fldB,double,1.3595
+Maltotriose,b2926,b3738,pgk,atpB,double,1.3595
+Maltotriose,b0126,b0339,can,cynT,double,1.3595
+Maltotriose,b1779,b3732,gapA,atpD,double,1.3595
+Maltotriose,b0954,b2836,fabA,aas,double,1.3595
+Maltotriose,b0149,b3396,mrcB,mrcA,double,1.3595
+Maltotriose,b0099,b1865,mutT,nudB,double,1.3595
+Maltotriose,b1622,b3008,malY,metC,double,1.3595
+Maltotriose,b2508,b2867,guaB,xdhB,double,1.3595
+Maltotriose,b0032,b0521,carA,ybcF,double,1.3595
+Maltotriose,b1779,b3733,gapA,atpG,double,1.3595
+Maltotriose,b3829,b4019,metE,metH,double,1.3595
+Maltotriose,b2551,b2913,glyA,serA,double,1.3595
+Maltotriose,b0954,b3846,fabA,fadB,double,1.3595
+Maltotriose,b2508,b2866,guaB,xdhA,double,1.3595
+Maltotriose,b2029,b3386,gnd,rpe,double,1.3595
+Maltotriose,b0763,b2422,modA,cysA,double,1.3595
+Maltotriose,b0870,b2551,ltaE,glyA,double,1.3595
+Maltotriose,b0767,b4025,pgl,pgi,double,1.3595
+Maltotriose,b0073,b1800,leuB,dmlA,double,1.3595
+Maltotriose,b0002,b3940,thrA,metL,double,1.3595
+Maltotriose,b0238,b2508,gpt,guaB,double,1.3595
+Maltotriose,b2926,b3735,pgk,atpH,double,1.3595
+Maltotriose,b0077,b3671,ilvI,ilvB,double,1.3595
+Maltotriose,b0171,b0910,pyrH,cmk,double,1.3595
+Maltotriose,b1190,b4053,dadX,alr,double,1.3595
+Maltotriose,b0118,b1276,acnB,acnA,double,1.3595
+Maltotriose,b0764,b2422,modB,cysA,double,1.3595
+Maltotriose,b1852,b3386,zwf,rpe,double,1.3595
+Maltotriose,b0763,b2424,modA,cysU,double,1.3595
+Maltotriose,b1761,b3213,gdhA,gltD,double,1.3595
+Maltotriose,b1702,b1779,ppsA,gapA,double,1.3595
+Maltotriose,b0033,b0521,carB,ybcF,double,1.3595
+Maltotriose,b0092,b0381,ddlB,ddlA,double,1.3595
+Maltotriose,b1096,b4039,pabC,ubiC,double,1.3595
+Maltotriose,b0764,b2424,modB,cysU,double,1.3595
+Maltotriose,b0273,b4254,argF,argI,double,1.3595
+Maltotriose,b0763,b2423,modA,cysW,double,1.3595
+Maltotriose,b2926,b3737,pgk,atpE,double,1.3595
+Maltotriose,b0765,b2423,modC,cysW,double,1.3595
+Maltotriose,b2926,b3736,pgk,atpF,double,1.3595
+Maltotriose,b2926,b3731,pgk,atpC,double,1.3595
+Maltotriose,b1779,b3734,gapA,atpA,double,1.3595
+Maltotriose,b1849,b2500,purT,purN,double,1.3595
+Maltotriose,b2029,b4025,gnd,pgi,double,1.3595
+Maltotriose,b0767,b3386,pgl,rpe,double,1.3595
+Maltotriose,b0078,b3670,ilvH,ilvN,double,1.3595
+Maltotriose,b1702,b2926,ppsA,pgk,double,1.3595
+Maltotriose,b2436,b3867,hemF,hemN,double,1.3595
+Maltotriose,b0077,b3670,ilvI,ilvN,double,1.3595
+Maltotriose,b2235,b4238,nrdB,nrdD,double,1.3595
+Maltotriose,b1090,b4041,plsX,plsB,double,1.3595
+Maltotriose,b1852,b4025,zwf,pgi,double,1.3595
+Maltotriose,b1761,b3212,gdhA,gltB,double,1.3595
+Maltotriose,b2234,b4238,nrdA,nrdD,double,1.3595
+Maltotriose,b1779,b3735,gapA,atpH,double,1.3595
+Maltotriose,b3059,b4041,plsY,plsB,double,1.3595
+Maltotriose,b0674,b3744,asnB,asnA,double,1.3595
+Maltotriose,b0765,b2424,modC,cysU,double,1.3595
+Maltotriose,b0844,b3812,ybjI,yigB,double,1.3595
+Maltotriose,b0078,b3671,ilvH,ilvB,double,1.3595
+Maltotriose,b1378,b3924,pfo,fpr,double,1.3595
+Maltotriose,b0870,b2320,ltaE,pdxB,double,1.3595
+Maltotriose,b2551,b4388,glyA,serB,double,1.3595
+Maltotriose,b2926,b3733,pgk,atpG,double,1.3595
+Maltotriose,b0452,b0954,tesB,fabA,double,1.3595
+Maltotriose,b2708,b3197,srlQ,kdsD,double,1.3595
+Maltotriose,b2582,b3781,trxC,trxA,double,1.3595
+D-Trehalose,b0388,b3390,aroL,aroK,double,1.1071
+D-Trehalose,b0765,b2422,modC,cysA,double,1.1071
+D-Trehalose,b0928,b4054,aspC,tyrB,double,1.1071
+D-Trehalose,b3117,b3772,tdcB,ilvA,double,1.1071
+D-Trehalose,b2508,b2868,guaB,xdhC,double,1.1071
+D-Trehalose,b0048,b1606,folA,folM,double,1.1071
+D-Trehalose,b1779,b3738,gapA,atpB,double,1.1071
+D-Trehalose,b2926,b3732,pgk,atpD,double,1.1071
+D-Trehalose,b0764,b2423,modB,cysW,double,1.1071
+D-Trehalose,b2414,b2421,cysK,cysM,double,1.1071
+D-Trehalose,b0155,b1592,clcA,clcB,double,1.1071
+D-Trehalose,b2926,b3734,pgk,atpA,double,1.1071
+D-Trehalose,b1779,b3731,gapA,atpC,double,1.1071
+D-Trehalose,b2465,b2935,tktB,tktA,double,1.1071
+D-Trehalose,b0907,b2551,serC,glyA,double,1.1071
+D-Trehalose,b1779,b3736,gapA,atpF,double,1.1071
+D-Trehalose,b0870,b0907,ltaE,serC,double,1.1071
+D-Trehalose,b1779,b3737,gapA,atpE,double,1.1071
+D-Trehalose,b1702,b2779,ppsA,eno,double,1.1071
+D-Trehalose,b0126,b0339,can,cynT,double,1.1071
+D-Trehalose,b1779,b3732,gapA,atpD,double,1.1071
+D-Trehalose,b0684,b2895,fldA,fldB,double,1.1071
+D-Trehalose,b2926,b3738,pgk,atpB,double,1.1071
+D-Trehalose,b2708,b3197,srlQ,kdsD,double,1.1071
+D-Trehalose,b0954,b2836,fabA,aas,double,1.1071
+D-Trehalose,b0149,b3396,mrcB,mrcA,double,1.1071
+D-Trehalose,b0099,b1865,mutT,nudB,double,1.1071
+D-Trehalose,b1622,b3008,malY,metC,double,1.1071
+D-Trehalose,b2508,b2867,guaB,xdhB,double,1.1071
+D-Trehalose,b0032,b0521,carA,ybcF,double,1.1071
+D-Trehalose,b1779,b3733,gapA,atpG,double,1.1071
+D-Trehalose,b3829,b4019,metE,metH,double,1.1071
+D-Trehalose,b2551,b2913,glyA,serA,double,1.1071
+D-Trehalose,b0954,b3846,fabA,fadB,double,1.1071
+D-Trehalose,b2508,b2866,guaB,xdhA,double,1.1071
+D-Trehalose,b2029,b3386,gnd,rpe,double,1.1071
+D-Trehalose,b0763,b2422,modA,cysA,double,1.1071
+D-Trehalose,b0870,b2551,ltaE,glyA,double,1.1071
+D-Trehalose,b0767,b4025,pgl,pgi,double,1.1071
+D-Trehalose,b0002,b3940,thrA,metL,double,1.1071
+D-Trehalose,b0238,b2508,gpt,guaB,double,1.1071
+D-Trehalose,b0073,b1800,leuB,dmlA,double,1.1071
+D-Trehalose,b2926,b3735,pgk,atpH,double,1.1071
+D-Trehalose,b0077,b3671,ilvI,ilvB,double,1.1071
+D-Trehalose,b0171,b0910,pyrH,cmk,double,1.1071
+D-Trehalose,b1190,b4053,dadX,alr,double,1.1071
+D-Trehalose,b0118,b1276,acnB,acnA,double,1.1071
+D-Trehalose,b0764,b2422,modB,cysA,double,1.1071
+D-Trehalose,b1852,b3386,zwf,rpe,double,1.1071
+D-Trehalose,b0763,b2424,modA,cysU,double,1.1071
+D-Trehalose,b1702,b1779,ppsA,gapA,double,1.1071
+D-Trehalose,b1761,b3213,gdhA,gltD,double,1.1071
+D-Trehalose,b0033,b0521,carB,ybcF,double,1.1071
+D-Trehalose,b0092,b0381,ddlB,ddlA,double,1.1071
+D-Trehalose,b1096,b4039,pabC,ubiC,double,1.1071
+D-Trehalose,b0764,b2424,modB,cysU,double,1.1071
+D-Trehalose,b0273,b4254,argF,argI,double,1.1071
+D-Trehalose,b0763,b2423,modA,cysW,double,1.1071
+D-Trehalose,b2926,b3737,pgk,atpE,double,1.1071
+D-Trehalose,b0765,b2423,modC,cysW,double,1.1071
+D-Trehalose,b2926,b3736,pgk,atpF,double,1.1071
+D-Trehalose,b2926,b3731,pgk,atpC,double,1.1071
+D-Trehalose,b1779,b3734,gapA,atpA,double,1.1071
+D-Trehalose,b1849,b2500,purT,purN,double,1.1071
+D-Trehalose,b2029,b4025,gnd,pgi,double,1.1071
+D-Trehalose,b0767,b3386,pgl,rpe,double,1.1071
+D-Trehalose,b0078,b3670,ilvH,ilvN,double,1.1071
+D-Trehalose,b1702,b2926,ppsA,pgk,double,1.1071
+D-Trehalose,b2436,b3867,hemF,hemN,double,1.1071
+D-Trehalose,b0077,b3670,ilvI,ilvN,double,1.1071
+D-Trehalose,b2235,b4238,nrdB,nrdD,double,1.1071
+D-Trehalose,b1090,b4041,plsX,plsB,double,1.1071
+D-Trehalose,b1852,b4025,zwf,pgi,double,1.1071
+D-Trehalose,b1761,b3212,gdhA,gltB,double,1.1071
+D-Trehalose,b2234,b4238,nrdA,nrdD,double,1.1071
+D-Trehalose,b1779,b3735,gapA,atpH,double,1.1071
+D-Trehalose,b3059,b4041,plsY,plsB,double,1.1071
+D-Trehalose,b0674,b3744,asnB,asnA,double,1.1071
+D-Trehalose,b0765,b2424,modC,cysU,double,1.1071
+D-Trehalose,b0844,b3812,ybjI,yigB,double,1.1071
+D-Trehalose,b0078,b3671,ilvH,ilvB,double,1.1071
+D-Trehalose,b1378,b3924,pfo,fpr,double,1.1071
+D-Trehalose,b0870,b2320,ltaE,pdxB,double,1.1071
+D-Trehalose,b2926,b3733,pgk,atpG,double,1.1071
+D-Trehalose,b2551,b4388,glyA,serB,double,1.1071
+D-Trehalose,b0452,b0954,tesB,fabA,double,1.1071
+D-Trehalose,b1692,b3281,ydiB,aroE,double,1.1071
+D-Trehalose,b2582,b3781,trxC,trxA,double,1.1071
+Maltose,b0388,b3390,aroL,aroK,double,1.1071
+Maltose,b0765,b2422,modC,cysA,double,1.1071
+Maltose,b0928,b4054,aspC,tyrB,double,1.1071
+Maltose,b3117,b3772,tdcB,ilvA,double,1.1071
+Maltose,b2508,b2868,guaB,xdhC,double,1.1071
+Maltose,b0048,b1606,folA,folM,double,1.1071
+Maltose,b1779,b3738,gapA,atpB,double,1.1071
+Maltose,b2926,b3732,pgk,atpD,double,1.1071
+Maltose,b0764,b2423,modB,cysW,double,1.1071
+Maltose,b2414,b2421,cysK,cysM,double,1.1071
+Maltose,b1692,b3281,ydiB,aroE,double,1.1071
+Maltose,b2926,b3734,pgk,atpA,double,1.1071
+Maltose,b0155,b1592,clcA,clcB,double,1.1071
+Maltose,b2465,b2935,tktB,tktA,double,1.1071
+Maltose,b1779,b3731,gapA,atpC,double,1.1071
+Maltose,b0907,b2551,serC,glyA,double,1.1071
+Maltose,b1779,b3736,gapA,atpF,double,1.1071
+Maltose,b0870,b0907,ltaE,serC,double,1.1071
+Maltose,b1779,b3737,gapA,atpE,double,1.1071
+Maltose,b1702,b2779,ppsA,eno,double,1.1071
+Maltose,b0684,b2895,fldA,fldB,double,1.1071
+Maltose,b2926,b3738,pgk,atpB,double,1.1071
+Maltose,b0126,b0339,can,cynT,double,1.1071
+Maltose,b1779,b3732,gapA,atpD,double,1.1071
+Maltose,b0403,b3417,malZ,malP,double,1.1071
+Maltose,b0954,b2836,fabA,aas,double,1.1071
+Maltose,b0149,b3396,mrcB,mrcA,double,1.1071
+Maltose,b0099,b1865,mutT,nudB,double,1.1071
+Maltose,b1622,b3008,malY,metC,double,1.1071
+Maltose,b2508,b2867,guaB,xdhB,double,1.1071
+Maltose,b0032,b0521,carA,ybcF,double,1.1071
+Maltose,b1779,b3733,gapA,atpG,double,1.1071
+Maltose,b3829,b4019,metE,metH,double,1.1071
+Maltose,b2551,b2913,glyA,serA,double,1.1071
+Maltose,b0954,b3846,fabA,fadB,double,1.1071
+Maltose,b2508,b2866,guaB,xdhA,double,1.1071
+Maltose,b2029,b3386,gnd,rpe,double,1.1071
+Maltose,b0763,b2422,modA,cysA,double,1.1071
+Maltose,b0870,b2551,ltaE,glyA,double,1.1071
+Maltose,b0767,b4025,pgl,pgi,double,1.1071
+Maltose,b0073,b1800,leuB,dmlA,double,1.1071
+Maltose,b0002,b3940,thrA,metL,double,1.1071
+Maltose,b0238,b2508,gpt,guaB,double,1.1071
+Maltose,b2926,b3735,pgk,atpH,double,1.1071
+Maltose,b0077,b3671,ilvI,ilvB,double,1.1071
+Maltose,b0171,b0910,pyrH,cmk,double,1.1071
+Maltose,b1190,b4053,dadX,alr,double,1.1071
+Maltose,b0118,b1276,acnB,acnA,double,1.1071
+Maltose,b0764,b2422,modB,cysA,double,1.1071
+Maltose,b1852,b3386,zwf,rpe,double,1.1071
+Maltose,b0763,b2424,modA,cysU,double,1.1071
+Maltose,b1761,b3213,gdhA,gltD,double,1.1071
+Maltose,b1702,b1779,ppsA,gapA,double,1.1071
+Maltose,b0033,b0521,carB,ybcF,double,1.1071
+Maltose,b0092,b0381,ddlB,ddlA,double,1.1071
+Maltose,b1096,b4039,pabC,ubiC,double,1.1071
+Maltose,b0764,b2424,modB,cysU,double,1.1071
+Maltose,b0273,b4254,argF,argI,double,1.1071
+Maltose,b0763,b2423,modA,cysW,double,1.1071
+Maltose,b2926,b3737,pgk,atpE,double,1.1071
+Maltose,b0765,b2423,modC,cysW,double,1.1071
+Maltose,b2926,b3736,pgk,atpF,double,1.1071
+Maltose,b2926,b3731,pgk,atpC,double,1.1071
+Maltose,b1779,b3734,gapA,atpA,double,1.1071
+Maltose,b1849,b2500,purT,purN,double,1.1071
+Maltose,b2029,b4025,gnd,pgi,double,1.1071
+Maltose,b0767,b3386,pgl,rpe,double,1.1071
+Maltose,b0078,b3670,ilvH,ilvN,double,1.1071
+Maltose,b1702,b2926,ppsA,pgk,double,1.1071
+Maltose,b2436,b3867,hemF,hemN,double,1.1071
+Maltose,b0077,b3670,ilvI,ilvN,double,1.1071
+Maltose,b2235,b4238,nrdB,nrdD,double,1.1071
+Maltose,b1090,b4041,plsX,plsB,double,1.1071
+Maltose,b1852,b4025,zwf,pgi,double,1.1071
+Maltose,b1761,b3212,gdhA,gltB,double,1.1071
+Maltose,b2234,b4238,nrdA,nrdD,double,1.1071
+Maltose,b1779,b3735,gapA,atpH,double,1.1071
+Maltose,b3059,b4041,plsY,plsB,double,1.1071
+Maltose,b0674,b3744,asnB,asnA,double,1.1071
+Maltose,b0765,b2424,modC,cysU,double,1.1071
+Maltose,b0844,b3812,ybjI,yigB,double,1.1071
+Maltose,b0078,b3671,ilvH,ilvB,double,1.1071
+Maltose,b1378,b3924,pfo,fpr,double,1.1071
+Maltose,b0870,b2320,ltaE,pdxB,double,1.1071
+Maltose,b2551,b4388,glyA,serB,double,1.1071
+Maltose,b2926,b3733,pgk,atpG,double,1.1071
+Maltose,b0452,b0954,tesB,fabA,double,1.1071
+Maltose,b2708,b3197,srlQ,kdsD,double,1.1071
+Maltose,b2582,b3781,trxC,trxA,double,1.1071
+Lactose,b0388,b3390,aroL,aroK,double,0.8091
+Lactose,b0765,b2422,modC,cysA,double,0.8091
+Lactose,b0928,b4054,aspC,tyrB,double,0.8091
+Lactose,b3117,b3772,tdcB,ilvA,double,0.8091
+Lactose,b2508,b2868,guaB,xdhC,double,0.8091
+Lactose,b0048,b1606,folA,folM,double,0.8091
+Lactose,b1779,b3738,gapA,atpB,double,0.8091
+Lactose,b2926,b3732,pgk,atpD,double,0.8091
+Lactose,b0764,b2423,modB,cysW,double,0.8091
+Lactose,b2414,b2421,cysK,cysM,double,0.8091
+Lactose,b1692,b3281,ydiB,aroE,double,0.8091
+Lactose,b2926,b3734,pgk,atpA,double,0.8091
+Lactose,b0155,b1592,clcA,clcB,double,0.8091
+Lactose,b2465,b2935,tktB,tktA,double,0.8091
+Lactose,b1779,b3731,gapA,atpC,double,0.8091
+Lactose,b0907,b2551,serC,glyA,double,0.8091
+Lactose,b1779,b3736,gapA,atpF,double,0.8091
+Lactose,b0870,b0907,ltaE,serC,double,0.8091
+Lactose,b1779,b3737,gapA,atpE,double,0.8091
+Lactose,b1702,b2779,ppsA,eno,double,0.8091
+Lactose,b0684,b2895,fldA,fldB,double,0.8091
+Lactose,b2926,b3738,pgk,atpB,double,0.8091
+Lactose,b0126,b0339,can,cynT,double,0.8091
+Lactose,b1779,b3732,gapA,atpD,double,0.8091
+Lactose,b0954,b2836,fabA,aas,double,0.8091
+Lactose,b0149,b3396,mrcB,mrcA,double,0.8091
+Lactose,b0099,b1865,mutT,nudB,double,0.8091
+Lactose,b1622,b3008,malY,metC,double,0.8091
+Lactose,b2508,b2867,guaB,xdhB,double,0.8091
+Lactose,b0032,b0521,carA,ybcF,double,0.8091
+Lactose,b1779,b3733,gapA,atpG,double,0.8091
+Lactose,b3829,b4019,metE,metH,double,0.8091
+Lactose,b2551,b2913,glyA,serA,double,0.8091
+Lactose,b0954,b3846,fabA,fadB,double,0.8091
+Lactose,b2508,b2866,guaB,xdhA,double,0.8091
+Lactose,b2029,b3386,gnd,rpe,double,0.8091
+Lactose,b0763,b2422,modA,cysA,double,0.8091
+Lactose,b0870,b2551,ltaE,glyA,double,0.8091
+Lactose,b0073,b1800,leuB,dmlA,double,0.8091
+Lactose,b0002,b3940,thrA,metL,double,0.8091
+Lactose,b0238,b2508,gpt,guaB,double,0.8091
+Lactose,b2926,b3735,pgk,atpH,double,0.8091
+Lactose,b0077,b3671,ilvI,ilvB,double,0.8091
+Lactose,b0171,b0910,pyrH,cmk,double,0.8091
+Lactose,b1190,b4053,dadX,alr,double,0.8091
+Lactose,b0118,b1276,acnB,acnA,double,0.8091
+Lactose,b0764,b2422,modB,cysA,double,0.8091
+Lactose,b0763,b2424,modA,cysU,double,0.8091
+Lactose,b1761,b3213,gdhA,gltD,double,0.8091
+Lactose,b1702,b1779,ppsA,gapA,double,0.8091
+Lactose,b0033,b0521,carB,ybcF,double,0.8091
+Lactose,b0092,b0381,ddlB,ddlA,double,0.8091
+Lactose,b1096,b4039,pabC,ubiC,double,0.8091
+Lactose,b0764,b2424,modB,cysU,double,0.8091
+Lactose,b0273,b4254,argF,argI,double,0.8091
+Lactose,b0763,b2423,modA,cysW,double,0.8091
+Lactose,b2926,b3737,pgk,atpE,double,0.8091
+Lactose,b0765,b2423,modC,cysW,double,0.8091
+Lactose,b2926,b3736,pgk,atpF,double,0.8091
+Lactose,b2926,b3731,pgk,atpC,double,0.8091
+Lactose,b1779,b3734,gapA,atpA,double,0.8091
+Lactose,b1849,b2500,purT,purN,double,0.8091
+Lactose,b2029,b4025,gnd,pgi,double,0.8091
+Lactose,b0078,b3670,ilvH,ilvN,double,0.8091
+Lactose,b1702,b2926,ppsA,pgk,double,0.8091
+Lactose,b2436,b3867,hemF,hemN,double,0.8091
+Lactose,b0077,b3670,ilvI,ilvN,double,0.8091
+Lactose,b2235,b4238,nrdB,nrdD,double,0.8091
+Lactose,b1090,b4041,plsX,plsB,double,0.8091
+Lactose,b1761,b3212,gdhA,gltB,double,0.8091
+Lactose,b2234,b4238,nrdA,nrdD,double,0.8091
+Lactose,b1779,b3735,gapA,atpH,double,0.8091
+Lactose,b3059,b4041,plsY,plsB,double,0.8091
+Lactose,b0674,b3744,asnB,asnA,double,0.8091
+Lactose,b0765,b2424,modC,cysU,double,0.8091
+Lactose,b0844,b3812,ybjI,yigB,double,0.8091
+Lactose,b0078,b3671,ilvH,ilvB,double,0.8091
+Lactose,b1378,b3924,pfo,fpr,double,0.8091
+Lactose,b0870,b2320,ltaE,pdxB,double,0.8091
+Lactose,b2551,b4388,glyA,serB,double,0.8091
+Lactose,b2926,b3733,pgk,atpG,double,0.8091
+Lactose,b0452,b0954,tesB,fabA,double,0.8091
+Lactose,b2708,b3197,srlQ,kdsD,double,0.8091
+Lactose,b2582,b3781,trxC,trxA,double,0.8091
+D-Melibiose,b0388,b3390,aroL,aroK,double,1.0861
+D-Melibiose,b0765,b2422,modC,cysA,double,1.0861
+D-Melibiose,b0928,b4054,aspC,tyrB,double,1.0861
+D-Melibiose,b3117,b3772,tdcB,ilvA,double,1.0861
+D-Melibiose,b2508,b2868,guaB,xdhC,double,1.0861
+D-Melibiose,b0048,b1606,folA,folM,double,1.0861
+D-Melibiose,b1779,b3738,gapA,atpB,double,1.0861
+D-Melibiose,b2926,b3732,pgk,atpD,double,1.0861
+D-Melibiose,b0764,b2423,modB,cysW,double,1.0861
+D-Melibiose,b2414,b2421,cysK,cysM,double,1.0861
+D-Melibiose,b1692,b3281,ydiB,aroE,double,1.0861
+D-Melibiose,b2926,b3734,pgk,atpA,double,1.0861
+D-Melibiose,b0155,b1592,clcA,clcB,double,1.0861
+D-Melibiose,b2465,b2935,tktB,tktA,double,1.0861
+D-Melibiose,b1779,b3731,gapA,atpC,double,1.0861
+D-Melibiose,b0907,b2551,serC,glyA,double,1.0861
+D-Melibiose,b1779,b3736,gapA,atpF,double,1.0861
+D-Melibiose,b0870,b0907,ltaE,serC,double,1.0861
+D-Melibiose,b1779,b3737,gapA,atpE,double,1.0861
+D-Melibiose,b1702,b2779,ppsA,eno,double,1.0861
+D-Melibiose,b0126,b0339,can,cynT,double,1.0861
+D-Melibiose,b2926,b3738,pgk,atpB,double,1.0861
+D-Melibiose,b1779,b3732,gapA,atpD,double,1.0861
+D-Melibiose,b0684,b2895,fldA,fldB,double,1.0861
+D-Melibiose,b0954,b2836,fabA,aas,double,1.0861
+D-Melibiose,b0149,b3396,mrcB,mrcA,double,1.0861
+D-Melibiose,b0099,b1865,mutT,nudB,double,1.0861
+D-Melibiose,b1622,b3008,malY,metC,double,1.0861
+D-Melibiose,b2508,b2867,guaB,xdhB,double,1.0861
+D-Melibiose,b0032,b0521,carA,ybcF,double,1.0861
+D-Melibiose,b1779,b3733,gapA,atpG,double,1.0861
+D-Melibiose,b3829,b4019,metE,metH,double,1.0861
+D-Melibiose,b2551,b2913,glyA,serA,double,1.0861
+D-Melibiose,b0954,b3846,fabA,fadB,double,1.0861
+D-Melibiose,b2508,b2866,guaB,xdhA,double,1.0861
+D-Melibiose,b2029,b3386,gnd,rpe,double,1.0861
+D-Melibiose,b0763,b2422,modA,cysA,double,1.0861
+D-Melibiose,b0870,b2551,ltaE,glyA,double,1.0861
+D-Melibiose,b0767,b4025,pgl,pgi,double,1.0861
+D-Melibiose,b0073,b1800,leuB,dmlA,double,1.0861
+D-Melibiose,b0002,b3940,thrA,metL,double,1.0861
+D-Melibiose,b0238,b2508,gpt,guaB,double,1.0861
+D-Melibiose,b2926,b3735,pgk,atpH,double,1.0861
+D-Melibiose,b0077,b3671,ilvI,ilvB,double,1.0861
+D-Melibiose,b0171,b0910,pyrH,cmk,double,1.0861
+D-Melibiose,b1190,b4053,dadX,alr,double,1.0861
+D-Melibiose,b0118,b1276,acnB,acnA,double,1.0861
+D-Melibiose,b0764,b2422,modB,cysA,double,1.0861
+D-Melibiose,b1852,b3386,zwf,rpe,double,1.0861
+D-Melibiose,b0763,b2424,modA,cysU,double,1.0861
+D-Melibiose,b1761,b3213,gdhA,gltD,double,1.0861
+D-Melibiose,b1702,b1779,ppsA,gapA,double,1.0861
+D-Melibiose,b0033,b0521,carB,ybcF,double,1.0861
+D-Melibiose,b0092,b0381,ddlB,ddlA,double,1.0861
+D-Melibiose,b1096,b4039,pabC,ubiC,double,1.0861
+D-Melibiose,b0764,b2424,modB,cysU,double,1.0861
+D-Melibiose,b0273,b4254,argF,argI,double,1.0861
+D-Melibiose,b0763,b2423,modA,cysW,double,1.0861
+D-Melibiose,b2926,b3737,pgk,atpE,double,1.0861
+D-Melibiose,b0765,b2423,modC,cysW,double,1.0861
+D-Melibiose,b2926,b3736,pgk,atpF,double,1.0861
+D-Melibiose,b2926,b3731,pgk,atpC,double,1.0861
+D-Melibiose,b1779,b3734,gapA,atpA,double,1.0861
+D-Melibiose,b0343,b4120,lacY,melB,double,1.0861
+D-Melibiose,b1849,b2500,purT,purN,double,1.0861
+D-Melibiose,b2029,b4025,gnd,pgi,double,1.0861
+D-Melibiose,b0767,b3386,pgl,rpe,double,1.0861
+D-Melibiose,b0078,b3670,ilvH,ilvN,double,1.0861
+D-Melibiose,b1702,b2926,ppsA,pgk,double,1.0861
+D-Melibiose,b2436,b3867,hemF,hemN,double,1.0861
+D-Melibiose,b0077,b3670,ilvI,ilvN,double,1.0861
+D-Melibiose,b2235,b4238,nrdB,nrdD,double,1.0861
+D-Melibiose,b1090,b4041,plsX,plsB,double,1.0861
+D-Melibiose,b1852,b4025,zwf,pgi,double,1.0861
+D-Melibiose,b1761,b3212,gdhA,gltB,double,1.0861
+D-Melibiose,b2234,b4238,nrdA,nrdD,double,1.0861
+D-Melibiose,b1779,b3735,gapA,atpH,double,1.0861
+D-Melibiose,b3059,b4041,plsY,plsB,double,1.0861
+D-Melibiose,b0674,b3744,asnB,asnA,double,1.0861
+D-Melibiose,b0765,b2424,modC,cysU,double,1.0861
+D-Melibiose,b0844,b3812,ybjI,yigB,double,1.0861
+D-Melibiose,b0078,b3671,ilvH,ilvB,double,1.0861
+D-Melibiose,b1378,b3924,pfo,fpr,double,1.0861
+D-Melibiose,b0870,b2320,ltaE,pdxB,double,1.0861
+D-Melibiose,b2926,b3733,pgk,atpG,double,1.0861
+D-Melibiose,b2551,b4388,glyA,serB,double,1.0861
+D-Melibiose,b0452,b0954,tesB,fabA,double,1.0861
+D-Melibiose,b2708,b3197,srlQ,kdsD,double,1.0861
+D-Melibiose,b2582,b3781,trxC,trxA,double,1.0861
+N-Acetyl-Neuraminic,b0388,b3390,aroL,aroK,double,0.9193
+N-Acetyl-Neuraminic,b0765,b2422,modC,cysA,double,0.9193
+N-Acetyl-Neuraminic,b0928,b4054,aspC,tyrB,double,0.9193
+N-Acetyl-Neuraminic,b3117,b3772,tdcB,ilvA,double,0.9193
+N-Acetyl-Neuraminic,b2508,b2868,guaB,xdhC,double,0.9193
+N-Acetyl-Neuraminic,b0048,b1606,folA,folM,double,0.9193
+N-Acetyl-Neuraminic,b1779,b3738,gapA,atpB,double,0.9193
+N-Acetyl-Neuraminic,b2926,b3732,pgk,atpD,double,0.9193
+N-Acetyl-Neuraminic,b0764,b2423,modB,cysW,double,0.9193
+N-Acetyl-Neuraminic,b2414,b2421,cysK,cysM,double,0.9193
+N-Acetyl-Neuraminic,b0155,b1592,clcA,clcB,double,0.9193
+N-Acetyl-Neuraminic,b2926,b3734,pgk,atpA,double,0.9193
+N-Acetyl-Neuraminic,b1779,b3731,gapA,atpC,double,0.9193
+N-Acetyl-Neuraminic,b2465,b2935,tktB,tktA,double,0.9193
+N-Acetyl-Neuraminic,b0907,b2551,serC,glyA,double,0.9193
+N-Acetyl-Neuraminic,b1779,b3736,gapA,atpF,double,0.9193
+N-Acetyl-Neuraminic,b0870,b0907,ltaE,serC,double,0.9193
+N-Acetyl-Neuraminic,b1779,b3737,gapA,atpE,double,0.9193
+N-Acetyl-Neuraminic,b1702,b2779,ppsA,eno,double,0.9193
+N-Acetyl-Neuraminic,b0126,b0339,can,cynT,double,0.9193
+N-Acetyl-Neuraminic,b1779,b3732,gapA,atpD,double,0.9193
+N-Acetyl-Neuraminic,b0684,b2895,fldA,fldB,double,0.9193
+N-Acetyl-Neuraminic,b2926,b3738,pgk,atpB,double,0.9193
+N-Acetyl-Neuraminic,b2708,b3197,srlQ,kdsD,double,0.9193
+N-Acetyl-Neuraminic,b0954,b2836,fabA,aas,double,0.9193
+N-Acetyl-Neuraminic,b0149,b3396,mrcB,mrcA,double,0.9193
+N-Acetyl-Neuraminic,b0099,b1865,mutT,nudB,double,0.9193
+N-Acetyl-Neuraminic,b1622,b3008,malY,metC,double,0.9193
+N-Acetyl-Neuraminic,b2508,b2867,guaB,xdhB,double,0.9193
+N-Acetyl-Neuraminic,b0032,b0521,carA,ybcF,double,0.9193
+N-Acetyl-Neuraminic,b1779,b3733,gapA,atpG,double,0.9193
+N-Acetyl-Neuraminic,b3829,b4019,metE,metH,double,0.9193
+N-Acetyl-Neuraminic,b2551,b2913,glyA,serA,double,0.9193
+N-Acetyl-Neuraminic,b3386,b4025,rpe,pgi,double,0.9193
+N-Acetyl-Neuraminic,b0954,b3846,fabA,fadB,double,0.9193
+N-Acetyl-Neuraminic,b2508,b2866,guaB,xdhA,double,0.9193
+N-Acetyl-Neuraminic,b2029,b3386,gnd,rpe,double,0.9193
+N-Acetyl-Neuraminic,b0763,b2422,modA,cysA,double,0.9193
+N-Acetyl-Neuraminic,b0870,b2551,ltaE,glyA,double,0.9193
+N-Acetyl-Neuraminic,b0002,b3940,thrA,metL,double,0.9193
+N-Acetyl-Neuraminic,b0238,b2508,gpt,guaB,double,0.9193
+N-Acetyl-Neuraminic,b0073,b1800,leuB,dmlA,double,0.9193
+N-Acetyl-Neuraminic,b2926,b3735,pgk,atpH,double,0.9193
+N-Acetyl-Neuraminic,b0077,b3671,ilvI,ilvB,double,0.9193
+N-Acetyl-Neuraminic,b0171,b0910,pyrH,cmk,double,0.9193
+N-Acetyl-Neuraminic,b1190,b4053,dadX,alr,double,0.9193
+N-Acetyl-Neuraminic,b0118,b1276,acnB,acnA,double,0.9193
+N-Acetyl-Neuraminic,b0764,b2422,modB,cysA,double,0.9193
+N-Acetyl-Neuraminic,b1852,b3386,zwf,rpe,double,0.9193
+N-Acetyl-Neuraminic,b0763,b2424,modA,cysU,double,0.9193
+N-Acetyl-Neuraminic,b1702,b1779,ppsA,gapA,double,0.9193
+N-Acetyl-Neuraminic,b1761,b3213,gdhA,gltD,double,0.9193
+N-Acetyl-Neuraminic,b0033,b0521,carB,ybcF,double,0.9193
+N-Acetyl-Neuraminic,b0092,b0381,ddlB,ddlA,double,0.9193
+N-Acetyl-Neuraminic,b1096,b4039,pabC,ubiC,double,0.9193
+N-Acetyl-Neuraminic,b0764,b2424,modB,cysU,double,0.9193
+N-Acetyl-Neuraminic,b0273,b4254,argF,argI,double,0.9193
+N-Acetyl-Neuraminic,b0763,b2423,modA,cysW,double,0.9193
+N-Acetyl-Neuraminic,b2926,b3737,pgk,atpE,double,0.9193
+N-Acetyl-Neuraminic,b0765,b2423,modC,cysW,double,0.9193
+N-Acetyl-Neuraminic,b2926,b3736,pgk,atpF,double,0.9193
+N-Acetyl-Neuraminic,b2926,b3731,pgk,atpC,double,0.9193
+N-Acetyl-Neuraminic,b1779,b3734,gapA,atpA,double,0.9193
+N-Acetyl-Neuraminic,b1849,b2500,purT,purN,double,0.9193
+N-Acetyl-Neuraminic,b0767,b3386,pgl,rpe,double,0.9193
+N-Acetyl-Neuraminic,b0078,b3670,ilvH,ilvN,double,0.9193
+N-Acetyl-Neuraminic,b1702,b2926,ppsA,pgk,double,0.9193
+N-Acetyl-Neuraminic,b2436,b3867,hemF,hemN,double,0.9193
+N-Acetyl-Neuraminic,b0077,b3670,ilvI,ilvN,double,0.9193
+N-Acetyl-Neuraminic,b2235,b4238,nrdB,nrdD,double,0.9193
+N-Acetyl-Neuraminic,b1090,b4041,plsX,plsB,double,0.9193
+N-Acetyl-Neuraminic,b1761,b3212,gdhA,gltB,double,0.9193
+N-Acetyl-Neuraminic,b2234,b4238,nrdA,nrdD,double,0.9193
+N-Acetyl-Neuraminic,b1779,b3735,gapA,atpH,double,0.9193
+N-Acetyl-Neuraminic,b3059,b4041,plsY,plsB,double,0.9193
+N-Acetyl-Neuraminic,b0674,b3744,asnB,asnA,double,0.9193
+N-Acetyl-Neuraminic,b0765,b2424,modC,cysU,double,0.9193
+N-Acetyl-Neuraminic,b0844,b3812,ybjI,yigB,double,0.9193
+N-Acetyl-Neuraminic,b0078,b3671,ilvH,ilvB,double,0.9193
+N-Acetyl-Neuraminic,b1378,b3924,pfo,fpr,double,0.9193
+N-Acetyl-Neuraminic,b0870,b2320,ltaE,pdxB,double,0.9193
+N-Acetyl-Neuraminic,b2926,b3733,pgk,atpG,double,0.9193
+N-Acetyl-Neuraminic,b2551,b4388,glyA,serB,double,0.9193
+N-Acetyl-Neuraminic,b0452,b0954,tesB,fabA,double,0.9193
+N-Acetyl-Neuraminic,b1692,b3281,ydiB,aroE,double,0.9193
+N-Acetyl-Neuraminic,b2582,b3781,trxC,trxA,double,0.9193
+Adenosine,b0388,b3390,aroL,aroK,double,0.7942
+Adenosine,b0765,b2422,modC,cysA,double,0.7942
+Adenosine,b0928,b4054,aspC,tyrB,double,0.7942
+Adenosine,b3117,b3772,tdcB,ilvA,double,0.7942
+Adenosine,b1982,b3738,amn,atpB,double,0.7942
+Adenosine,b2508,b2868,guaB,xdhC,double,0.7942
+Adenosine,b0048,b1606,folA,folM,double,0.7942
+Adenosine,b2926,b3732,pgk,atpD,double,0.7942
+Adenosine,b1779,b3738,gapA,atpB,double,0.7942
+Adenosine,b0764,b2423,modB,cysW,double,0.7942
+Adenosine,b2414,b2421,cysK,cysM,double,0.7942
+Adenosine,b3386,b3736,rpe,atpF,double,0.7942
+Adenosine,b1692,b3281,ydiB,aroE,double,0.7942
+Adenosine,b0155,b1592,clcA,clcB,double,0.7942
+Adenosine,b1982,b3736,amn,atpF,double,0.7942
+Adenosine,b2926,b3734,pgk,atpA,double,0.7942
+Adenosine,b1779,b3731,gapA,atpC,double,0.7942
+Adenosine,b2465,b2935,tktB,tktA,double,0.7942
+Adenosine,b0907,b2551,serC,glyA,double,0.7942
+Adenosine,b1779,b3736,gapA,atpF,double,0.7942
+Adenosine,b0870,b0907,ltaE,serC,double,0.7942
+Adenosine,b1779,b3737,gapA,atpE,double,0.7942
+Adenosine,b1702,b2779,ppsA,eno,double,0.7942
+Adenosine,b0684,b2895,fldA,fldB,double,0.7942
+Adenosine,b0126,b0339,can,cynT,double,0.7942
+Adenosine,b1779,b3732,gapA,atpD,double,0.7942
+Adenosine,b2926,b3738,pgk,atpB,double,0.7942
+Adenosine,b2779,b3735,eno,atpH,double,0.7942
+Adenosine,b2779,b3733,eno,atpG,double,0.7942
+Adenosine,b1982,b3732,amn,atpD,double,0.7942
+Adenosine,b2779,b3737,eno,atpE,double,0.7942
+Adenosine,b2779,b3731,eno,atpC,double,0.7942
+Adenosine,b0954,b2836,fabA,aas,double,0.7942
+Adenosine,b0149,b3396,mrcB,mrcA,double,0.7942
+Adenosine,b0099,b1865,mutT,nudB,double,0.7942
+Adenosine,b1622,b3008,malY,metC,double,0.7942
+Adenosine,b2508,b2867,guaB,xdhB,double,0.7942
+Adenosine,b0032,b0521,carA,ybcF,double,0.7942
+Adenosine,b1779,b3733,gapA,atpG,double,0.7942
+Adenosine,b3829,b4019,metE,metH,double,0.7942
+Adenosine,b2551,b2913,glyA,serA,double,0.7942
+Adenosine,b3386,b3735,rpe,atpH,double,0.7942
+Adenosine,b0954,b3846,fabA,fadB,double,0.7942
+Adenosine,b2393,b2964,nupC,nupG,double,0.7942
+Adenosine,b3386,b3738,rpe,atpB,double,0.7942
+Adenosine,b2508,b2866,guaB,xdhA,double,0.7942
+Adenosine,b0763,b2422,modA,cysA,double,0.7942
+Adenosine,b0870,b2551,ltaE,glyA,double,0.7942
+Adenosine,b1517,b3386,lsrF,rpe,double,0.7942
+Adenosine,b0002,b3940,thrA,metL,double,0.7942
+Adenosine,b0238,b2508,gpt,guaB,double,0.7942
+Adenosine,b0073,b1800,leuB,dmlA,double,0.7942
+Adenosine,b2926,b3735,pgk,atpH,double,0.7942
+Adenosine,b0077,b3671,ilvI,ilvB,double,0.7942
+Adenosine,b3386,b3732,rpe,atpD,double,0.7942
+Adenosine,b0171,b0910,pyrH,cmk,double,0.7942
+Adenosine,b1190,b4053,dadX,alr,double,0.7942
+Adenosine,b0118,b1276,acnB,acnA,double,0.7942
+Adenosine,b0764,b2422,modB,cysA,double,0.7942
+Adenosine,b1982,b3735,amn,atpH,double,0.7942
+Adenosine,b2779,b3732,eno,atpD,double,0.7942
+Adenosine,b0763,b2424,modA,cysU,double,0.7942
+Adenosine,b1702,b1779,ppsA,gapA,double,0.7942
+Adenosine,b1761,b3213,gdhA,gltD,double,0.7942
+Adenosine,b0033,b0521,carB,ybcF,double,0.7942
+Adenosine,b0092,b0381,ddlB,ddlA,double,0.7942
+Adenosine,b1982,b3731,amn,atpC,double,0.7942
+Adenosine,b1096,b4039,pabC,ubiC,double,0.7942
+Adenosine,b0764,b2424,modB,cysU,double,0.7942
+Adenosine,b0273,b4254,argF,argI,double,0.7942
+Adenosine,b0763,b2423,modA,cysW,double,0.7942
+Adenosine,b2926,b3737,pgk,atpE,double,0.7942
+Adenosine,b0765,b2423,modC,cysW,double,0.7942
+Adenosine,b1982,b3734,amn,atpA,double,0.7942
+Adenosine,b2926,b3736,pgk,atpF,double,0.7942
+Adenosine,b2926,b3731,pgk,atpC,double,0.7942
+Adenosine,b1779,b3734,gapA,atpA,double,0.7942
+Adenosine,b1849,b2500,purT,purN,double,0.7942
+Adenosine,b3386,b3731,rpe,atpC,double,0.7942
+Adenosine,b3386,b3733,rpe,atpG,double,0.7942
+Adenosine,b1518,b3386,lsrG,rpe,double,0.7942
+Adenosine,b1511,b3386,lsrK,rpe,double,0.7942
+Adenosine,b0078,b3670,ilvH,ilvN,double,0.7942
+Adenosine,b1702,b2926,ppsA,pgk,double,0.7942
+Adenosine,b2779,b3738,eno,atpB,double,0.7942
+Adenosine,b2436,b3867,hemF,hemN,double,0.7942
+Adenosine,b0077,b3670,ilvI,ilvN,double,0.7942
+Adenosine,b2235,b4238,nrdB,nrdD,double,0.7942
+Adenosine,b3386,b3734,rpe,atpA,double,0.7942
+Adenosine,b1090,b4041,plsX,plsB,double,0.7942
+Adenosine,b2779,b3736,eno,atpF,double,0.7942
+Adenosine,b1761,b3212,gdhA,gltB,double,0.7942
+Adenosine,b2234,b4238,nrdA,nrdD,double,0.7942
+Adenosine,b1779,b3735,gapA,atpH,double,0.7942
+Adenosine,b3059,b4041,plsY,plsB,double,0.7942
+Adenosine,b0261,b3386,mmuM,rpe,double,0.7942
+Adenosine,b3386,b3737,rpe,atpE,double,0.7942
+Adenosine,b1982,b3733,amn,atpG,double,0.7942
+Adenosine,b0674,b3744,asnB,asnA,double,0.7942
+Adenosine,b0765,b2424,modC,cysU,double,0.7942
+Adenosine,b0844,b3812,ybjI,yigB,double,0.7942
+Adenosine,b1982,b3737,amn,atpE,double,0.7942
+Adenosine,b2779,b3734,eno,atpA,double,0.7942
+Adenosine,b0078,b3671,ilvH,ilvB,double,0.7942
+Adenosine,b1378,b3924,pfo,fpr,double,0.7942
+Adenosine,b0870,b2320,ltaE,pdxB,double,0.7942
+Adenosine,b2551,b4388,glyA,serB,double,0.7942
+Adenosine,b2926,b3733,pgk,atpG,double,0.7942
+Adenosine,b0452,b0954,tesB,fabA,double,0.7942
+Adenosine,b2708,b3197,srlQ,kdsD,double,0.7942
+Adenosine,b2582,b3781,trxC,trxA,double,0.7942
+Glucose-6-Phosphate,b0388,b3390,aroL,aroK,double,0.8689
+Glucose-6-Phosphate,b0765,b2422,modC,cysA,double,0.8689
+Glucose-6-Phosphate,b0928,b4054,aspC,tyrB,double,0.8689
+Glucose-6-Phosphate,b3117,b3772,tdcB,ilvA,double,0.8689
+Glucose-6-Phosphate,b2508,b2868,guaB,xdhC,double,0.8689
+Glucose-6-Phosphate,b0048,b1606,folA,folM,double,0.8689
+Glucose-6-Phosphate,b1779,b3738,gapA,atpB,double,0.8689
+Glucose-6-Phosphate,b2926,b3732,pgk,atpD,double,0.8689
+Glucose-6-Phosphate,b0764,b2423,modB,cysW,double,0.8689
+Glucose-6-Phosphate,b2414,b2421,cysK,cysM,double,0.8689
+Glucose-6-Phosphate,b1692,b3281,ydiB,aroE,double,0.8689
+Glucose-6-Phosphate,b0155,b1592,clcA,clcB,double,0.8689
+Glucose-6-Phosphate,b2926,b3734,pgk,atpA,double,0.8689
+Glucose-6-Phosphate,b2465,b2935,tktB,tktA,double,0.8689
+Glucose-6-Phosphate,b1779,b3731,gapA,atpC,double,0.8689
+Glucose-6-Phosphate,b0907,b2551,serC,glyA,double,0.8689
+Glucose-6-Phosphate,b1779,b3736,gapA,atpF,double,0.8689
+Glucose-6-Phosphate,b0870,b0907,ltaE,serC,double,0.8689
+Glucose-6-Phosphate,b1779,b3737,gapA,atpE,double,0.8689
+Glucose-6-Phosphate,b1702,b2779,ppsA,eno,double,0.8689
+Glucose-6-Phosphate,b0684,b2895,fldA,fldB,double,0.8689
+Glucose-6-Phosphate,b2926,b3738,pgk,atpB,double,0.8689
+Glucose-6-Phosphate,b0126,b0339,can,cynT,double,0.8689
+Glucose-6-Phosphate,b1779,b3732,gapA,atpD,double,0.8689
+Glucose-6-Phosphate,b0954,b2836,fabA,aas,double,0.8689
+Glucose-6-Phosphate,b0149,b3396,mrcB,mrcA,double,0.8689
+Glucose-6-Phosphate,b0099,b1865,mutT,nudB,double,0.8689
+Glucose-6-Phosphate,b1622,b3008,malY,metC,double,0.8689
+Glucose-6-Phosphate,b2508,b2867,guaB,xdhB,double,0.8689
+Glucose-6-Phosphate,b0032,b0521,carA,ybcF,double,0.8689
+Glucose-6-Phosphate,b1779,b3733,gapA,atpG,double,0.8689
+Glucose-6-Phosphate,b3829,b4019,metE,metH,double,0.8689
+Glucose-6-Phosphate,b2551,b2913,glyA,serA,double,0.8689
+Glucose-6-Phosphate,b0954,b3846,fabA,fadB,double,0.8689
+Glucose-6-Phosphate,b2508,b2866,guaB,xdhA,double,0.8689
+Glucose-6-Phosphate,b2029,b3386,gnd,rpe,double,0.8689
+Glucose-6-Phosphate,b0763,b2422,modA,cysA,double,0.8689
+Glucose-6-Phosphate,b0870,b2551,ltaE,glyA,double,0.8689
+Glucose-6-Phosphate,b0767,b4025,pgl,pgi,double,0.8689
+Glucose-6-Phosphate,b0002,b3940,thrA,metL,double,0.8689
+Glucose-6-Phosphate,b0238,b2508,gpt,guaB,double,0.8689
+Glucose-6-Phosphate,b0073,b1800,leuB,dmlA,double,0.8689
+Glucose-6-Phosphate,b2926,b3735,pgk,atpH,double,0.8689
+Glucose-6-Phosphate,b0077,b3671,ilvI,ilvB,double,0.8689
+Glucose-6-Phosphate,b0171,b0910,pyrH,cmk,double,0.8689
+Glucose-6-Phosphate,b1190,b4053,dadX,alr,double,0.8689
+Glucose-6-Phosphate,b0118,b1276,acnB,acnA,double,0.8689
+Glucose-6-Phosphate,b0764,b2422,modB,cysA,double,0.8689
+Glucose-6-Phosphate,b1852,b3386,zwf,rpe,double,0.8689
+Glucose-6-Phosphate,b0763,b2424,modA,cysU,double,0.8689
+Glucose-6-Phosphate,b1761,b3213,gdhA,gltD,double,0.8689
+Glucose-6-Phosphate,b1702,b1779,ppsA,gapA,double,0.8689
+Glucose-6-Phosphate,b0033,b0521,carB,ybcF,double,0.8689
+Glucose-6-Phosphate,b0092,b0381,ddlB,ddlA,double,0.8689
+Glucose-6-Phosphate,b1096,b4039,pabC,ubiC,double,0.8689
+Glucose-6-Phosphate,b0764,b2424,modB,cysU,double,0.8689
+Glucose-6-Phosphate,b0273,b4254,argF,argI,double,0.8689
+Glucose-6-Phosphate,b0763,b2423,modA,cysW,double,0.8689
+Glucose-6-Phosphate,b2926,b3737,pgk,atpE,double,0.8689
+Glucose-6-Phosphate,b0765,b2423,modC,cysW,double,0.8689
+Glucose-6-Phosphate,b2926,b3736,pgk,atpF,double,0.8689
+Glucose-6-Phosphate,b2926,b3731,pgk,atpC,double,0.8689
+Glucose-6-Phosphate,b1779,b3734,gapA,atpA,double,0.8689
+Glucose-6-Phosphate,b1849,b2500,purT,purN,double,0.8689
+Glucose-6-Phosphate,b2029,b4025,gnd,pgi,double,0.8689
+Glucose-6-Phosphate,b0767,b3386,pgl,rpe,double,0.8689
+Glucose-6-Phosphate,b0078,b3670,ilvH,ilvN,double,0.8689
+Glucose-6-Phosphate,b1702,b2926,ppsA,pgk,double,0.8689
+Glucose-6-Phosphate,b2436,b3867,hemF,hemN,double,0.8689
+Glucose-6-Phosphate,b0077,b3670,ilvI,ilvN,double,0.8689
+Glucose-6-Phosphate,b2235,b4238,nrdB,nrdD,double,0.8689
+Glucose-6-Phosphate,b1090,b4041,plsX,plsB,double,0.8689
+Glucose-6-Phosphate,b1852,b4025,zwf,pgi,double,0.8689
+Glucose-6-Phosphate,b1761,b3212,gdhA,gltB,double,0.8689
+Glucose-6-Phosphate,b2234,b4238,nrdA,nrdD,double,0.8689
+Glucose-6-Phosphate,b1779,b3735,gapA,atpH,double,0.8689
+Glucose-6-Phosphate,b3059,b4041,plsY,plsB,double,0.8689
+Glucose-6-Phosphate,b0674,b3744,asnB,asnA,double,0.8689
+Glucose-6-Phosphate,b0765,b2424,modC,cysU,double,0.8689
+Glucose-6-Phosphate,b0844,b3812,ybjI,yigB,double,0.8689
+Glucose-6-Phosphate,b0078,b3671,ilvH,ilvB,double,0.8689
+Glucose-6-Phosphate,b1378,b3924,pfo,fpr,double,0.8689
+Glucose-6-Phosphate,b0870,b2320,ltaE,pdxB,double,0.8689
+Glucose-6-Phosphate,b2551,b4388,glyA,serB,double,0.8689
+Glucose-6-Phosphate,b2926,b3733,pgk,atpG,double,0.8689
+Glucose-6-Phosphate,b0452,b0954,tesB,fabA,double,0.8689
+Glucose-6-Phosphate,b2708,b3197,srlQ,kdsD,double,0.8689
+Glucose-6-Phosphate,b2582,b3781,trxC,trxA,double,0.8689
+Fructose-6-Phosphate,b0388,b3390,aroL,aroK,double,0.8689
+Fructose-6-Phosphate,b0765,b2422,modC,cysA,double,0.8689
+Fructose-6-Phosphate,b0928,b4054,aspC,tyrB,double,0.8689
+Fructose-6-Phosphate,b3117,b3772,tdcB,ilvA,double,0.8689
+Fructose-6-Phosphate,b2508,b2868,guaB,xdhC,double,0.8689
+Fructose-6-Phosphate,b0048,b1606,folA,folM,double,0.8689
+Fructose-6-Phosphate,b1779,b3738,gapA,atpB,double,0.8689
+Fructose-6-Phosphate,b2926,b3732,pgk,atpD,double,0.8689
+Fructose-6-Phosphate,b0764,b2423,modB,cysW,double,0.8689
+Fructose-6-Phosphate,b2414,b2421,cysK,cysM,double,0.8689
+Fructose-6-Phosphate,b1692,b3281,ydiB,aroE,double,0.8689
+Fructose-6-Phosphate,b2926,b3734,pgk,atpA,double,0.8689
+Fructose-6-Phosphate,b0155,b1592,clcA,clcB,double,0.8689
+Fructose-6-Phosphate,b2465,b2935,tktB,tktA,double,0.8689
+Fructose-6-Phosphate,b1779,b3731,gapA,atpC,double,0.8689
+Fructose-6-Phosphate,b0907,b2551,serC,glyA,double,0.8689
+Fructose-6-Phosphate,b1779,b3736,gapA,atpF,double,0.8689
+Fructose-6-Phosphate,b0870,b0907,ltaE,serC,double,0.8689
+Fructose-6-Phosphate,b1779,b3737,gapA,atpE,double,0.8689
+Fructose-6-Phosphate,b1702,b2779,ppsA,eno,double,0.8689
+Fructose-6-Phosphate,b0126,b0339,can,cynT,double,0.8689
+Fructose-6-Phosphate,b1779,b3732,gapA,atpD,double,0.8689
+Fructose-6-Phosphate,b2926,b3738,pgk,atpB,double,0.8689
+Fructose-6-Phosphate,b0684,b2895,fldA,fldB,double,0.8689
+Fructose-6-Phosphate,b0954,b2836,fabA,aas,double,0.8689
+Fructose-6-Phosphate,b0149,b3396,mrcB,mrcA,double,0.8689
+Fructose-6-Phosphate,b0099,b1865,mutT,nudB,double,0.8689
+Fructose-6-Phosphate,b1622,b3008,malY,metC,double,0.8689
+Fructose-6-Phosphate,b2508,b2867,guaB,xdhB,double,0.8689
+Fructose-6-Phosphate,b0032,b0521,carA,ybcF,double,0.8689
+Fructose-6-Phosphate,b1779,b3733,gapA,atpG,double,0.8689
+Fructose-6-Phosphate,b3829,b4019,metE,metH,double,0.8689
+Fructose-6-Phosphate,b2551,b2913,glyA,serA,double,0.8689
+Fructose-6-Phosphate,b3386,b4025,rpe,pgi,double,0.8689
+Fructose-6-Phosphate,b0954,b3846,fabA,fadB,double,0.8689
+Fructose-6-Phosphate,b2508,b2866,guaB,xdhA,double,0.8689
+Fructose-6-Phosphate,b2029,b3386,gnd,rpe,double,0.8689
+Fructose-6-Phosphate,b0763,b2422,modA,cysA,double,0.8689
+Fructose-6-Phosphate,b0870,b2551,ltaE,glyA,double,0.8689
+Fructose-6-Phosphate,b0073,b1800,leuB,dmlA,double,0.8689
+Fructose-6-Phosphate,b0002,b3940,thrA,metL,double,0.8689
+Fructose-6-Phosphate,b0238,b2508,gpt,guaB,double,0.8689
+Fructose-6-Phosphate,b2926,b3735,pgk,atpH,double,0.8689
+Fructose-6-Phosphate,b0077,b3671,ilvI,ilvB,double,0.8689
+Fructose-6-Phosphate,b0171,b0910,pyrH,cmk,double,0.8689
+Fructose-6-Phosphate,b1190,b4053,dadX,alr,double,0.8689
+Fructose-6-Phosphate,b0118,b1276,acnB,acnA,double,0.8689
+Fructose-6-Phosphate,b0764,b2422,modB,cysA,double,0.8689
+Fructose-6-Phosphate,b1852,b3386,zwf,rpe,double,0.8689
+Fructose-6-Phosphate,b0763,b2424,modA,cysU,double,0.8689
+Fructose-6-Phosphate,b1761,b3213,gdhA,gltD,double,0.8689
+Fructose-6-Phosphate,b1702,b1779,ppsA,gapA,double,0.8689
+Fructose-6-Phosphate,b0033,b0521,carB,ybcF,double,0.8689
+Fructose-6-Phosphate,b0092,b0381,ddlB,ddlA,double,0.8689
+Fructose-6-Phosphate,b1096,b4039,pabC,ubiC,double,0.8689
+Fructose-6-Phosphate,b0764,b2424,modB,cysU,double,0.8689
+Fructose-6-Phosphate,b0273,b4254,argF,argI,double,0.8689
+Fructose-6-Phosphate,b0763,b2423,modA,cysW,double,0.8689
+Fructose-6-Phosphate,b2926,b3737,pgk,atpE,double,0.8689
+Fructose-6-Phosphate,b0765,b2423,modC,cysW,double,0.8689
+Fructose-6-Phosphate,b2926,b3736,pgk,atpF,double,0.8689
+Fructose-6-Phosphate,b2926,b3731,pgk,atpC,double,0.8689
+Fructose-6-Phosphate,b1779,b3734,gapA,atpA,double,0.8689
+Fructose-6-Phosphate,b1849,b2500,purT,purN,double,0.8689
+Fructose-6-Phosphate,b0767,b3386,pgl,rpe,double,0.8689
+Fructose-6-Phosphate,b0078,b3670,ilvH,ilvN,double,0.8689
+Fructose-6-Phosphate,b1702,b2926,ppsA,pgk,double,0.8689
+Fructose-6-Phosphate,b2436,b3867,hemF,hemN,double,0.8689
+Fructose-6-Phosphate,b0077,b3670,ilvI,ilvN,double,0.8689
+Fructose-6-Phosphate,b2235,b4238,nrdB,nrdD,double,0.8689
+Fructose-6-Phosphate,b1090,b4041,plsX,plsB,double,0.8689
+Fructose-6-Phosphate,b1761,b3212,gdhA,gltB,double,0.8689
+Fructose-6-Phosphate,b2234,b4238,nrdA,nrdD,double,0.8689
+Fructose-6-Phosphate,b1779,b3735,gapA,atpH,double,0.8689
+Fructose-6-Phosphate,b3059,b4041,plsY,plsB,double,0.8689
+Fructose-6-Phosphate,b0674,b3744,asnB,asnA,double,0.8689
+Fructose-6-Phosphate,b0765,b2424,modC,cysU,double,0.8689
+Fructose-6-Phosphate,b0844,b3812,ybjI,yigB,double,0.8689
+Fructose-6-Phosphate,b0078,b3671,ilvH,ilvB,double,0.8689
+Fructose-6-Phosphate,b1378,b3924,pfo,fpr,double,0.8689
+Fructose-6-Phosphate,b0870,b2320,ltaE,pdxB,double,0.8689
+Fructose-6-Phosphate,b2926,b3733,pgk,atpG,double,0.8689
+Fructose-6-Phosphate,b2551,b4388,glyA,serB,double,0.8689
+Fructose-6-Phosphate,b0452,b0954,tesB,fabA,double,0.8689
+Fructose-6-Phosphate,b2708,b3197,srlQ,kdsD,double,0.8689
+Fructose-6-Phosphate,b2582,b3781,trxC,trxA,double,0.8689
+Inosine,b0388,b3390,aroL,aroK,double,0.845
+Inosine,b0765,b2422,modC,cysA,double,0.845
+Inosine,b0928,b4054,aspC,tyrB,double,0.845
+Inosine,b3117,b3772,tdcB,ilvA,double,0.845
+Inosine,b2508,b2868,guaB,xdhC,double,0.845
+Inosine,b0048,b1606,folA,folM,double,0.845
+Inosine,b1779,b3738,gapA,atpB,double,0.845
+Inosine,b2926,b3732,pgk,atpD,double,0.845
+Inosine,b0764,b2423,modB,cysW,double,0.845
+Inosine,b2414,b2421,cysK,cysM,double,0.845
+Inosine,b3386,b3736,rpe,atpF,double,0.845
+Inosine,b1692,b3281,ydiB,aroE,double,0.845
+Inosine,b2926,b3734,pgk,atpA,double,0.845
+Inosine,b0155,b1592,clcA,clcB,double,0.845
+Inosine,b2465,b2935,tktB,tktA,double,0.845
+Inosine,b1779,b3731,gapA,atpC,double,0.845
+Inosine,b0907,b2551,serC,glyA,double,0.845
+Inosine,b1779,b3736,gapA,atpF,double,0.845
+Inosine,b0870,b0907,ltaE,serC,double,0.845
+Inosine,b1779,b3737,gapA,atpE,double,0.845
+Inosine,b1702,b2779,ppsA,eno,double,0.845
+Inosine,b0126,b0339,can,cynT,double,0.845
+Inosine,b1779,b3732,gapA,atpD,double,0.845
+Inosine,b2926,b3738,pgk,atpB,double,0.845
+Inosine,b0684,b2895,fldA,fldB,double,0.845
+Inosine,b0954,b2836,fabA,aas,double,0.845
+Inosine,b0149,b3396,mrcB,mrcA,double,0.845
+Inosine,b0099,b1865,mutT,nudB,double,0.845
+Inosine,b1622,b3008,malY,metC,double,0.845
+Inosine,b2508,b2867,guaB,xdhB,double,0.845
+Inosine,b0032,b0521,carA,ybcF,double,0.845
+Inosine,b1779,b3733,gapA,atpG,double,0.845
+Inosine,b3829,b4019,metE,metH,double,0.845
+Inosine,b2551,b2913,glyA,serA,double,0.845
+Inosine,b3386,b3735,rpe,atpH,double,0.845
+Inosine,b0954,b3846,fabA,fadB,double,0.845
+Inosine,b3386,b3738,rpe,atpB,double,0.845
+Inosine,b2508,b2866,guaB,xdhA,double,0.845
+Inosine,b0763,b2422,modA,cysA,double,0.845
+Inosine,b0870,b2551,ltaE,glyA,double,0.845
+Inosine,b1517,b3386,lsrF,rpe,double,0.845
+Inosine,b0073,b1800,leuB,dmlA,double,0.845
+Inosine,b0002,b3940,thrA,metL,double,0.845
+Inosine,b0238,b2508,gpt,guaB,double,0.845
+Inosine,b2926,b3735,pgk,atpH,double,0.845
+Inosine,b0077,b3671,ilvI,ilvB,double,0.845
+Inosine,b3386,b3732,rpe,atpD,double,0.845
+Inosine,b0171,b0910,pyrH,cmk,double,0.845
+Inosine,b1190,b4053,dadX,alr,double,0.845
+Inosine,b0118,b1276,acnB,acnA,double,0.845
+Inosine,b0764,b2422,modB,cysA,double,0.845
+Inosine,b0763,b2424,modA,cysU,double,0.845
+Inosine,b1761,b3213,gdhA,gltD,double,0.845
+Inosine,b1702,b1779,ppsA,gapA,double,0.845
+Inosine,b0033,b0521,carB,ybcF,double,0.845
+Inosine,b0092,b0381,ddlB,ddlA,double,0.845
+Inosine,b1096,b4039,pabC,ubiC,double,0.845
+Inosine,b0764,b2424,modB,cysU,double,0.845
+Inosine,b0273,b4254,argF,argI,double,0.845
+Inosine,b0763,b2423,modA,cysW,double,0.845
+Inosine,b2926,b3737,pgk,atpE,double,0.845
+Inosine,b0765,b2423,modC,cysW,double,0.845
+Inosine,b2926,b3736,pgk,atpF,double,0.845
+Inosine,b2926,b3731,pgk,atpC,double,0.845
+Inosine,b1779,b3734,gapA,atpA,double,0.845
+Inosine,b1849,b2500,purT,purN,double,0.845
+Inosine,b3386,b3731,rpe,atpC,double,0.845
+Inosine,b3386,b3733,rpe,atpG,double,0.845
+Inosine,b1518,b3386,lsrG,rpe,double,0.845
+Inosine,b0078,b3670,ilvH,ilvN,double,0.845
+Inosine,b1511,b3386,lsrK,rpe,double,0.845
+Inosine,b1702,b2926,ppsA,pgk,double,0.845
+Inosine,b2436,b3867,hemF,hemN,double,0.845
+Inosine,b0077,b3670,ilvI,ilvN,double,0.845
+Inosine,b2235,b4238,nrdB,nrdD,double,0.845
+Inosine,b3386,b3734,rpe,atpA,double,0.845
+Inosine,b1090,b4041,plsX,plsB,double,0.845
+Inosine,b1761,b3212,gdhA,gltB,double,0.845
+Inosine,b2234,b4238,nrdA,nrdD,double,0.845
+Inosine,b1779,b3735,gapA,atpH,double,0.845
+Inosine,b3059,b4041,plsY,plsB,double,0.845
+Inosine,b0261,b3386,mmuM,rpe,double,0.845
+Inosine,b3386,b3737,rpe,atpE,double,0.845
+Inosine,b0674,b3744,asnB,asnA,double,0.845
+Inosine,b0765,b2424,modC,cysU,double,0.845
+Inosine,b0844,b3812,ybjI,yigB,double,0.845
+Inosine,b0078,b3671,ilvH,ilvB,double,0.845
+Inosine,b1378,b3924,pfo,fpr,double,0.845
+Inosine,b0870,b2320,ltaE,pdxB,double,0.845
+Inosine,b2926,b3733,pgk,atpG,double,0.845
+Inosine,b2551,b4388,glyA,serB,double,0.845
+Inosine,b0452,b0954,tesB,fabA,double,0.845
+Inosine,b2708,b3197,srlQ,kdsD,double,0.845
+Inosine,b2582,b3781,trxC,trxA,double,0.845
+2-DeoxyAdenosine,b0092,b0381,ddlB,ddlA,double,0.8327
+2-DeoxyAdenosine,b1702,b2926,ppsA,pgk,double,0.8327
+2-DeoxyAdenosine,b0388,b3390,aroL,aroK,double,0.8327
+2-DeoxyAdenosine,b2436,b3867,hemF,hemN,double,0.8327
+2-DeoxyAdenosine,b0077,b3670,ilvI,ilvN,double,0.8327
+2-DeoxyAdenosine,b0765,b2422,modC,cysA,double,0.8327
+2-DeoxyAdenosine,b2235,b4238,nrdB,nrdD,double,0.8327
+2-DeoxyAdenosine,b3829,b4019,metE,metH,double,0.8327
+2-DeoxyAdenosine,b0928,b4054,aspC,tyrB,double,0.8327
+2-DeoxyAdenosine,b2551,b2913,glyA,serA,double,0.8327
+2-DeoxyAdenosine,b1096,b4039,pabC,ubiC,double,0.8327
+2-DeoxyAdenosine,b3117,b3772,tdcB,ilvA,double,0.8327
+2-DeoxyAdenosine,b3386,b4025,rpe,pgi,double,0.8327
+2-DeoxyAdenosine,b1090,b4041,plsX,plsB,double,0.8327
+2-DeoxyAdenosine,b2508,b2868,guaB,xdhC,double,0.8327
+2-DeoxyAdenosine,b0048,b1606,folA,folM,double,0.8327
+2-DeoxyAdenosine,b1761,b3212,gdhA,gltB,double,0.8327
+2-DeoxyAdenosine,b0954,b3846,fabA,fadB,double,0.8327
+2-DeoxyAdenosine,b0764,b2423,modB,cysW,double,0.8327
+2-DeoxyAdenosine,b2414,b2421,cysK,cysM,double,0.8327
+2-DeoxyAdenosine,b0764,b2424,modB,cysU,double,0.8327
+2-DeoxyAdenosine,b2393,b2964,nupC,nupG,double,0.8327
+2-DeoxyAdenosine,b0273,b4254,argF,argI,double,0.8327
+2-DeoxyAdenosine,b0763,b2423,modA,cysW,double,0.8327
+2-DeoxyAdenosine,b2508,b2866,guaB,xdhA,double,0.8327
+2-DeoxyAdenosine,b1692,b3281,ydiB,aroE,double,0.8327
+2-DeoxyAdenosine,b0765,b2423,modC,cysW,double,0.8327
+2-DeoxyAdenosine,b2029,b3386,gnd,rpe,double,0.8327
+2-DeoxyAdenosine,b2234,b4238,nrdA,nrdD,double,0.8327
+2-DeoxyAdenosine,b0763,b2422,modA,cysA,double,0.8327
+2-DeoxyAdenosine,b0870,b2551,ltaE,glyA,double,0.8327
+2-DeoxyAdenosine,b3059,b4041,plsY,plsB,double,0.8327
+2-DeoxyAdenosine,b0155,b1592,clcA,clcB,double,0.8327
+2-DeoxyAdenosine,b2465,b2935,tktB,tktA,double,0.8327
+2-DeoxyAdenosine,b0002,b3940,thrA,metL,double,0.8327
+2-DeoxyAdenosine,b0907,b2551,serC,glyA,double,0.8327
+2-DeoxyAdenosine,b0238,b2508,gpt,guaB,double,0.8327
+2-DeoxyAdenosine,b0073,b1800,leuB,dmlA,double,0.8327
+2-DeoxyAdenosine,b0870,b0907,ltaE,serC,double,0.8327
+2-DeoxyAdenosine,b0674,b3744,asnB,asnA,double,0.8327
+2-DeoxyAdenosine,b0077,b3671,ilvI,ilvB,double,0.8327
+2-DeoxyAdenosine,b0765,b2424,modC,cysU,double,0.8327
+2-DeoxyAdenosine,b0763,b2424,modA,cysU,double,0.8327
+2-DeoxyAdenosine,b0844,b3812,ybjI,yigB,double,0.8327
+2-DeoxyAdenosine,b1761,b3213,gdhA,gltD,double,0.8327
+2-DeoxyAdenosine,b1702,b2779,ppsA,eno,double,0.8327
+2-DeoxyAdenosine,b0171,b0910,pyrH,cmk,double,0.8327
+2-DeoxyAdenosine,b0126,b0339,can,cynT,double,0.8327
+2-DeoxyAdenosine,b0684,b2895,fldA,fldB,double,0.8327
+2-DeoxyAdenosine,b0078,b3671,ilvH,ilvB,double,0.8327
+2-DeoxyAdenosine,b1378,b3924,pfo,fpr,double,0.8327
+2-DeoxyAdenosine,b1190,b4053,dadX,alr,double,0.8327
+2-DeoxyAdenosine,b0032,b0521,carA,ybcF,double,0.8327
+2-DeoxyAdenosine,b0118,b1276,acnB,acnA,double,0.8327
+2-DeoxyAdenosine,b1849,b2500,purT,purN,double,0.8327
+2-DeoxyAdenosine,b0870,b2320,ltaE,pdxB,double,0.8327
+2-DeoxyAdenosine,b0764,b2422,modB,cysA,double,0.8327
+2-DeoxyAdenosine,b1852,b3386,zwf,rpe,double,0.8327
+2-DeoxyAdenosine,b0954,b2836,fabA,aas,double,0.8327
+2-DeoxyAdenosine,b0767,b3386,pgl,rpe,double,0.8327
+2-DeoxyAdenosine,b0149,b3396,mrcB,mrcA,double,0.8327
+2-DeoxyAdenosine,b0099,b1865,mutT,nudB,double,0.8327
+2-DeoxyAdenosine,b2551,b4388,glyA,serB,double,0.8327
+2-DeoxyAdenosine,b1622,b3008,malY,metC,double,0.8327
+2-DeoxyAdenosine,b0452,b0954,tesB,fabA,double,0.8327
+2-DeoxyAdenosine,b1702,b1779,ppsA,gapA,double,0.8327
+2-DeoxyAdenosine,b2508,b2867,guaB,xdhB,double,0.8327
+2-DeoxyAdenosine,b2708,b3197,srlQ,kdsD,double,0.8327
+2-DeoxyAdenosine,b0078,b3670,ilvH,ilvN,double,0.8327
+2-DeoxyAdenosine,b0033,b0521,carB,ybcF,double,0.8327
+2-DeoxyAdenosine,b2582,b3781,trxC,trxA,double,0.8327
+N-Acetyl-D-Glucosamine,b0388,b3390,aroL,aroK,double,0.8297
+N-Acetyl-D-Glucosamine,b0765,b2422,modC,cysA,double,0.8297
+N-Acetyl-D-Glucosamine,b0928,b4054,aspC,tyrB,double,0.8297
+N-Acetyl-D-Glucosamine,b3117,b3772,tdcB,ilvA,double,0.8297
+N-Acetyl-D-Glucosamine,b2508,b2868,guaB,xdhC,double,0.8297
+N-Acetyl-D-Glucosamine,b0048,b1606,folA,folM,double,0.8297
+N-Acetyl-D-Glucosamine,b1779,b3738,gapA,atpB,double,0.8297
+N-Acetyl-D-Glucosamine,b2926,b3732,pgk,atpD,double,0.8297
+N-Acetyl-D-Glucosamine,b0764,b2423,modB,cysW,double,0.8297
+N-Acetyl-D-Glucosamine,b2414,b2421,cysK,cysM,double,0.8297
+N-Acetyl-D-Glucosamine,b1692,b3281,ydiB,aroE,double,0.8297
+N-Acetyl-D-Glucosamine,b2926,b3734,pgk,atpA,double,0.8297
+N-Acetyl-D-Glucosamine,b0155,b1592,clcA,clcB,double,0.8297
+N-Acetyl-D-Glucosamine,b2465,b2935,tktB,tktA,double,0.8297
+N-Acetyl-D-Glucosamine,b1779,b3731,gapA,atpC,double,0.8297
+N-Acetyl-D-Glucosamine,b0907,b2551,serC,glyA,double,0.8297
+N-Acetyl-D-Glucosamine,b1779,b3736,gapA,atpF,double,0.8297
+N-Acetyl-D-Glucosamine,b0870,b0907,ltaE,serC,double,0.8297
+N-Acetyl-D-Glucosamine,b1779,b3737,gapA,atpE,double,0.8297
+N-Acetyl-D-Glucosamine,b1702,b3919,ppsA,tpiA,double,0.8297
+N-Acetyl-D-Glucosamine,b1702,b2779,ppsA,eno,double,0.8297
+N-Acetyl-D-Glucosamine,b0126,b0339,can,cynT,double,0.8297
+N-Acetyl-D-Glucosamine,b1779,b3732,gapA,atpD,double,0.8297
+N-Acetyl-D-Glucosamine,b2926,b3738,pgk,atpB,double,0.8297
+N-Acetyl-D-Glucosamine,b0684,b2895,fldA,fldB,double,0.8297
+N-Acetyl-D-Glucosamine,b2779,b3735,eno,atpH,double,0.8297
+N-Acetyl-D-Glucosamine,b2779,b3733,eno,atpG,double,0.8297
+N-Acetyl-D-Glucosamine,b2779,b3737,eno,atpE,double,0.8297
+N-Acetyl-D-Glucosamine,b2779,b3731,eno,atpC,double,0.8297
+N-Acetyl-D-Glucosamine,b0954,b2836,fabA,aas,double,0.8297
+N-Acetyl-D-Glucosamine,b0149,b3396,mrcB,mrcA,double,0.8297
+N-Acetyl-D-Glucosamine,b0099,b1865,mutT,nudB,double,0.8297
+N-Acetyl-D-Glucosamine,b1622,b3008,malY,metC,double,0.8297
+N-Acetyl-D-Glucosamine,b2508,b2867,guaB,xdhB,double,0.8297
+N-Acetyl-D-Glucosamine,b0032,b0521,carA,ybcF,double,0.8297
+N-Acetyl-D-Glucosamine,b1779,b3733,gapA,atpG,double,0.8297
+N-Acetyl-D-Glucosamine,b3829,b4019,metE,metH,double,0.8297
+N-Acetyl-D-Glucosamine,b2551,b2913,glyA,serA,double,0.8297
+N-Acetyl-D-Glucosamine,b3386,b4025,rpe,pgi,double,0.8297
+N-Acetyl-D-Glucosamine,b0954,b3846,fabA,fadB,double,0.8297
+N-Acetyl-D-Glucosamine,b2508,b2866,guaB,xdhA,double,0.8297
+N-Acetyl-D-Glucosamine,b2029,b3386,gnd,rpe,double,0.8297
+N-Acetyl-D-Glucosamine,b0763,b2422,modA,cysA,double,0.8297
+N-Acetyl-D-Glucosamine,b0870,b2551,ltaE,glyA,double,0.8297
+N-Acetyl-D-Glucosamine,b0073,b1800,leuB,dmlA,double,0.8297
+N-Acetyl-D-Glucosamine,b0002,b3940,thrA,metL,double,0.8297
+N-Acetyl-D-Glucosamine,b0238,b2508,gpt,guaB,double,0.8297
+N-Acetyl-D-Glucosamine,b2926,b3735,pgk,atpH,double,0.8297
+N-Acetyl-D-Glucosamine,b0077,b3671,ilvI,ilvB,double,0.8297
+N-Acetyl-D-Glucosamine,b0171,b0910,pyrH,cmk,double,0.8297
+N-Acetyl-D-Glucosamine,b1190,b4053,dadX,alr,double,0.8297
+N-Acetyl-D-Glucosamine,b0118,b1276,acnB,acnA,double,0.8297
+N-Acetyl-D-Glucosamine,b0764,b2422,modB,cysA,double,0.8297
+N-Acetyl-D-Glucosamine,b1852,b3386,zwf,rpe,double,0.8297
+N-Acetyl-D-Glucosamine,b2779,b3732,eno,atpD,double,0.8297
+N-Acetyl-D-Glucosamine,b0763,b2424,modA,cysU,double,0.8297
+N-Acetyl-D-Glucosamine,b1761,b3213,gdhA,gltD,double,0.8297
+N-Acetyl-D-Glucosamine,b1702,b1779,ppsA,gapA,double,0.8297
+N-Acetyl-D-Glucosamine,b0033,b0521,carB,ybcF,double,0.8297
+N-Acetyl-D-Glucosamine,b0092,b0381,ddlB,ddlA,double,0.8297
+N-Acetyl-D-Glucosamine,b1096,b4039,pabC,ubiC,double,0.8297
+N-Acetyl-D-Glucosamine,b0764,b2424,modB,cysU,double,0.8297
+N-Acetyl-D-Glucosamine,b0273,b4254,argF,argI,double,0.8297
+N-Acetyl-D-Glucosamine,b0763,b2423,modA,cysW,double,0.8297
+N-Acetyl-D-Glucosamine,b2926,b3737,pgk,atpE,double,0.8297
+N-Acetyl-D-Glucosamine,b0765,b2423,modC,cysW,double,0.8297
+N-Acetyl-D-Glucosamine,b2926,b3736,pgk,atpF,double,0.8297
+N-Acetyl-D-Glucosamine,b2926,b3731,pgk,atpC,double,0.8297
+N-Acetyl-D-Glucosamine,b1779,b3734,gapA,atpA,double,0.8297
+N-Acetyl-D-Glucosamine,b0679,b1101,nagE,ptsG,double,0.8297
+N-Acetyl-D-Glucosamine,b1849,b2500,purT,purN,double,0.8297
+N-Acetyl-D-Glucosamine,b0767,b3386,pgl,rpe,double,0.8297
+N-Acetyl-D-Glucosamine,b0078,b3670,ilvH,ilvN,double,0.8297
+N-Acetyl-D-Glucosamine,b1702,b2926,ppsA,pgk,double,0.8297
+N-Acetyl-D-Glucosamine,b2436,b3867,hemF,hemN,double,0.8297
+N-Acetyl-D-Glucosamine,b2779,b3738,eno,atpB,double,0.8297
+N-Acetyl-D-Glucosamine,b0077,b3670,ilvI,ilvN,double,0.8297
+N-Acetyl-D-Glucosamine,b2235,b4238,nrdB,nrdD,double,0.8297
+N-Acetyl-D-Glucosamine,b0679,b2417,nagE,crr,double,0.8297
+N-Acetyl-D-Glucosamine,b1090,b4041,plsX,plsB,double,0.8297
+N-Acetyl-D-Glucosamine,b2779,b3736,eno,atpF,double,0.8297
+N-Acetyl-D-Glucosamine,b1761,b3212,gdhA,gltB,double,0.8297
+N-Acetyl-D-Glucosamine,b2234,b4238,nrdA,nrdD,double,0.8297
+N-Acetyl-D-Glucosamine,b1779,b3735,gapA,atpH,double,0.8297
+N-Acetyl-D-Glucosamine,b3059,b4041,plsY,plsB,double,0.8297
+N-Acetyl-D-Glucosamine,b0674,b3744,asnB,asnA,double,0.8297
+N-Acetyl-D-Glucosamine,b0765,b2424,modC,cysU,double,0.8297
+N-Acetyl-D-Glucosamine,b0844,b3812,ybjI,yigB,double,0.8297
+N-Acetyl-D-Glucosamine,b2779,b3734,eno,atpA,double,0.8297
+N-Acetyl-D-Glucosamine,b0078,b3671,ilvH,ilvB,double,0.8297
+N-Acetyl-D-Glucosamine,b1378,b3924,pfo,fpr,double,0.8297
+N-Acetyl-D-Glucosamine,b0870,b2320,ltaE,pdxB,double,0.8297
+N-Acetyl-D-Glucosamine,b2926,b3733,pgk,atpG,double,0.8297
+N-Acetyl-D-Glucosamine,b2551,b4388,glyA,serB,double,0.8297
+N-Acetyl-D-Glucosamine,b0452,b0954,tesB,fabA,double,0.8297
+N-Acetyl-D-Glucosamine,b2708,b3197,srlQ,kdsD,double,0.8297
+N-Acetyl-D-Glucosamine,b2582,b3781,trxC,trxA,double,0.8297
+Uridine,b3665,b3731,adeD,atpC,double,0.6435
+Uridine,b0388,b3390,aroL,aroK,double,0.6435
+Uridine,b0765,b2422,modC,cysA,double,0.6435
+Uridine,b0928,b4054,aspC,tyrB,double,0.6435
+Uridine,b2066,b3831,udk,udp,double,0.6435
+Uridine,b3732,b3831,atpD,udp,double,0.6435
+Uridine,b3117,b3772,tdcB,ilvA,double,0.6435
+Uridine,b0477,b3732,gsk,atpD,double,0.6435
+Uridine,b0477,b2066,gsk,udk,double,0.6435
+Uridine,b3731,b3831,atpC,udp,double,0.6435
+Uridine,b1982,b3738,amn,atpB,double,0.6435
+Uridine,b2508,b2868,guaB,xdhC,double,0.6435
+Uridine,b0048,b1606,folA,folM,double,0.6435
+Uridine,b1779,b3738,gapA,atpB,double,0.6435
+Uridine,b2926,b3732,pgk,atpD,double,0.6435
+Uridine,b0764,b2423,modB,cysW,double,0.6435
+Uridine,b2414,b2421,cysK,cysM,double,0.6435
+Uridine,b3386,b3736,rpe,atpF,double,0.6435
+Uridine,b2926,b3734,pgk,atpA,double,0.6435
+Uridine,b0155,b1592,clcA,clcB,double,0.6435
+Uridine,b1982,b3736,amn,atpF,double,0.6435
+Uridine,b2465,b2935,tktB,tktA,double,0.6435
+Uridine,b1779,b3731,gapA,atpC,double,0.6435
+Uridine,b0907,b2551,serC,glyA,double,0.6435
+Uridine,b1779,b3736,gapA,atpF,double,0.6435
+Uridine,b0337,b3665,codA,adeD,double,0.6435
+Uridine,b0870,b0907,ltaE,serC,double,0.6435
+Uridine,b1779,b3737,gapA,atpE,double,0.6435
+Uridine,b1702,b2779,ppsA,eno,double,0.6435
+Uridine,b0684,b2895,fldA,fldB,double,0.6435
+Uridine,b2926,b3738,pgk,atpB,double,0.6435
+Uridine,b0126,b0339,can,cynT,double,0.6435
+Uridine,b1779,b3732,gapA,atpD,double,0.6435
+Uridine,b2779,b3735,eno,atpH,double,0.6435
+Uridine,b2779,b3733,eno,atpG,double,0.6435
+Uridine,b1982,b3732,amn,atpD,double,0.6435
+Uridine,b3733,b3919,atpG,tpiA,double,0.6435
+Uridine,b3735,b3919,atpH,tpiA,double,0.6435
+Uridine,b0477,b3738,gsk,atpB,double,0.6435
+Uridine,b2708,b3197,srlQ,kdsD,double,0.6435
+Uridine,b3737,b3919,atpE,tpiA,double,0.6435
+Uridine,b2779,b3737,eno,atpE,double,0.6435
+Uridine,b3665,b3737,adeD,atpE,double,0.6435
+Uridine,b2779,b3731,eno,atpC,double,0.6435
+Uridine,b3731,b3919,atpC,tpiA,double,0.6435
+Uridine,b0954,b2836,fabA,aas,double,0.6435
+Uridine,b0149,b3396,mrcB,mrcA,double,0.6435
+Uridine,b0099,b1865,mutT,nudB,double,0.6435
+Uridine,b1622,b3008,malY,metC,double,0.6435
+Uridine,b2508,b2867,guaB,xdhB,double,0.6435
+Uridine,b0032,b0521,carA,ybcF,double,0.6435
+Uridine,b3737,b3831,atpE,udp,double,0.6435
+Uridine,b1779,b3733,gapA,atpG,double,0.6435
+Uridine,b3829,b4019,metE,metH,double,0.6435
+Uridine,b2066,b3665,udk,adeD,double,0.6435
+Uridine,b2551,b2913,glyA,serA,double,0.6435
+Uridine,b3386,b3735,rpe,atpH,double,0.6435
+Uridine,b0954,b3846,fabA,fadB,double,0.6435
+Uridine,b3733,b3831,atpG,udp,double,0.6435
+Uridine,b2393,b2964,nupC,nupG,double,0.6435
+Uridine,b0477,b3734,gsk,atpA,double,0.6435
+Uridine,b3386,b3738,rpe,atpB,double,0.6435
+Uridine,b2508,b2866,guaB,xdhA,double,0.6435
+Uridine,b0477,b3735,gsk,atpH,double,0.6435
+Uridine,b0763,b2422,modA,cysA,double,0.6435
+Uridine,b0870,b2551,ltaE,glyA,double,0.6435
+Uridine,b1517,b3386,lsrF,rpe,double,0.6435
+Uridine,b0073,b1800,leuB,dmlA,double,0.6435
+Uridine,b0002,b3940,thrA,metL,double,0.6435
+Uridine,b0238,b2508,gpt,guaB,double,0.6435
+Uridine,b2926,b3735,pgk,atpH,double,0.6435
+Uridine,b0337,b3831,codA,udp,double,0.6435
+Uridine,b0077,b3671,ilvI,ilvB,double,0.6435
+Uridine,b3386,b3732,rpe,atpD,double,0.6435
+Uridine,b0171,b0910,pyrH,cmk,double,0.6435
+Uridine,b1190,b4053,dadX,alr,double,0.6435
+Uridine,b0118,b1276,acnB,acnA,double,0.6435
+Uridine,b3736,b3831,atpF,udp,double,0.6435
+Uridine,b0764,b2422,modB,cysA,double,0.6435
+Uridine,b1982,b3735,amn,atpH,double,0.6435
+Uridine,b2779,b3732,eno,atpD,double,0.6435
+Uridine,b3732,b3919,atpD,tpiA,double,0.6435
+Uridine,b1761,b3213,gdhA,gltD,double,0.6435
+Uridine,b1702,b1779,ppsA,gapA,double,0.6435
+Uridine,b0763,b2424,modA,cysU,double,0.6435
+Uridine,b0033,b0521,carB,ybcF,double,0.6435
+Uridine,b0092,b0381,ddlB,ddlA,double,0.6435
+Uridine,b1982,b3731,amn,atpC,double,0.6435
+Uridine,b1096,b4039,pabC,ubiC,double,0.6435
+Uridine,b3735,b3831,atpH,udp,double,0.6435
+Uridine,b3734,b3831,atpA,udp,double,0.6435
+Uridine,b3665,b3738,adeD,atpB,double,0.6435
+Uridine,b0764,b2424,modB,cysU,double,0.6435
+Uridine,b3665,b3733,adeD,atpG,double,0.6435
+Uridine,b0273,b4254,argF,argI,double,0.6435
+Uridine,b0763,b2423,modA,cysW,double,0.6435
+Uridine,b2926,b3737,pgk,atpE,double,0.6435
+Uridine,b0765,b2423,modC,cysW,double,0.6435
+Uridine,b2926,b3736,pgk,atpF,double,0.6435
+Uridine,b1982,b3734,amn,atpA,double,0.6435
+Uridine,b2926,b3731,pgk,atpC,double,0.6435
+Uridine,b1779,b3734,gapA,atpA,double,0.6435
+Uridine,b0477,b3736,gsk,atpF,double,0.6435
+Uridine,b3665,b3732,adeD,atpD,double,0.6435
+Uridine,b1849,b2500,purT,purN,double,0.6435
+Uridine,b3386,b3731,rpe,atpC,double,0.6435
+Uridine,b3386,b3733,rpe,atpG,double,0.6435
+Uridine,b0337,b0477,codA,gsk,double,0.6435
+Uridine,b3738,b3831,atpB,udp,double,0.6435
+Uridine,b1518,b3386,lsrG,rpe,double,0.6435
+Uridine,b1511,b3386,lsrK,rpe,double,0.6435
+Uridine,b0078,b3670,ilvH,ilvN,double,0.6435
+Uridine,b0477,b3733,gsk,atpG,double,0.6435
+Uridine,b1702,b2926,ppsA,pgk,double,0.6435
+Uridine,b2436,b3867,hemF,hemN,double,0.6435
+Uridine,b3738,b3919,atpB,tpiA,double,0.6435
+Uridine,b0077,b3670,ilvI,ilvN,double,0.6435
+Uridine,b2779,b3738,eno,atpB,double,0.6435
+Uridine,b3665,b3735,adeD,atpH,double,0.6435
+Uridine,b2235,b4238,nrdB,nrdD,double,0.6435
+Uridine,b3386,b3734,rpe,atpA,double,0.6435
+Uridine,b1090,b4041,plsX,plsB,double,0.6435
+Uridine,b3665,b3736,adeD,atpF,double,0.6435
+Uridine,b2779,b3736,eno,atpF,double,0.6435
+Uridine,b0477,b3737,gsk,atpE,double,0.6435
+Uridine,b1761,b3212,gdhA,gltB,double,0.6435
+Uridine,b3736,b3919,atpF,tpiA,double,0.6435
+Uridine,b0477,b3731,gsk,atpC,double,0.6435
+Uridine,b2234,b4238,nrdA,nrdD,double,0.6435
+Uridine,b1779,b3735,gapA,atpH,double,0.6435
+Uridine,b3059,b4041,plsY,plsB,double,0.6435
+Uridine,b3386,b3737,rpe,atpE,double,0.6435
+Uridine,b0261,b3386,mmuM,rpe,double,0.6435
+Uridine,b1982,b3733,amn,atpG,double,0.6435
+Uridine,b0674,b3744,asnB,asnA,double,0.6435
+Uridine,b0765,b2424,modC,cysU,double,0.6435
+Uridine,b0844,b3812,ybjI,yigB,double,0.6435
+Uridine,b1982,b3737,amn,atpE,double,0.6435
+Uridine,b3734,b3919,atpA,tpiA,double,0.6435
+Uridine,b2779,b3734,eno,atpA,double,0.6435
+Uridine,b3665,b3734,adeD,atpA,double,0.6435
+Uridine,b0078,b3671,ilvH,ilvB,double,0.6435
+Uridine,b1378,b3924,pfo,fpr,double,0.6435
+Uridine,b0870,b2320,ltaE,pdxB,double,0.6435
+Uridine,b2551,b4388,glyA,serB,double,0.6435
+Uridine,b2926,b3733,pgk,atpG,double,0.6435
+Uridine,b0452,b0954,tesB,fabA,double,0.6435
+Uridine,b1692,b3281,ydiB,aroE,double,0.6435
+Uridine,b2582,b3781,trxC,trxA,double,0.6435
+D-Mannose,b0388,b3390,aroL,aroK,double,0.8091
+D-Mannose,b0765,b2422,modC,cysA,double,0.8091
+D-Mannose,b0928,b4054,aspC,tyrB,double,0.8091
+D-Mannose,b3117,b3772,tdcB,ilvA,double,0.8091
+D-Mannose,b2508,b2868,guaB,xdhC,double,0.8091
+D-Mannose,b0048,b1606,folA,folM,double,0.8091
+D-Mannose,b1779,b3738,gapA,atpB,double,0.8091
+D-Mannose,b2926,b3732,pgk,atpD,double,0.8091
+D-Mannose,b0764,b2423,modB,cysW,double,0.8091
+D-Mannose,b2414,b2421,cysK,cysM,double,0.8091
+D-Mannose,b1692,b3281,ydiB,aroE,double,0.8091
+D-Mannose,b0155,b1592,clcA,clcB,double,0.8091
+D-Mannose,b2926,b3734,pgk,atpA,double,0.8091
+D-Mannose,b1779,b3731,gapA,atpC,double,0.8091
+D-Mannose,b2465,b2935,tktB,tktA,double,0.8091
+D-Mannose,b0907,b2551,serC,glyA,double,0.8091
+D-Mannose,b1779,b3736,gapA,atpF,double,0.8091
+D-Mannose,b0870,b0907,ltaE,serC,double,0.8091
+D-Mannose,b1779,b3737,gapA,atpE,double,0.8091
+D-Mannose,b1702,b3919,ppsA,tpiA,double,0.8091
+D-Mannose,b1702,b2779,ppsA,eno,double,0.8091
+D-Mannose,b0684,b2895,fldA,fldB,double,0.8091
+D-Mannose,b0126,b0339,can,cynT,double,0.8091
+D-Mannose,b1779,b3732,gapA,atpD,double,0.8091
+D-Mannose,b2926,b3738,pgk,atpB,double,0.8091
+D-Mannose,b2779,b3735,eno,atpH,double,0.8091
+D-Mannose,b2779,b3733,eno,atpG,double,0.8091
+D-Mannose,b2779,b3737,eno,atpE,double,0.8091
+D-Mannose,b2779,b3731,eno,atpC,double,0.8091
+D-Mannose,b0954,b2836,fabA,aas,double,0.8091
+D-Mannose,b0149,b3396,mrcB,mrcA,double,0.8091
+D-Mannose,b0099,b1865,mutT,nudB,double,0.8091
+D-Mannose,b1622,b3008,malY,metC,double,0.8091
+D-Mannose,b2508,b2867,guaB,xdhB,double,0.8091
+D-Mannose,b0032,b0521,carA,ybcF,double,0.8091
+D-Mannose,b1779,b3733,gapA,atpG,double,0.8091
+D-Mannose,b3829,b4019,metE,metH,double,0.8091
+D-Mannose,b2551,b2913,glyA,serA,double,0.8091
+D-Mannose,b3386,b4025,rpe,pgi,double,0.8091
+D-Mannose,b0954,b3846,fabA,fadB,double,0.8091
+D-Mannose,b2508,b2866,guaB,xdhA,double,0.8091
+D-Mannose,b2029,b3386,gnd,rpe,double,0.8091
+D-Mannose,b0763,b2422,modA,cysA,double,0.8091
+D-Mannose,b0870,b2551,ltaE,glyA,double,0.8091
+D-Mannose,b0002,b3940,thrA,metL,double,0.8091
+D-Mannose,b0238,b2508,gpt,guaB,double,0.8091
+D-Mannose,b0073,b1800,leuB,dmlA,double,0.8091
+D-Mannose,b2926,b3735,pgk,atpH,double,0.8091
+D-Mannose,b0077,b3671,ilvI,ilvB,double,0.8091
+D-Mannose,b0171,b0910,pyrH,cmk,double,0.8091
+D-Mannose,b1190,b4053,dadX,alr,double,0.8091
+D-Mannose,b0118,b1276,acnB,acnA,double,0.8091
+D-Mannose,b0764,b2422,modB,cysA,double,0.8091
+D-Mannose,b1852,b3386,zwf,rpe,double,0.8091
+D-Mannose,b2779,b3732,eno,atpD,double,0.8091
+D-Mannose,b0763,b2424,modA,cysU,double,0.8091
+D-Mannose,b1702,b1779,ppsA,gapA,double,0.8091
+D-Mannose,b1761,b3213,gdhA,gltD,double,0.8091
+D-Mannose,b0033,b0521,carB,ybcF,double,0.8091
+D-Mannose,b0092,b0381,ddlB,ddlA,double,0.8091
+D-Mannose,b1096,b4039,pabC,ubiC,double,0.8091
+D-Mannose,b0764,b2424,modB,cysU,double,0.8091
+D-Mannose,b0273,b4254,argF,argI,double,0.8091
+D-Mannose,b0763,b2423,modA,cysW,double,0.8091
+D-Mannose,b2926,b3737,pgk,atpE,double,0.8091
+D-Mannose,b0765,b2423,modC,cysW,double,0.8091
+D-Mannose,b2926,b3736,pgk,atpF,double,0.8091
+D-Mannose,b2926,b3731,pgk,atpC,double,0.8091
+D-Mannose,b1779,b3734,gapA,atpA,double,0.8091
+D-Mannose,b1849,b2500,purT,purN,double,0.8091
+D-Mannose,b0767,b3386,pgl,rpe,double,0.8091
+D-Mannose,b0078,b3670,ilvH,ilvN,double,0.8091
+D-Mannose,b1702,b2926,ppsA,pgk,double,0.8091
+D-Mannose,b2436,b3867,hemF,hemN,double,0.8091
+D-Mannose,b2779,b3738,eno,atpB,double,0.8091
+D-Mannose,b0077,b3670,ilvI,ilvN,double,0.8091
+D-Mannose,b2235,b4238,nrdB,nrdD,double,0.8091
+D-Mannose,b1090,b4041,plsX,plsB,double,0.8091
+D-Mannose,b2779,b3736,eno,atpF,double,0.8091
+D-Mannose,b1761,b3212,gdhA,gltB,double,0.8091
+D-Mannose,b2234,b4238,nrdA,nrdD,double,0.8091
+D-Mannose,b1779,b3735,gapA,atpH,double,0.8091
+D-Mannose,b3059,b4041,plsY,plsB,double,0.8091
+D-Mannose,b0674,b3744,asnB,asnA,double,0.8091
+D-Mannose,b0765,b2424,modC,cysU,double,0.8091
+D-Mannose,b0844,b3812,ybjI,yigB,double,0.8091
+D-Mannose,b2779,b3734,eno,atpA,double,0.8091
+D-Mannose,b0078,b3671,ilvH,ilvB,double,0.8091
+D-Mannose,b1378,b3924,pfo,fpr,double,0.8091
+D-Mannose,b0870,b2320,ltaE,pdxB,double,0.8091
+D-Mannose,b2551,b4388,glyA,serB,double,0.8091
+D-Mannose,b2926,b3733,pgk,atpG,double,0.8091
+D-Mannose,b0452,b0954,tesB,fabA,double,0.8091
+D-Mannose,b2708,b3197,srlQ,kdsD,double,0.8091
+D-Mannose,b2582,b3781,trxC,trxA,double,0.8091
+D-Fructose,b0092,b0381,ddlB,ddlA,double,0.8091
+D-Fructose,b0388,b3390,aroL,aroK,double,0.8091
+D-Fructose,b2436,b3867,hemF,hemN,double,0.8091
+D-Fructose,b0077,b3670,ilvI,ilvN,double,0.8091
+D-Fructose,b0765,b2422,modC,cysA,double,0.8091
+D-Fructose,b2235,b4238,nrdB,nrdD,double,0.8091
+D-Fructose,b3829,b4019,metE,metH,double,0.8091
+D-Fructose,b0928,b4054,aspC,tyrB,double,0.8091
+D-Fructose,b2551,b2913,glyA,serA,double,0.8091
+D-Fructose,b1096,b4039,pabC,ubiC,double,0.8091
+D-Fructose,b3117,b3772,tdcB,ilvA,double,0.8091
+D-Fructose,b0033,b0521,carB,ybcF,double,0.8091
+D-Fructose,b3386,b4025,rpe,pgi,double,0.8091
+D-Fructose,b1090,b4041,plsX,plsB,double,0.8091
+D-Fructose,b2508,b2868,guaB,xdhC,double,0.8091
+D-Fructose,b0048,b1606,folA,folM,double,0.8091
+D-Fructose,b1761,b3212,gdhA,gltB,double,0.8091
+D-Fructose,b0954,b3846,fabA,fadB,double,0.8091
+D-Fructose,b0764,b2423,modB,cysW,double,0.8091
+D-Fructose,b1817,b2167,manX,fruA,double,0.8091
+D-Fructose,b2414,b2421,cysK,cysM,double,0.8091
+D-Fructose,b0764,b2424,modB,cysU,double,0.8091
+D-Fructose,b1819,b2167,manZ,fruA,double,0.8091
+D-Fructose,b0273,b4254,argF,argI,double,0.8091
+D-Fructose,b0763,b2423,modA,cysW,double,0.8091
+D-Fructose,b2508,b2866,guaB,xdhA,double,0.8091
+D-Fructose,b1817,b2169,manX,fruB,double,0.8091
+D-Fructose,b1692,b3281,ydiB,aroE,double,0.8091
+D-Fructose,b0765,b2423,modC,cysW,double,0.8091
+D-Fructose,b2029,b3386,gnd,rpe,double,0.8091
+D-Fructose,b2234,b4238,nrdA,nrdD,double,0.8091
+D-Fructose,b0763,b2422,modA,cysA,double,0.8091
+D-Fructose,b0870,b2551,ltaE,glyA,double,0.8091
+D-Fructose,b3059,b4041,plsY,plsB,double,0.8091
+D-Fructose,b0155,b1592,clcA,clcB,double,0.8091
+D-Fructose,b2465,b2935,tktB,tktA,double,0.8091
+D-Fructose,b0073,b1800,leuB,dmlA,double,0.8091
+D-Fructose,b0907,b2551,serC,glyA,double,0.8091
+D-Fructose,b0002,b3940,thrA,metL,double,0.8091
+D-Fructose,b0238,b2508,gpt,guaB,double,0.8091
+D-Fructose,b0870,b0907,ltaE,serC,double,0.8091
+D-Fructose,b0674,b3744,asnB,asnA,double,0.8091
+D-Fructose,b0077,b3671,ilvI,ilvB,double,0.8091
+D-Fructose,b0765,b2424,modC,cysU,double,0.8091
+D-Fructose,b0763,b2424,modA,cysU,double,0.8091
+D-Fructose,b1818,b2167,manY,fruA,double,0.8091
+D-Fructose,b0844,b3812,ybjI,yigB,double,0.8091
+D-Fructose,b1761,b3213,gdhA,gltD,double,0.8091
+D-Fructose,b0126,b0339,can,cynT,double,0.8091
+D-Fructose,b0171,b0910,pyrH,cmk,double,0.8091
+D-Fructose,b1819,b2169,manZ,fruB,double,0.8091
+D-Fructose,b1190,b4053,dadX,alr,double,0.8091
+D-Fructose,b1378,b3924,pfo,fpr,double,0.8091
+D-Fructose,b0684,b2895,fldA,fldB,double,0.8091
+D-Fructose,b0078,b3671,ilvH,ilvB,double,0.8091
+D-Fructose,b0118,b1276,acnB,acnA,double,0.8091
+D-Fructose,b1849,b2500,purT,purN,double,0.8091
+D-Fructose,b0870,b2320,ltaE,pdxB,double,0.8091
+D-Fructose,b0764,b2422,modB,cysA,double,0.8091
+D-Fructose,b1852,b3386,zwf,rpe,double,0.8091
+D-Fructose,b0767,b3386,pgl,rpe,double,0.8091
+D-Fructose,b0954,b2836,fabA,aas,double,0.8091
+D-Fructose,b0149,b3396,mrcB,mrcA,double,0.8091
+D-Fructose,b0099,b1865,mutT,nudB,double,0.8091
+D-Fructose,b2551,b4388,glyA,serB,double,0.8091
+D-Fructose,b1818,b2169,manY,fruB,double,0.8091
+D-Fructose,b2582,b3781,trxC,trxA,double,0.8091
+D-Fructose,b0452,b0954,tesB,fabA,double,0.8091
+D-Fructose,b1622,b3008,malY,metC,double,0.8091
+D-Fructose,b2508,b2867,guaB,xdhB,double,0.8091
+D-Fructose,b2708,b3197,srlQ,kdsD,double,0.8091
+D-Fructose,b0078,b3670,ilvH,ilvN,double,0.8091
+D-Fructose,b2097,b2925,fbaB,fbaA,double,0.8091
+D-Fructose,b0755,b3612,gpmA,gpmM,double,0.8091
+D-Fructose,b0032,b0521,carA,ybcF,double,0.8091
+Glucose-1-Phosphate,b0388,b3390,aroL,aroK,double,0.8091
+Glucose-1-Phosphate,b0765,b2422,modC,cysA,double,0.8091
+Glucose-1-Phosphate,b0928,b4054,aspC,tyrB,double,0.8091
+Glucose-1-Phosphate,b3117,b3772,tdcB,ilvA,double,0.8091
+Glucose-1-Phosphate,b2508,b2868,guaB,xdhC,double,0.8091
+Glucose-1-Phosphate,b0048,b1606,folA,folM,double,0.8091
+Glucose-1-Phosphate,b1779,b3738,gapA,atpB,double,0.8091
+Glucose-1-Phosphate,b2926,b3732,pgk,atpD,double,0.8091
+Glucose-1-Phosphate,b0764,b2423,modB,cysW,double,0.8091
+Glucose-1-Phosphate,b2414,b2421,cysK,cysM,double,0.8091
+Glucose-1-Phosphate,b1692,b3281,ydiB,aroE,double,0.8091
+Glucose-1-Phosphate,b0155,b1592,clcA,clcB,double,0.8091
+Glucose-1-Phosphate,b2926,b3734,pgk,atpA,double,0.8091
+Glucose-1-Phosphate,b2465,b2935,tktB,tktA,double,0.8091
+Glucose-1-Phosphate,b1779,b3731,gapA,atpC,double,0.8091
+Glucose-1-Phosphate,b0907,b2551,serC,glyA,double,0.8091
+Glucose-1-Phosphate,b1779,b3736,gapA,atpF,double,0.8091
+Glucose-1-Phosphate,b0870,b0907,ltaE,serC,double,0.8091
+Glucose-1-Phosphate,b1779,b3737,gapA,atpE,double,0.8091
+Glucose-1-Phosphate,b0383,b1002,phoA,agp,double,0.8091
+Glucose-1-Phosphate,b1702,b2779,ppsA,eno,double,0.8091
+Glucose-1-Phosphate,b0684,b2895,fldA,fldB,double,0.8091
+Glucose-1-Phosphate,b2926,b3738,pgk,atpB,double,0.8091
+Glucose-1-Phosphate,b0126,b0339,can,cynT,double,0.8091
+Glucose-1-Phosphate,b1779,b3732,gapA,atpD,double,0.8091
+Glucose-1-Phosphate,b0954,b2836,fabA,aas,double,0.8091
+Glucose-1-Phosphate,b0149,b3396,mrcB,mrcA,double,0.8091
+Glucose-1-Phosphate,b0099,b1865,mutT,nudB,double,0.8091
+Glucose-1-Phosphate,b1622,b3008,malY,metC,double,0.8091
+Glucose-1-Phosphate,b2508,b2867,guaB,xdhB,double,0.8091
+Glucose-1-Phosphate,b0032,b0521,carA,ybcF,double,0.8091
+Glucose-1-Phosphate,b1779,b3733,gapA,atpG,double,0.8091
+Glucose-1-Phosphate,b3829,b4019,metE,metH,double,0.8091
+Glucose-1-Phosphate,b2551,b2913,glyA,serA,double,0.8091
+Glucose-1-Phosphate,b0954,b3846,fabA,fadB,double,0.8091
+Glucose-1-Phosphate,b2508,b2866,guaB,xdhA,double,0.8091
+Glucose-1-Phosphate,b2029,b3386,gnd,rpe,double,0.8091
+Glucose-1-Phosphate,b0763,b2422,modA,cysA,double,0.8091
+Glucose-1-Phosphate,b0870,b2551,ltaE,glyA,double,0.8091
+Glucose-1-Phosphate,b0002,b3940,thrA,metL,double,0.8091
+Glucose-1-Phosphate,b0238,b2508,gpt,guaB,double,0.8091
+Glucose-1-Phosphate,b0073,b1800,leuB,dmlA,double,0.8091
+Glucose-1-Phosphate,b2926,b3735,pgk,atpH,double,0.8091
+Glucose-1-Phosphate,b0077,b3671,ilvI,ilvB,double,0.8091
+Glucose-1-Phosphate,b0171,b0910,pyrH,cmk,double,0.8091
+Glucose-1-Phosphate,b1190,b4053,dadX,alr,double,0.8091
+Glucose-1-Phosphate,b0118,b1276,acnB,acnA,double,0.8091
+Glucose-1-Phosphate,b0764,b2422,modB,cysA,double,0.8091
+Glucose-1-Phosphate,b0763,b2424,modA,cysU,double,0.8091
+Glucose-1-Phosphate,b1761,b3213,gdhA,gltD,double,0.8091
+Glucose-1-Phosphate,b1702,b1779,ppsA,gapA,double,0.8091
+Glucose-1-Phosphate,b0033,b0521,carB,ybcF,double,0.8091
+Glucose-1-Phosphate,b0092,b0381,ddlB,ddlA,double,0.8091
+Glucose-1-Phosphate,b1096,b4039,pabC,ubiC,double,0.8091
+Glucose-1-Phosphate,b0764,b2424,modB,cysU,double,0.8091
+Glucose-1-Phosphate,b0273,b4254,argF,argI,double,0.8091
+Glucose-1-Phosphate,b0763,b2423,modA,cysW,double,0.8091
+Glucose-1-Phosphate,b2926,b3737,pgk,atpE,double,0.8091
+Glucose-1-Phosphate,b0765,b2423,modC,cysW,double,0.8091
+Glucose-1-Phosphate,b2926,b3736,pgk,atpF,double,0.8091
+Glucose-1-Phosphate,b2926,b3731,pgk,atpC,double,0.8091
+Glucose-1-Phosphate,b1779,b3734,gapA,atpA,double,0.8091
+Glucose-1-Phosphate,b1849,b2500,purT,purN,double,0.8091
+Glucose-1-Phosphate,b2029,b4025,gnd,pgi,double,0.8091
+Glucose-1-Phosphate,b0078,b3670,ilvH,ilvN,double,0.8091
+Glucose-1-Phosphate,b1702,b2926,ppsA,pgk,double,0.8091
+Glucose-1-Phosphate,b2436,b3867,hemF,hemN,double,0.8091
+Glucose-1-Phosphate,b0077,b3670,ilvI,ilvN,double,0.8091
+Glucose-1-Phosphate,b2235,b4238,nrdB,nrdD,double,0.8091
+Glucose-1-Phosphate,b1090,b4041,plsX,plsB,double,0.8091
+Glucose-1-Phosphate,b1761,b3212,gdhA,gltB,double,0.8091
+Glucose-1-Phosphate,b2234,b4238,nrdA,nrdD,double,0.8091
+Glucose-1-Phosphate,b1779,b3735,gapA,atpH,double,0.8091
+Glucose-1-Phosphate,b3059,b4041,plsY,plsB,double,0.8091
+Glucose-1-Phosphate,b0674,b3744,asnB,asnA,double,0.8091
+Glucose-1-Phosphate,b0765,b2424,modC,cysU,double,0.8091
+Glucose-1-Phosphate,b0844,b3812,ybjI,yigB,double,0.8091
+Glucose-1-Phosphate,b0078,b3671,ilvH,ilvB,double,0.8091
+Glucose-1-Phosphate,b1378,b3924,pfo,fpr,double,0.8091
+Glucose-1-Phosphate,b0870,b2320,ltaE,pdxB,double,0.8091
+Glucose-1-Phosphate,b2551,b4388,glyA,serB,double,0.8091
+Glucose-1-Phosphate,b2926,b3733,pgk,atpG,double,0.8091
+Glucose-1-Phosphate,b0452,b0954,tesB,fabA,double,0.8091
+Glucose-1-Phosphate,b2708,b3197,srlQ,kdsD,double,0.8091
+Glucose-1-Phosphate,b2582,b3781,trxC,trxA,double,0.8091
+D-Sorbitol,b0388,b3390,aroL,aroK,double,0.8191
+D-Sorbitol,b0765,b2422,modC,cysA,double,0.8191
+D-Sorbitol,b0928,b4054,aspC,tyrB,double,0.8191
+D-Sorbitol,b3117,b3772,tdcB,ilvA,double,0.8191
+D-Sorbitol,b2508,b2868,guaB,xdhC,double,0.8191
+D-Sorbitol,b0048,b1606,folA,folM,double,0.8191
+D-Sorbitol,b1779,b3738,gapA,atpB,double,0.8191
+D-Sorbitol,b2926,b3732,pgk,atpD,double,0.8191
+D-Sorbitol,b0764,b2423,modB,cysW,double,0.8191
+D-Sorbitol,b2414,b2421,cysK,cysM,double,0.8191
+D-Sorbitol,b1692,b3281,ydiB,aroE,double,0.8191
+D-Sorbitol,b2926,b3734,pgk,atpA,double,0.8191
+D-Sorbitol,b0155,b1592,clcA,clcB,double,0.8191
+D-Sorbitol,b2465,b2935,tktB,tktA,double,0.8191
+D-Sorbitol,b1779,b3731,gapA,atpC,double,0.8191
+D-Sorbitol,b1779,b3736,gapA,atpF,double,0.8191
+D-Sorbitol,b0907,b2551,serC,glyA,double,0.8191
+D-Sorbitol,b0870,b0907,ltaE,serC,double,0.8191
+D-Sorbitol,b1779,b3737,gapA,atpE,double,0.8191
+D-Sorbitol,b1702,b2779,ppsA,eno,double,0.8191
+D-Sorbitol,b1702,b3919,ppsA,tpiA,double,0.8191
+D-Sorbitol,b0126,b0339,can,cynT,double,0.8191
+D-Sorbitol,b2926,b3738,pgk,atpB,double,0.8191
+D-Sorbitol,b1779,b3732,gapA,atpD,double,0.8191
+D-Sorbitol,b0684,b2895,fldA,fldB,double,0.8191
+D-Sorbitol,b2779,b3735,eno,atpH,double,0.8191
+D-Sorbitol,b2779,b3733,eno,atpG,double,0.8191
+D-Sorbitol,b2779,b3737,eno,atpE,double,0.8191
+D-Sorbitol,b2779,b3731,eno,atpC,double,0.8191
+D-Sorbitol,b0954,b2836,fabA,aas,double,0.8191
+D-Sorbitol,b0149,b3396,mrcB,mrcA,double,0.8191
+D-Sorbitol,b0099,b1865,mutT,nudB,double,0.8191
+D-Sorbitol,b1622,b3008,malY,metC,double,0.8191
+D-Sorbitol,b2508,b2867,guaB,xdhB,double,0.8191
+D-Sorbitol,b0032,b0521,carA,ybcF,double,0.8191
+D-Sorbitol,b1779,b3733,gapA,atpG,double,0.8191
+D-Sorbitol,b3829,b4019,metE,metH,double,0.8191
+D-Sorbitol,b2551,b2913,glyA,serA,double,0.8191
+D-Sorbitol,b3386,b4025,rpe,pgi,double,0.8191
+D-Sorbitol,b0954,b3846,fabA,fadB,double,0.8191
+D-Sorbitol,b2508,b2866,guaB,xdhA,double,0.8191
+D-Sorbitol,b2029,b3386,gnd,rpe,double,0.8191
+D-Sorbitol,b0763,b2422,modA,cysA,double,0.8191
+D-Sorbitol,b0870,b2551,ltaE,glyA,double,0.8191
+D-Sorbitol,b0073,b1800,leuB,dmlA,double,0.8191
+D-Sorbitol,b0002,b3940,thrA,metL,double,0.8191
+D-Sorbitol,b0238,b2508,gpt,guaB,double,0.8191
+D-Sorbitol,b2926,b3735,pgk,atpH,double,0.8191
+D-Sorbitol,b0077,b3671,ilvI,ilvB,double,0.8191
+D-Sorbitol,b0171,b0910,pyrH,cmk,double,0.8191
+D-Sorbitol,b1190,b4053,dadX,alr,double,0.8191
+D-Sorbitol,b0118,b1276,acnB,acnA,double,0.8191
+D-Sorbitol,b0764,b2422,modB,cysA,double,0.8191
+D-Sorbitol,b1852,b3386,zwf,rpe,double,0.8191
+D-Sorbitol,b2779,b3732,eno,atpD,double,0.8191
+D-Sorbitol,b0763,b2424,modA,cysU,double,0.8191
+D-Sorbitol,b1761,b3213,gdhA,gltD,double,0.8191
+D-Sorbitol,b1702,b1779,ppsA,gapA,double,0.8191
+D-Sorbitol,b0033,b0521,carB,ybcF,double,0.8191
+D-Sorbitol,b0092,b0381,ddlB,ddlA,double,0.8191
+D-Sorbitol,b1096,b4039,pabC,ubiC,double,0.8191
+D-Sorbitol,b0764,b2424,modB,cysU,double,0.8191
+D-Sorbitol,b0273,b4254,argF,argI,double,0.8191
+D-Sorbitol,b0763,b2423,modA,cysW,double,0.8191
+D-Sorbitol,b2926,b3737,pgk,atpE,double,0.8191
+D-Sorbitol,b0765,b2423,modC,cysW,double,0.8191
+D-Sorbitol,b2926,b3736,pgk,atpF,double,0.8191
+D-Sorbitol,b2926,b3731,pgk,atpC,double,0.8191
+D-Sorbitol,b1779,b3734,gapA,atpA,double,0.8191
+D-Sorbitol,b1849,b2500,purT,purN,double,0.8191
+D-Sorbitol,b0767,b3386,pgl,rpe,double,0.8191
+D-Sorbitol,b0078,b3670,ilvH,ilvN,double,0.8191
+D-Sorbitol,b1702,b2926,ppsA,pgk,double,0.8191
+D-Sorbitol,b2436,b3867,hemF,hemN,double,0.8191
+D-Sorbitol,b2779,b3738,eno,atpB,double,0.8191
+D-Sorbitol,b0077,b3670,ilvI,ilvN,double,0.8191
+D-Sorbitol,b2235,b4238,nrdB,nrdD,double,0.8191
+D-Sorbitol,b1090,b4041,plsX,plsB,double,0.8191
+D-Sorbitol,b2779,b3736,eno,atpF,double,0.8191
+D-Sorbitol,b1761,b3212,gdhA,gltB,double,0.8191
+D-Sorbitol,b2234,b4238,nrdA,nrdD,double,0.8191
+D-Sorbitol,b1779,b3735,gapA,atpH,double,0.8191
+D-Sorbitol,b3059,b4041,plsY,plsB,double,0.8191
+D-Sorbitol,b0674,b3744,asnB,asnA,double,0.8191
+D-Sorbitol,b0765,b2424,modC,cysU,double,0.8191
+D-Sorbitol,b0844,b3812,ybjI,yigB,double,0.8191
+D-Sorbitol,b2779,b3734,eno,atpA,double,0.8191
+D-Sorbitol,b0078,b3671,ilvH,ilvB,double,0.8191
+D-Sorbitol,b1378,b3924,pfo,fpr,double,0.8191
+D-Sorbitol,b0870,b2320,ltaE,pdxB,double,0.8191
+D-Sorbitol,b2926,b3733,pgk,atpG,double,0.8191
+D-Sorbitol,b2551,b4388,glyA,serB,double,0.8191
+D-Sorbitol,b0452,b0954,tesB,fabA,double,0.8191
+D-Sorbitol,b2708,b3197,srlQ,kdsD,double,0.8191
+D-Sorbitol,b2582,b3781,trxC,trxA,double,0.8191
+D-Mannitol,b0092,b0381,ddlB,ddlA,double,0.8191
+D-Mannitol,b0388,b3390,aroL,aroK,double,0.8191
+D-Mannitol,b2436,b3867,hemF,hemN,double,0.8191
+D-Mannitol,b0077,b3670,ilvI,ilvN,double,0.8191
+D-Mannitol,b0765,b2422,modC,cysA,double,0.8191
+D-Mannitol,b2235,b4238,nrdB,nrdD,double,0.8191
+D-Mannitol,b3829,b4019,metE,metH,double,0.8191
+D-Mannitol,b0928,b4054,aspC,tyrB,double,0.8191
+D-Mannitol,b1096,b4039,pabC,ubiC,double,0.8191
+D-Mannitol,b2551,b2913,glyA,serA,double,0.8191
+D-Mannitol,b3117,b3772,tdcB,ilvA,double,0.8191
+D-Mannitol,b0452,b0954,tesB,fabA,double,0.8191
+D-Mannitol,b1723,b3916,pfkB,pfkA,double,0.8191
+D-Mannitol,b3386,b4025,rpe,pgi,double,0.8191
+D-Mannitol,b1090,b4041,plsX,plsB,double,0.8191
+D-Mannitol,b2508,b2868,guaB,xdhC,double,0.8191
+D-Mannitol,b0048,b1606,folA,folM,double,0.8191
+D-Mannitol,b1761,b3212,gdhA,gltB,double,0.8191
+D-Mannitol,b0954,b3846,fabA,fadB,double,0.8191
+D-Mannitol,b0764,b2423,modB,cysW,double,0.8191
+D-Mannitol,b0764,b2424,modB,cysU,double,0.8191
+D-Mannitol,b2414,b2421,cysK,cysM,double,0.8191
+D-Mannitol,b0273,b4254,argF,argI,double,0.8191
+D-Mannitol,b0763,b2423,modA,cysW,double,0.8191
+D-Mannitol,b2508,b2866,guaB,xdhA,double,0.8191
+D-Mannitol,b2029,b3386,gnd,rpe,double,0.8191
+D-Mannitol,b0765,b2423,modC,cysW,double,0.8191
+D-Mannitol,b2234,b4238,nrdA,nrdD,double,0.8191
+D-Mannitol,b0763,b2422,modA,cysA,double,0.8191
+D-Mannitol,b0870,b2551,ltaE,glyA,double,0.8191
+D-Mannitol,b0155,b1592,clcA,clcB,double,0.8191
+D-Mannitol,b3059,b4041,plsY,plsB,double,0.8191
+D-Mannitol,b2465,b2935,tktB,tktA,double,0.8191
+D-Mannitol,b0002,b3940,thrA,metL,double,0.8191
+D-Mannitol,b0238,b2508,gpt,guaB,double,0.8191
+D-Mannitol,b0073,b1800,leuB,dmlA,double,0.8191
+D-Mannitol,b0907,b2551,serC,glyA,double,0.8191
+D-Mannitol,b0870,b0907,ltaE,serC,double,0.8191
+D-Mannitol,b0674,b3744,asnB,asnA,double,0.8191
+D-Mannitol,b0077,b3671,ilvI,ilvB,double,0.8191
+D-Mannitol,b0765,b2424,modC,cysU,double,0.8191
+D-Mannitol,b1761,b3213,gdhA,gltD,double,0.8191
+D-Mannitol,b0844,b3812,ybjI,yigB,double,0.8191
+D-Mannitol,b0684,b2895,fldA,fldB,double,0.8191
+D-Mannitol,b0126,b0339,can,cynT,double,0.8191
+D-Mannitol,b0078,b3671,ilvH,ilvB,double,0.8191
+D-Mannitol,b1190,b4053,dadX,alr,double,0.8191
+D-Mannitol,b1378,b3924,pfo,fpr,double,0.8191
+D-Mannitol,b0171,b0910,pyrH,cmk,double,0.8191
+D-Mannitol,b0118,b1276,acnB,acnA,double,0.8191
+D-Mannitol,b0755,b3612,gpmA,gpmM,double,0.8191
+D-Mannitol,b1849,b2500,purT,purN,double,0.8191
+D-Mannitol,b2708,b3197,srlQ,kdsD,double,0.8191
+D-Mannitol,b0870,b2320,ltaE,pdxB,double,0.8191
+D-Mannitol,b0764,b2422,modB,cysA,double,0.8191
+D-Mannitol,b1852,b3386,zwf,rpe,double,0.8191
+D-Mannitol,b0767,b3386,pgl,rpe,double,0.8191
+D-Mannitol,b0149,b3396,mrcB,mrcA,double,0.8191
+D-Mannitol,b2551,b4388,glyA,serB,double,0.8191
+D-Mannitol,b0099,b1865,mutT,nudB,double,0.8191
+D-Mannitol,b0954,b2836,fabA,aas,double,0.8191
+D-Mannitol,b1622,b3008,malY,metC,double,0.8191
+D-Mannitol,b2097,b2925,fbaB,fbaA,double,0.8191
+D-Mannitol,b0763,b2424,modA,cysU,double,0.8191
+D-Mannitol,b2582,b3781,trxC,trxA,double,0.8191
+D-Mannitol,b2508,b2867,guaB,xdhB,double,0.8191
+D-Mannitol,b1692,b3281,ydiB,aroE,double,0.8191
+D-Mannitol,b0078,b3670,ilvH,ilvN,double,0.8191
+D-Mannitol,b0033,b0521,carB,ybcF,double,0.8191
+D-Mannitol,b0032,b0521,carA,ybcF,double,0.8191
+D-Galactose,b0388,b3390,aroL,aroK,double,0.7892
+D-Galactose,b0765,b2422,modC,cysA,double,0.7892
+D-Galactose,b0928,b4054,aspC,tyrB,double,0.7892
+D-Galactose,b3117,b3772,tdcB,ilvA,double,0.7892
+D-Galactose,b2508,b2868,guaB,xdhC,double,0.7892
+D-Galactose,b0048,b1606,folA,folM,double,0.7892
+D-Galactose,b1779,b3738,gapA,atpB,double,0.7892
+D-Galactose,b2926,b3732,pgk,atpD,double,0.7892
+D-Galactose,b0764,b2423,modB,cysW,double,0.7892
+D-Galactose,b2414,b2421,cysK,cysM,double,0.7892
+D-Galactose,b1692,b3281,ydiB,aroE,double,0.7892
+D-Galactose,b0155,b1592,clcA,clcB,double,0.7892
+D-Galactose,b2926,b3734,pgk,atpA,double,0.7892
+D-Galactose,b1779,b3731,gapA,atpC,double,0.7892
+D-Galactose,b2465,b2935,tktB,tktA,double,0.7892
+D-Galactose,b0907,b2551,serC,glyA,double,0.7892
+D-Galactose,b1779,b3736,gapA,atpF,double,0.7892
+D-Galactose,b0870,b0907,ltaE,serC,double,0.7892
+D-Galactose,b1779,b3737,gapA,atpE,double,0.7892
+D-Galactose,b1702,b2779,ppsA,eno,double,0.7892
+D-Galactose,b0684,b2895,fldA,fldB,double,0.7892
+D-Galactose,b0126,b0339,can,cynT,double,0.7892
+D-Galactose,b1779,b3732,gapA,atpD,double,0.7892
+D-Galactose,b2926,b3738,pgk,atpB,double,0.7892
+D-Galactose,b0954,b2836,fabA,aas,double,0.7892
+D-Galactose,b0149,b3396,mrcB,mrcA,double,0.7892
+D-Galactose,b0099,b1865,mutT,nudB,double,0.7892
+D-Galactose,b1622,b3008,malY,metC,double,0.7892
+D-Galactose,b2508,b2867,guaB,xdhB,double,0.7892
+D-Galactose,b0032,b0521,carA,ybcF,double,0.7892
+D-Galactose,b1779,b3733,gapA,atpG,double,0.7892
+D-Galactose,b3829,b4019,metE,metH,double,0.7892
+D-Galactose,b2551,b2913,glyA,serA,double,0.7892
+D-Galactose,b0954,b3846,fabA,fadB,double,0.7892
+D-Galactose,b2508,b2866,guaB,xdhA,double,0.7892
+D-Galactose,b2029,b3386,gnd,rpe,double,0.7892
+D-Galactose,b0763,b2422,modA,cysA,double,0.7892
+D-Galactose,b0870,b2551,ltaE,glyA,double,0.7892
+D-Galactose,b0767,b4025,pgl,pgi,double,0.7892
+D-Galactose,b0002,b3940,thrA,metL,double,0.7892
+D-Galactose,b0238,b2508,gpt,guaB,double,0.7892
+D-Galactose,b0073,b1800,leuB,dmlA,double,0.7892
+D-Galactose,b2926,b3735,pgk,atpH,double,0.7892
+D-Galactose,b0077,b3671,ilvI,ilvB,double,0.7892
+D-Galactose,b0171,b0910,pyrH,cmk,double,0.7892
+D-Galactose,b1190,b4053,dadX,alr,double,0.7892
+D-Galactose,b0118,b1276,acnB,acnA,double,0.7892
+D-Galactose,b0764,b2422,modB,cysA,double,0.7892
+D-Galactose,b1852,b3386,zwf,rpe,double,0.7892
+D-Galactose,b0763,b2424,modA,cysU,double,0.7892
+D-Galactose,b1702,b1779,ppsA,gapA,double,0.7892
+D-Galactose,b1761,b3213,gdhA,gltD,double,0.7892
+D-Galactose,b0033,b0521,carB,ybcF,double,0.7892
+D-Galactose,b0092,b0381,ddlB,ddlA,double,0.7892
+D-Galactose,b1096,b4039,pabC,ubiC,double,0.7892
+D-Galactose,b0764,b2424,modB,cysU,double,0.7892
+D-Galactose,b0273,b4254,argF,argI,double,0.7892
+D-Galactose,b0763,b2423,modA,cysW,double,0.7892
+D-Galactose,b2926,b3737,pgk,atpE,double,0.7892
+D-Galactose,b0765,b2423,modC,cysW,double,0.7892
+D-Galactose,b2926,b3736,pgk,atpF,double,0.7892
+D-Galactose,b2926,b3731,pgk,atpC,double,0.7892
+D-Galactose,b1779,b3734,gapA,atpA,double,0.7892
+D-Galactose,b1849,b2500,purT,purN,double,0.7892
+D-Galactose,b2029,b4025,gnd,pgi,double,0.7892
+D-Galactose,b0767,b3386,pgl,rpe,double,0.7892
+D-Galactose,b0078,b3670,ilvH,ilvN,double,0.7892
+D-Galactose,b1702,b2926,ppsA,pgk,double,0.7892
+D-Galactose,b2436,b3867,hemF,hemN,double,0.7892
+D-Galactose,b0077,b3670,ilvI,ilvN,double,0.7892
+D-Galactose,b2235,b4238,nrdB,nrdD,double,0.7892
+D-Galactose,b1090,b4041,plsX,plsB,double,0.7892
+D-Galactose,b1852,b4025,zwf,pgi,double,0.7892
+D-Galactose,b1761,b3212,gdhA,gltB,double,0.7892
+D-Galactose,b2234,b4238,nrdA,nrdD,double,0.7892
+D-Galactose,b1779,b3735,gapA,atpH,double,0.7892
+D-Galactose,b3059,b4041,plsY,plsB,double,0.7892
+D-Galactose,b0674,b3744,asnB,asnA,double,0.7892
+D-Galactose,b0765,b2424,modC,cysU,double,0.7892
+D-Galactose,b0844,b3812,ybjI,yigB,double,0.7892
+D-Galactose,b0078,b3671,ilvH,ilvB,double,0.7892
+D-Galactose,b1378,b3924,pfo,fpr,double,0.7892
+D-Galactose,b0870,b2320,ltaE,pdxB,double,0.7892
+D-Galactose,b2551,b4388,glyA,serB,double,0.7892
+D-Galactose,b2926,b3733,pgk,atpG,double,0.7892
+D-Galactose,b0452,b0954,tesB,fabA,double,0.7892
+D-Galactose,b2708,b3197,srlQ,kdsD,double,0.7892
+D-Galactose,b2582,b3781,trxC,trxA,double,0.7892
+D-Gluconic Acid,b0388,b3390,aroL,aroK,double,0.7698
+D-Gluconic Acid,b0765,b2422,modC,cysA,double,0.7698
+D-Gluconic Acid,b0928,b4054,aspC,tyrB,double,0.7698
+D-Gluconic Acid,b3117,b3772,tdcB,ilvA,double,0.7698
+D-Gluconic Acid,b2508,b2868,guaB,xdhC,double,0.7698
+D-Gluconic Acid,b0048,b1606,folA,folM,double,0.7698
+D-Gluconic Acid,b1779,b3738,gapA,atpB,double,0.7698
+D-Gluconic Acid,b2926,b3732,pgk,atpD,double,0.7698
+D-Gluconic Acid,b0764,b2423,modB,cysW,double,0.7698
+D-Gluconic Acid,b2414,b2421,cysK,cysM,double,0.7698
+D-Gluconic Acid,b3437,b4268,gntK,idnK,double,0.7698
+D-Gluconic Acid,b0155,b1592,clcA,clcB,double,0.7698
+D-Gluconic Acid,b2926,b3734,pgk,atpA,double,0.7698
+D-Gluconic Acid,b2465,b2935,tktB,tktA,double,0.7698
+D-Gluconic Acid,b1779,b3731,gapA,atpC,double,0.7698
+D-Gluconic Acid,b0907,b2551,serC,glyA,double,0.7698
+D-Gluconic Acid,b1779,b3736,gapA,atpF,double,0.7698
+D-Gluconic Acid,b1851,b2029,edd,gnd,double,0.7698
+D-Gluconic Acid,b0870,b0907,ltaE,serC,double,0.7698
+D-Gluconic Acid,b1779,b3737,gapA,atpE,double,0.7698
+D-Gluconic Acid,b1702,b2779,ppsA,eno,double,0.7698
+D-Gluconic Acid,b0684,b2895,fldA,fldB,double,0.7698
+D-Gluconic Acid,b2926,b3738,pgk,atpB,double,0.7698
+D-Gluconic Acid,b0126,b0339,can,cynT,double,0.7698
+D-Gluconic Acid,b1779,b3732,gapA,atpD,double,0.7698
+D-Gluconic Acid,b2708,b3197,srlQ,kdsD,double,0.7698
+D-Gluconic Acid,b0954,b2836,fabA,aas,double,0.7698
+D-Gluconic Acid,b0149,b3396,mrcB,mrcA,double,0.7698
+D-Gluconic Acid,b0099,b1865,mutT,nudB,double,0.7698
+D-Gluconic Acid,b1622,b3008,malY,metC,double,0.7698
+D-Gluconic Acid,b2508,b2867,guaB,xdhB,double,0.7698
+D-Gluconic Acid,b0032,b0521,carA,ybcF,double,0.7698
+D-Gluconic Acid,b1779,b3733,gapA,atpG,double,0.7698
+D-Gluconic Acid,b3829,b4019,metE,metH,double,0.7698
+D-Gluconic Acid,b2551,b2913,glyA,serA,double,0.7698
+D-Gluconic Acid,b0954,b3846,fabA,fadB,double,0.7698
+D-Gluconic Acid,b2508,b2866,guaB,xdhA,double,0.7698
+D-Gluconic Acid,b2029,b3386,gnd,rpe,double,0.7698
+D-Gluconic Acid,b0763,b2422,modA,cysA,double,0.7698
+D-Gluconic Acid,b0870,b2551,ltaE,glyA,double,0.7698
+D-Gluconic Acid,b0002,b3940,thrA,metL,double,0.7698
+D-Gluconic Acid,b0007,b3089,yaaJ,sstT,double,0.7698
+D-Gluconic Acid,b0238,b2508,gpt,guaB,double,0.7698
+D-Gluconic Acid,b2926,b3735,pgk,atpH,double,0.7698
+D-Gluconic Acid,b0073,b1800,leuB,dmlA,double,0.7698
+D-Gluconic Acid,b0077,b3671,ilvI,ilvB,double,0.7698
+D-Gluconic Acid,b0171,b0910,pyrH,cmk,double,0.7698
+D-Gluconic Acid,b1190,b4053,dadX,alr,double,0.7698
+D-Gluconic Acid,b0118,b1276,acnB,acnA,double,0.7698
+D-Gluconic Acid,b0764,b2422,modB,cysA,double,0.7698
+D-Gluconic Acid,b0763,b2424,modA,cysU,double,0.7698
+D-Gluconic Acid,b1761,b3213,gdhA,gltD,double,0.7698
+D-Gluconic Acid,b1702,b1779,ppsA,gapA,double,0.7698
+D-Gluconic Acid,b0033,b0521,carB,ybcF,double,0.7698
+D-Gluconic Acid,b0092,b0381,ddlB,ddlA,double,0.7698
+D-Gluconic Acid,b1851,b3386,edd,rpe,double,0.7698
+D-Gluconic Acid,b1096,b4039,pabC,ubiC,double,0.7698
+D-Gluconic Acid,b0764,b2424,modB,cysU,double,0.7698
+D-Gluconic Acid,b0273,b4254,argF,argI,double,0.7698
+D-Gluconic Acid,b0763,b2423,modA,cysW,double,0.7698
+D-Gluconic Acid,b2926,b3737,pgk,atpE,double,0.7698
+D-Gluconic Acid,b0765,b2423,modC,cysW,double,0.7698
+D-Gluconic Acid,b2926,b3736,pgk,atpF,double,0.7698
+D-Gluconic Acid,b2926,b3731,pgk,atpC,double,0.7698
+D-Gluconic Acid,b1779,b3734,gapA,atpA,double,0.7698
+D-Gluconic Acid,b1850,b3386,eda,rpe,double,0.7698
+D-Gluconic Acid,b1850,b2029,eda,gnd,double,0.7698
+D-Gluconic Acid,b1849,b2500,purT,purN,double,0.7698
+D-Gluconic Acid,b0078,b3670,ilvH,ilvN,double,0.7698
+D-Gluconic Acid,b0337,b0910,codA,cmk,double,0.7698
+D-Gluconic Acid,b1702,b2926,ppsA,pgk,double,0.7698
+D-Gluconic Acid,b2436,b3867,hemF,hemN,double,0.7698
+D-Gluconic Acid,b0077,b3670,ilvI,ilvN,double,0.7698
+D-Gluconic Acid,b2235,b4238,nrdB,nrdD,double,0.7698
+D-Gluconic Acid,b1090,b4041,plsX,plsB,double,0.7698
+D-Gluconic Acid,b1761,b3212,gdhA,gltB,double,0.7698
+D-Gluconic Acid,b2234,b4238,nrdA,nrdD,double,0.7698
+D-Gluconic Acid,b1779,b3735,gapA,atpH,double,0.7698
+D-Gluconic Acid,b3059,b4041,plsY,plsB,double,0.7698
+D-Gluconic Acid,b0674,b3744,asnB,asnA,double,0.7698
+D-Gluconic Acid,b0765,b2424,modC,cysU,double,0.7698
+D-Gluconic Acid,b0844,b3812,ybjI,yigB,double,0.7698
+D-Gluconic Acid,b0078,b3671,ilvH,ilvB,double,0.7698
+D-Gluconic Acid,b1378,b3924,pfo,fpr,double,0.7698
+D-Gluconic Acid,b0870,b2320,ltaE,pdxB,double,0.7698
+D-Gluconic Acid,b2551,b4388,glyA,serB,double,0.7698
+D-Gluconic Acid,b2926,b3733,pgk,atpG,double,0.7698
+D-Gluconic Acid,b0452,b0954,tesB,fabA,double,0.7698
+D-Gluconic Acid,b1692,b3281,ydiB,aroE,double,0.7698
+D-Gluconic Acid,b2582,b3781,trxC,trxA,double,0.7698
+5-Keto-D-Gluconate,b0388,b3390,aroL,aroK,double,0.7235
+5-Keto-D-Gluconate,b0765,b2422,modC,cysA,double,0.7235
+5-Keto-D-Gluconate,b0928,b4054,aspC,tyrB,double,0.7235
+5-Keto-D-Gluconate,b3117,b3772,tdcB,ilvA,double,0.7235
+5-Keto-D-Gluconate,b2508,b2868,guaB,xdhC,double,0.7235
+5-Keto-D-Gluconate,b0048,b1606,folA,folM,double,0.7235
+5-Keto-D-Gluconate,b1779,b3738,gapA,atpB,double,0.7235
+5-Keto-D-Gluconate,b2926,b3732,pgk,atpD,double,0.7235
+5-Keto-D-Gluconate,b0764,b2423,modB,cysW,double,0.7235
+5-Keto-D-Gluconate,b2414,b2421,cysK,cysM,double,0.7235
+5-Keto-D-Gluconate,b3386,b3736,rpe,atpF,double,0.7235
+5-Keto-D-Gluconate,b3437,b4268,gntK,idnK,double,0.7235
+5-Keto-D-Gluconate,b2926,b3734,pgk,atpA,double,0.7235
+5-Keto-D-Gluconate,b0155,b1592,clcA,clcB,double,0.7235
+5-Keto-D-Gluconate,b2465,b2935,tktB,tktA,double,0.7235
+5-Keto-D-Gluconate,b1779,b3731,gapA,atpC,double,0.7235
+5-Keto-D-Gluconate,b0907,b2551,serC,glyA,double,0.7235
+5-Keto-D-Gluconate,b1779,b3736,gapA,atpF,double,0.7235
+5-Keto-D-Gluconate,b0870,b0907,ltaE,serC,double,0.7235
+5-Keto-D-Gluconate,b1779,b3737,gapA,atpE,double,0.7235
+5-Keto-D-Gluconate,b1702,b2779,ppsA,eno,double,0.7235
+5-Keto-D-Gluconate,b0684,b2895,fldA,fldB,double,0.7235
+5-Keto-D-Gluconate,b2926,b3738,pgk,atpB,double,0.7235
+5-Keto-D-Gluconate,b0126,b0339,can,cynT,double,0.7235
+5-Keto-D-Gluconate,b1779,b3732,gapA,atpD,double,0.7235
+5-Keto-D-Gluconate,b2779,b3735,eno,atpH,double,0.7235
+5-Keto-D-Gluconate,b2779,b3733,eno,atpG,double,0.7235
+5-Keto-D-Gluconate,b2708,b3197,srlQ,kdsD,double,0.7235
+5-Keto-D-Gluconate,b2779,b3737,eno,atpE,double,0.7235
+5-Keto-D-Gluconate,b2779,b3731,eno,atpC,double,0.7235
+5-Keto-D-Gluconate,b0954,b2836,fabA,aas,double,0.7235
+5-Keto-D-Gluconate,b0149,b3396,mrcB,mrcA,double,0.7235
+5-Keto-D-Gluconate,b0099,b1865,mutT,nudB,double,0.7235
+5-Keto-D-Gluconate,b1622,b3008,malY,metC,double,0.7235
+5-Keto-D-Gluconate,b2508,b2867,guaB,xdhB,double,0.7235
+5-Keto-D-Gluconate,b0032,b0521,carA,ybcF,double,0.7235
+5-Keto-D-Gluconate,b1779,b3733,gapA,atpG,double,0.7235
+5-Keto-D-Gluconate,b3829,b4019,metE,metH,double,0.7235
+5-Keto-D-Gluconate,b2551,b2913,glyA,serA,double,0.7235
+5-Keto-D-Gluconate,b3386,b3735,rpe,atpH,double,0.7235
+5-Keto-D-Gluconate,b0954,b3846,fabA,fadB,double,0.7235
+5-Keto-D-Gluconate,b3386,b3738,rpe,atpB,double,0.7235
+5-Keto-D-Gluconate,b2508,b2866,guaB,xdhA,double,0.7235
+5-Keto-D-Gluconate,b0763,b2422,modA,cysA,double,0.7235
+5-Keto-D-Gluconate,b0870,b2551,ltaE,glyA,double,0.7235
+5-Keto-D-Gluconate,b1517,b3386,lsrF,rpe,double,0.7235
+5-Keto-D-Gluconate,b0073,b1800,leuB,dmlA,double,0.7235
+5-Keto-D-Gluconate,b0002,b3940,thrA,metL,double,0.7235
+5-Keto-D-Gluconate,b0238,b2508,gpt,guaB,double,0.7235
+5-Keto-D-Gluconate,b2926,b3735,pgk,atpH,double,0.7235
+5-Keto-D-Gluconate,b0077,b3671,ilvI,ilvB,double,0.7235
+5-Keto-D-Gluconate,b3386,b3732,rpe,atpD,double,0.7235
+5-Keto-D-Gluconate,b0171,b0910,pyrH,cmk,double,0.7235
+5-Keto-D-Gluconate,b1190,b4053,dadX,alr,double,0.7235
+5-Keto-D-Gluconate,b0118,b1276,acnB,acnA,double,0.7235
+5-Keto-D-Gluconate,b0764,b2422,modB,cysA,double,0.7235
+5-Keto-D-Gluconate,b2779,b3732,eno,atpD,double,0.7235
+5-Keto-D-Gluconate,b1761,b3213,gdhA,gltD,double,0.7235
+5-Keto-D-Gluconate,b1702,b1779,ppsA,gapA,double,0.7235
+5-Keto-D-Gluconate,b0763,b2424,modA,cysU,double,0.7235
+5-Keto-D-Gluconate,b0033,b0521,carB,ybcF,double,0.7235
+5-Keto-D-Gluconate,b0092,b0381,ddlB,ddlA,double,0.7235
+5-Keto-D-Gluconate,b1096,b4039,pabC,ubiC,double,0.7235
+5-Keto-D-Gluconate,b0764,b2424,modB,cysU,double,0.7235
+5-Keto-D-Gluconate,b0273,b4254,argF,argI,double,0.7235
+5-Keto-D-Gluconate,b0763,b2423,modA,cysW,double,0.7235
+5-Keto-D-Gluconate,b2926,b3737,pgk,atpE,double,0.7235
+5-Keto-D-Gluconate,b0765,b2423,modC,cysW,double,0.7235
+5-Keto-D-Gluconate,b2926,b3736,pgk,atpF,double,0.7235
+5-Keto-D-Gluconate,b2926,b3731,pgk,atpC,double,0.7235
+5-Keto-D-Gluconate,b1779,b3734,gapA,atpA,double,0.7235
+5-Keto-D-Gluconate,b1849,b2500,purT,purN,double,0.7235
+5-Keto-D-Gluconate,b3386,b3731,rpe,atpC,double,0.7235
+5-Keto-D-Gluconate,b3386,b3733,rpe,atpG,double,0.7235
+5-Keto-D-Gluconate,b1518,b3386,lsrG,rpe,double,0.7235
+5-Keto-D-Gluconate,b2914,b4090,rpiA,rpiB,double,0.7235
+5-Keto-D-Gluconate,b1511,b3386,lsrK,rpe,double,0.7235
+5-Keto-D-Gluconate,b0078,b3670,ilvH,ilvN,double,0.7235
+5-Keto-D-Gluconate,b1702,b2926,ppsA,pgk,double,0.7235
+5-Keto-D-Gluconate,b2436,b3867,hemF,hemN,double,0.7235
+5-Keto-D-Gluconate,b2779,b3738,eno,atpB,double,0.7235
+5-Keto-D-Gluconate,b0077,b3670,ilvI,ilvN,double,0.7235
+5-Keto-D-Gluconate,b2235,b4238,nrdB,nrdD,double,0.7235
+5-Keto-D-Gluconate,b3386,b3734,rpe,atpA,double,0.7235
+5-Keto-D-Gluconate,b1090,b4041,plsX,plsB,double,0.7235
+5-Keto-D-Gluconate,b2779,b3736,eno,atpF,double,0.7235
+5-Keto-D-Gluconate,b1761,b3212,gdhA,gltB,double,0.7235
+5-Keto-D-Gluconate,b2234,b4238,nrdA,nrdD,double,0.7235
+5-Keto-D-Gluconate,b1779,b3735,gapA,atpH,double,0.7235
+5-Keto-D-Gluconate,b3059,b4041,plsY,plsB,double,0.7235
+5-Keto-D-Gluconate,b3386,b3737,rpe,atpE,double,0.7235
+5-Keto-D-Gluconate,b0261,b3386,mmuM,rpe,double,0.7235
+5-Keto-D-Gluconate,b0674,b3744,asnB,asnA,double,0.7235
+5-Keto-D-Gluconate,b0765,b2424,modC,cysU,double,0.7235
+5-Keto-D-Gluconate,b0844,b3812,ybjI,yigB,double,0.7235
+5-Keto-D-Gluconate,b2779,b3734,eno,atpA,double,0.7235
+5-Keto-D-Gluconate,b2842,b4266,kduD,idnO,double,0.7235
+5-Keto-D-Gluconate,b0078,b3671,ilvH,ilvB,double,0.7235
+5-Keto-D-Gluconate,b1378,b3924,pfo,fpr,double,0.7235
+5-Keto-D-Gluconate,b0870,b2320,ltaE,pdxB,double,0.7235
+5-Keto-D-Gluconate,b2551,b4388,glyA,serB,double,0.7235
+5-Keto-D-Gluconate,b2926,b3733,pgk,atpG,double,0.7235
+5-Keto-D-Gluconate,b0452,b0954,tesB,fabA,double,0.7235
+5-Keto-D-Gluconate,b1692,b3281,ydiB,aroE,double,0.7235
+5-Keto-D-Gluconate,b2582,b3781,trxC,trxA,double,0.7235
+Thymidine,b0092,b0381,ddlB,ddlA,double,0.753
+Thymidine,b1702,b2926,ppsA,pgk,double,0.753
+Thymidine,b0388,b3390,aroL,aroK,double,0.753
+Thymidine,b2436,b3867,hemF,hemN,double,0.753
+Thymidine,b0077,b3670,ilvI,ilvN,double,0.753
+Thymidine,b0765,b2422,modC,cysA,double,0.753
+Thymidine,b2235,b4238,nrdB,nrdD,double,0.753
+Thymidine,b3829,b4019,metE,metH,double,0.753
+Thymidine,b0928,b4054,aspC,tyrB,double,0.753
+Thymidine,b2551,b2913,glyA,serA,double,0.753
+Thymidine,b1096,b4039,pabC,ubiC,double,0.753
+Thymidine,b3117,b3772,tdcB,ilvA,double,0.753
+Thymidine,b0452,b0954,tesB,fabA,double,0.753
+Thymidine,b3386,b4025,rpe,pgi,double,0.753
+Thymidine,b1090,b4041,plsX,plsB,double,0.753
+Thymidine,b2508,b2868,guaB,xdhC,double,0.753
+Thymidine,b0048,b1606,folA,folM,double,0.753
+Thymidine,b1761,b3212,gdhA,gltB,double,0.753
+Thymidine,b0954,b3846,fabA,fadB,double,0.753
+Thymidine,b0764,b2423,modB,cysW,double,0.753
+Thymidine,b2414,b2421,cysK,cysM,double,0.753
+Thymidine,b0764,b2424,modB,cysU,double,0.753
+Thymidine,b2393,b2964,nupC,nupG,double,0.753
+Thymidine,b0273,b4254,argF,argI,double,0.753
+Thymidine,b0763,b2423,modA,cysW,double,0.753
+Thymidine,b2508,b2866,guaB,xdhA,double,0.753
+Thymidine,b1692,b3281,ydiB,aroE,double,0.753
+Thymidine,b0765,b2423,modC,cysW,double,0.753
+Thymidine,b2029,b3386,gnd,rpe,double,0.753
+Thymidine,b2234,b4238,nrdA,nrdD,double,0.753
+Thymidine,b0763,b2422,modA,cysA,double,0.753
+Thymidine,b0870,b2551,ltaE,glyA,double,0.753
+Thymidine,b3059,b4041,plsY,plsB,double,0.753
+Thymidine,b0155,b1592,clcA,clcB,double,0.753
+Thymidine,b2465,b2935,tktB,tktA,double,0.753
+Thymidine,b0073,b1800,leuB,dmlA,double,0.753
+Thymidine,b0907,b2551,serC,glyA,double,0.753
+Thymidine,b0002,b3940,thrA,metL,double,0.753
+Thymidine,b0238,b2508,gpt,guaB,double,0.753
+Thymidine,b0870,b0907,ltaE,serC,double,0.753
+Thymidine,b0674,b3744,asnB,asnA,double,0.753
+Thymidine,b0077,b3671,ilvI,ilvB,double,0.753
+Thymidine,b1702,b2779,ppsA,eno,double,0.753
+Thymidine,b0763,b2424,modA,cysU,double,0.753
+Thymidine,b0844,b3812,ybjI,yigB,double,0.753
+Thymidine,b0765,b2424,modC,cysU,double,0.753
+Thymidine,b0171,b0910,pyrH,cmk,double,0.753
+Thymidine,b0126,b0339,can,cynT,double,0.753
+Thymidine,b1190,b4053,dadX,alr,double,0.753
+Thymidine,b0684,b2895,fldA,fldB,double,0.753
+Thymidine,b1378,b3924,pfo,fpr,double,0.753
+Thymidine,b0078,b3671,ilvH,ilvB,double,0.753
+Thymidine,b0032,b0521,carA,ybcF,double,0.753
+Thymidine,b0118,b1276,acnB,acnA,double,0.753
+Thymidine,b1849,b2500,purT,purN,double,0.753
+Thymidine,b0870,b2320,ltaE,pdxB,double,0.753
+Thymidine,b0764,b2422,modB,cysA,double,0.753
+Thymidine,b1852,b3386,zwf,rpe,double,0.753
+Thymidine,b0954,b2836,fabA,aas,double,0.753
+Thymidine,b0767,b3386,pgl,rpe,double,0.753
+Thymidine,b0149,b3396,mrcB,mrcA,double,0.753
+Thymidine,b0099,b1865,mutT,nudB,double,0.753
+Thymidine,b2551,b4388,glyA,serB,double,0.753
+Thymidine,b1622,b3008,malY,metC,double,0.753
+Thymidine,b1761,b3213,gdhA,gltD,double,0.753
+Thymidine,b1702,b1779,ppsA,gapA,double,0.753
+Thymidine,b2508,b2867,guaB,xdhB,double,0.753
+Thymidine,b2708,b3197,srlQ,kdsD,double,0.753
+Thymidine,b0078,b3670,ilvH,ilvN,double,0.753
+Thymidine,b0033,b0521,carB,ybcF,double,0.753
+Thymidine,b2582,b3781,trxC,trxA,double,0.753
+D-Xylose,b0388,b3390,aroL,aroK,double,0.7112
+D-Xylose,b0765,b2422,modC,cysA,double,0.7112
+D-Xylose,b0928,b4054,aspC,tyrB,double,0.7112
+D-Xylose,b3117,b3772,tdcB,ilvA,double,0.7112
+D-Xylose,b3568,b4031,xylH,xylE,double,0.7112
+D-Xylose,b2508,b2868,guaB,xdhC,double,0.7112
+D-Xylose,b0048,b1606,folA,folM,double,0.7112
+D-Xylose,b1779,b3738,gapA,atpB,double,0.7112
+D-Xylose,b2926,b3732,pgk,atpD,double,0.7112
+D-Xylose,b0764,b2423,modB,cysW,double,0.7112
+D-Xylose,b2414,b2421,cysK,cysM,double,0.7112
+D-Xylose,b1692,b3281,ydiB,aroE,double,0.7112
+D-Xylose,b2926,b3734,pgk,atpA,double,0.7112
+D-Xylose,b0155,b1592,clcA,clcB,double,0.7112
+D-Xylose,b2465,b2935,tktB,tktA,double,0.7112
+D-Xylose,b1779,b3731,gapA,atpC,double,0.7112
+D-Xylose,b0907,b2551,serC,glyA,double,0.7112
+D-Xylose,b1779,b3736,gapA,atpF,double,0.7112
+D-Xylose,b0870,b0907,ltaE,serC,double,0.7112
+D-Xylose,b1779,b3737,gapA,atpE,double,0.7112
+D-Xylose,b1702,b2779,ppsA,eno,double,0.7112
+D-Xylose,b0126,b0339,can,cynT,double,0.7112
+D-Xylose,b1779,b3732,gapA,atpD,double,0.7112
+D-Xylose,b2926,b3738,pgk,atpB,double,0.7112
+D-Xylose,b0684,b2895,fldA,fldB,double,0.7112
+D-Xylose,b0954,b2836,fabA,aas,double,0.7112
+D-Xylose,b0149,b3396,mrcB,mrcA,double,0.7112
+D-Xylose,b0099,b1865,mutT,nudB,double,0.7112
+D-Xylose,b1622,b3008,malY,metC,double,0.7112
+D-Xylose,b2508,b2867,guaB,xdhB,double,0.7112
+D-Xylose,b0032,b0521,carA,ybcF,double,0.7112
+D-Xylose,b1779,b3733,gapA,atpG,double,0.7112
+D-Xylose,b3829,b4019,metE,metH,double,0.7112
+D-Xylose,b2551,b2913,glyA,serA,double,0.7112
+D-Xylose,b0063,b3564,araB,xylB,double,0.7112
+D-Xylose,b0954,b3846,fabA,fadB,double,0.7112
+D-Xylose,b2508,b2866,guaB,xdhA,double,0.7112
+D-Xylose,b2029,b3386,gnd,rpe,double,0.7112
+D-Xylose,b0763,b2422,modA,cysA,double,0.7112
+D-Xylose,b0870,b2551,ltaE,glyA,double,0.7112
+D-Xylose,b0073,b1800,leuB,dmlA,double,0.7112
+D-Xylose,b0002,b3940,thrA,metL,double,0.7112
+D-Xylose,b0238,b2508,gpt,guaB,double,0.7112
+D-Xylose,b2926,b3735,pgk,atpH,double,0.7112
+D-Xylose,b0077,b3671,ilvI,ilvB,double,0.7112
+D-Xylose,b0171,b0910,pyrH,cmk,double,0.7112
+D-Xylose,b1190,b4053,dadX,alr,double,0.7112
+D-Xylose,b0118,b1276,acnB,acnA,double,0.7112
+D-Xylose,b0764,b2422,modB,cysA,double,0.7112
+D-Xylose,b1852,b3386,zwf,rpe,double,0.7112
+D-Xylose,b0763,b2424,modA,cysU,double,0.7112
+D-Xylose,b1761,b3213,gdhA,gltD,double,0.7112
+D-Xylose,b1702,b1779,ppsA,gapA,double,0.7112
+D-Xylose,b0033,b0521,carB,ybcF,double,0.7112
+D-Xylose,b0092,b0381,ddlB,ddlA,double,0.7112
+D-Xylose,b1096,b4039,pabC,ubiC,double,0.7112
+D-Xylose,b0764,b2424,modB,cysU,double,0.7112
+D-Xylose,b0273,b4254,argF,argI,double,0.7112
+D-Xylose,b0763,b2423,modA,cysW,double,0.7112
+D-Xylose,b2926,b3737,pgk,atpE,double,0.7112
+D-Xylose,b0765,b2423,modC,cysW,double,0.7112
+D-Xylose,b2926,b3736,pgk,atpF,double,0.7112
+D-Xylose,b2926,b3731,pgk,atpC,double,0.7112
+D-Xylose,b1779,b3734,gapA,atpA,double,0.7112
+D-Xylose,b3567,b4031,xylG,xylE,double,0.7112
+D-Xylose,b1849,b2500,purT,purN,double,0.7112
+D-Xylose,b0767,b3386,pgl,rpe,double,0.7112
+D-Xylose,b2914,b4090,rpiA,rpiB,double,0.7112
+D-Xylose,b0078,b3670,ilvH,ilvN,double,0.7112
+D-Xylose,b1702,b2926,ppsA,pgk,double,0.7112
+D-Xylose,b2436,b3867,hemF,hemN,double,0.7112
+D-Xylose,b0077,b3670,ilvI,ilvN,double,0.7112
+D-Xylose,b2235,b4238,nrdB,nrdD,double,0.7112
+D-Xylose,b1090,b4041,plsX,plsB,double,0.7112
+D-Xylose,b1761,b3212,gdhA,gltB,double,0.7112
+D-Xylose,b2234,b4238,nrdA,nrdD,double,0.7112
+D-Xylose,b1779,b3735,gapA,atpH,double,0.7112
+D-Xylose,b3059,b4041,plsY,plsB,double,0.7112
+D-Xylose,b0674,b3744,asnB,asnA,double,0.7112
+D-Xylose,b0765,b2424,modC,cysU,double,0.7112
+D-Xylose,b0844,b3812,ybjI,yigB,double,0.7112
+D-Xylose,b0078,b3671,ilvH,ilvB,double,0.7112
+D-Xylose,b1378,b3924,pfo,fpr,double,0.7112
+D-Xylose,b3566,b4031,xylF,xylE,double,0.7112
+D-Xylose,b0870,b2320,ltaE,pdxB,double,0.7112
+D-Xylose,b2926,b3733,pgk,atpG,double,0.7112
+D-Xylose,b2551,b4388,glyA,serB,double,0.7112
+D-Xylose,b0452,b0954,tesB,fabA,double,0.7112
+D-Xylose,b2708,b3197,srlQ,kdsD,double,0.7112
+D-Xylose,b2582,b3781,trxC,trxA,double,0.7112
+L-Arabinose,b0388,b3390,aroL,aroK,double,0.7112
+L-Arabinose,b0765,b2422,modC,cysA,double,0.7112
+L-Arabinose,b0928,b4054,aspC,tyrB,double,0.7112
+L-Arabinose,b3117,b3772,tdcB,ilvA,double,0.7112
+L-Arabinose,b1901,b2841,araF,araE,double,0.7112
+L-Arabinose,b2508,b2868,guaB,xdhC,double,0.7112
+L-Arabinose,b0048,b1606,folA,folM,double,0.7112
+L-Arabinose,b1779,b3738,gapA,atpB,double,0.7112
+L-Arabinose,b2926,b3732,pgk,atpD,double,0.7112
+L-Arabinose,b0764,b2423,modB,cysW,double,0.7112
+L-Arabinose,b2414,b2421,cysK,cysM,double,0.7112
+L-Arabinose,b1692,b3281,ydiB,aroE,double,0.7112
+L-Arabinose,b2926,b3734,pgk,atpA,double,0.7112
+L-Arabinose,b0155,b1592,clcA,clcB,double,0.7112
+L-Arabinose,b2465,b2935,tktB,tktA,double,0.7112
+L-Arabinose,b1779,b3731,gapA,atpC,double,0.7112
+L-Arabinose,b0907,b2551,serC,glyA,double,0.7112
+L-Arabinose,b1779,b3736,gapA,atpF,double,0.7112
+L-Arabinose,b0870,b0907,ltaE,serC,double,0.7112
+L-Arabinose,b1779,b3737,gapA,atpE,double,0.7112
+L-Arabinose,b1702,b2779,ppsA,eno,double,0.7112
+L-Arabinose,b0684,b2895,fldA,fldB,double,0.7112
+L-Arabinose,b2926,b3738,pgk,atpB,double,0.7112
+L-Arabinose,b0126,b0339,can,cynT,double,0.7112
+L-Arabinose,b1779,b3732,gapA,atpD,double,0.7112
+L-Arabinose,b0954,b2836,fabA,aas,double,0.7112
+L-Arabinose,b0149,b3396,mrcB,mrcA,double,0.7112
+L-Arabinose,b0099,b1865,mutT,nudB,double,0.7112
+L-Arabinose,b1622,b3008,malY,metC,double,0.7112
+L-Arabinose,b2508,b2867,guaB,xdhB,double,0.7112
+L-Arabinose,b0032,b0521,carA,ybcF,double,0.7112
+L-Arabinose,b1779,b3733,gapA,atpG,double,0.7112
+L-Arabinose,b3829,b4019,metE,metH,double,0.7112
+L-Arabinose,b2551,b2913,glyA,serA,double,0.7112
+L-Arabinose,b3386,b4025,rpe,pgi,double,0.7112
+L-Arabinose,b0954,b3846,fabA,fadB,double,0.7112
+L-Arabinose,b2508,b2866,guaB,xdhA,double,0.7112
+L-Arabinose,b2029,b3386,gnd,rpe,double,0.7112
+L-Arabinose,b0763,b2422,modA,cysA,double,0.7112
+L-Arabinose,b0870,b2551,ltaE,glyA,double,0.7112
+L-Arabinose,b0073,b1800,leuB,dmlA,double,0.7112
+L-Arabinose,b0002,b3940,thrA,metL,double,0.7112
+L-Arabinose,b0238,b2508,gpt,guaB,double,0.7112
+L-Arabinose,b2926,b3735,pgk,atpH,double,0.7112
+L-Arabinose,b0077,b3671,ilvI,ilvB,double,0.7112
+L-Arabinose,b0171,b0910,pyrH,cmk,double,0.7112
+L-Arabinose,b1190,b4053,dadX,alr,double,0.7112
+L-Arabinose,b0118,b1276,acnB,acnA,double,0.7112
+L-Arabinose,b0764,b2422,modB,cysA,double,0.7112
+L-Arabinose,b1852,b3386,zwf,rpe,double,0.7112
+L-Arabinose,b0763,b2424,modA,cysU,double,0.7112
+L-Arabinose,b1761,b3213,gdhA,gltD,double,0.7112
+L-Arabinose,b1702,b1779,ppsA,gapA,double,0.7112
+L-Arabinose,b0033,b0521,carB,ybcF,double,0.7112
+L-Arabinose,b0092,b0381,ddlB,ddlA,double,0.7112
+L-Arabinose,b1096,b4039,pabC,ubiC,double,0.7112
+L-Arabinose,b0764,b2424,modB,cysU,double,0.7112
+L-Arabinose,b0273,b4254,argF,argI,double,0.7112
+L-Arabinose,b0763,b2423,modA,cysW,double,0.7112
+L-Arabinose,b2926,b3737,pgk,atpE,double,0.7112
+L-Arabinose,b0765,b2423,modC,cysW,double,0.7112
+L-Arabinose,b2926,b3736,pgk,atpF,double,0.7112
+L-Arabinose,b1900,b2841,araG,araE,double,0.7112
+L-Arabinose,b2926,b3731,pgk,atpC,double,0.7112
+L-Arabinose,b1779,b3734,gapA,atpA,double,0.7112
+L-Arabinose,b1849,b2500,purT,purN,double,0.7112
+L-Arabinose,b0767,b3386,pgl,rpe,double,0.7112
+L-Arabinose,b2914,b4090,rpiA,rpiB,double,0.7112
+L-Arabinose,b0078,b3670,ilvH,ilvN,double,0.7112
+L-Arabinose,b1702,b2926,ppsA,pgk,double,0.7112
+L-Arabinose,b2436,b3867,hemF,hemN,double,0.7112
+L-Arabinose,b0077,b3670,ilvI,ilvN,double,0.7112
+L-Arabinose,b2235,b4238,nrdB,nrdD,double,0.7112
+L-Arabinose,b1090,b4041,plsX,plsB,double,0.7112
+L-Arabinose,b1761,b3212,gdhA,gltB,double,0.7112
+L-Arabinose,b2234,b4238,nrdA,nrdD,double,0.7112
+L-Arabinose,b1779,b3735,gapA,atpH,double,0.7112
+L-Arabinose,b3059,b4041,plsY,plsB,double,0.7112
+L-Arabinose,b2841,b4460,araE,araH,double,0.7112
+L-Arabinose,b0674,b3744,asnB,asnA,double,0.7112
+L-Arabinose,b0765,b2424,modC,cysU,double,0.7112
+L-Arabinose,b0844,b3812,ybjI,yigB,double,0.7112
+L-Arabinose,b0078,b3671,ilvH,ilvB,double,0.7112
+L-Arabinose,b1378,b3924,pfo,fpr,double,0.7112
+L-Arabinose,b0870,b2320,ltaE,pdxB,double,0.7112
+L-Arabinose,b2551,b4388,glyA,serB,double,0.7112
+L-Arabinose,b2926,b3733,pgk,atpG,double,0.7112
+L-Arabinose,b0452,b0954,tesB,fabA,double,0.7112
+L-Arabinose,b2708,b3197,srlQ,kdsD,double,0.7112
+L-Arabinose,b2582,b3781,trxC,trxA,double,0.7112
+beta-D-Allose,b0388,b3390,aroL,aroK,double,0.7295
+beta-D-Allose,b0765,b2422,modC,cysA,double,0.7295
+beta-D-Allose,b0928,b4054,aspC,tyrB,double,0.7295
+beta-D-Allose,b3117,b3772,tdcB,ilvA,double,0.7295
+beta-D-Allose,b2508,b2868,guaB,xdhC,double,0.7295
+beta-D-Allose,b0048,b1606,folA,folM,double,0.7295
+beta-D-Allose,b1779,b3738,gapA,atpB,double,0.7295
+beta-D-Allose,b2926,b3732,pgk,atpD,double,0.7295
+beta-D-Allose,b0764,b2423,modB,cysW,double,0.7295
+beta-D-Allose,b2414,b2421,cysK,cysM,double,0.7295
+beta-D-Allose,b0155,b1592,clcA,clcB,double,0.7295
+beta-D-Allose,b2926,b3734,pgk,atpA,double,0.7295
+beta-D-Allose,b1779,b3731,gapA,atpC,double,0.7295
+beta-D-Allose,b2465,b2935,tktB,tktA,double,0.7295
+beta-D-Allose,b0907,b2551,serC,glyA,double,0.7295
+beta-D-Allose,b1779,b3736,gapA,atpF,double,0.7295
+beta-D-Allose,b0870,b0907,ltaE,serC,double,0.7295
+beta-D-Allose,b1779,b3737,gapA,atpE,double,0.7295
+beta-D-Allose,b1702,b2779,ppsA,eno,double,0.7295
+beta-D-Allose,b0126,b0339,can,cynT,double,0.7295
+beta-D-Allose,b1779,b3732,gapA,atpD,double,0.7295
+beta-D-Allose,b0684,b2895,fldA,fldB,double,0.7295
+beta-D-Allose,b2926,b3738,pgk,atpB,double,0.7295
+beta-D-Allose,b3735,b3919,atpH,tpiA,double,0.7295
+beta-D-Allose,b2779,b3733,eno,atpG,double,0.7295
+beta-D-Allose,b3733,b3919,atpG,tpiA,double,0.7295
+beta-D-Allose,b2779,b3735,eno,atpH,double,0.7295
+beta-D-Allose,b2708,b3197,srlQ,kdsD,double,0.7295
+beta-D-Allose,b3737,b3919,atpE,tpiA,double,0.7295
+beta-D-Allose,b2779,b3737,eno,atpE,double,0.7295
+beta-D-Allose,b2779,b3731,eno,atpC,double,0.7295
+beta-D-Allose,b3731,b3919,atpC,tpiA,double,0.7295
+beta-D-Allose,b0954,b2836,fabA,aas,double,0.7295
+beta-D-Allose,b0149,b3396,mrcB,mrcA,double,0.7295
+beta-D-Allose,b0099,b1865,mutT,nudB,double,0.7295
+beta-D-Allose,b1622,b3008,malY,metC,double,0.7295
+beta-D-Allose,b2508,b2867,guaB,xdhB,double,0.7295
+beta-D-Allose,b0032,b0521,carA,ybcF,double,0.7295
+beta-D-Allose,b1779,b3733,gapA,atpG,double,0.7295
+beta-D-Allose,b3829,b4019,metE,metH,double,0.7295
+beta-D-Allose,b2551,b2913,glyA,serA,double,0.7295
+beta-D-Allose,b3386,b4025,rpe,pgi,double,0.7295
+beta-D-Allose,b0954,b3846,fabA,fadB,double,0.7295
+beta-D-Allose,b2508,b2866,guaB,xdhA,double,0.7295
+beta-D-Allose,b2029,b3386,gnd,rpe,double,0.7295
+beta-D-Allose,b0763,b2422,modA,cysA,double,0.7295
+beta-D-Allose,b0870,b2551,ltaE,glyA,double,0.7295
+beta-D-Allose,b0002,b3940,thrA,metL,double,0.7295
+beta-D-Allose,b0238,b2508,gpt,guaB,double,0.7295
+beta-D-Allose,b0073,b1800,leuB,dmlA,double,0.7295
+beta-D-Allose,b2926,b3735,pgk,atpH,double,0.7295
+beta-D-Allose,b0077,b3671,ilvI,ilvB,double,0.7295
+beta-D-Allose,b0171,b0910,pyrH,cmk,double,0.7295
+beta-D-Allose,b1190,b4053,dadX,alr,double,0.7295
+beta-D-Allose,b0118,b1276,acnB,acnA,double,0.7295
+beta-D-Allose,b0764,b2422,modB,cysA,double,0.7295
+beta-D-Allose,b1852,b3386,zwf,rpe,double,0.7295
+beta-D-Allose,b2779,b3732,eno,atpD,double,0.7295
+beta-D-Allose,b3732,b3919,atpD,tpiA,double,0.7295
+beta-D-Allose,b0763,b2424,modA,cysU,double,0.7295
+beta-D-Allose,b1702,b1779,ppsA,gapA,double,0.7295
+beta-D-Allose,b1761,b3213,gdhA,gltD,double,0.7295
+beta-D-Allose,b0033,b0521,carB,ybcF,double,0.7295
+beta-D-Allose,b0092,b0381,ddlB,ddlA,double,0.7295
+beta-D-Allose,b1096,b4039,pabC,ubiC,double,0.7295
+beta-D-Allose,b0764,b2424,modB,cysU,double,0.7295
+beta-D-Allose,b0273,b4254,argF,argI,double,0.7295
+beta-D-Allose,b0763,b2423,modA,cysW,double,0.7295
+beta-D-Allose,b2926,b3737,pgk,atpE,double,0.7295
+beta-D-Allose,b0765,b2423,modC,cysW,double,0.7295
+beta-D-Allose,b2926,b3736,pgk,atpF,double,0.7295
+beta-D-Allose,b2926,b3731,pgk,atpC,double,0.7295
+beta-D-Allose,b1779,b3734,gapA,atpA,double,0.7295
+beta-D-Allose,b1849,b2500,purT,purN,double,0.7295
+beta-D-Allose,b0767,b3386,pgl,rpe,double,0.7295
+beta-D-Allose,b0078,b3670,ilvH,ilvN,double,0.7295
+beta-D-Allose,b1702,b2926,ppsA,pgk,double,0.7295
+beta-D-Allose,b2436,b3867,hemF,hemN,double,0.7295
+beta-D-Allose,b2779,b3738,eno,atpB,double,0.7295
+beta-D-Allose,b0077,b3670,ilvI,ilvN,double,0.7295
+beta-D-Allose,b3738,b3919,atpB,tpiA,double,0.7295
+beta-D-Allose,b2235,b4238,nrdB,nrdD,double,0.7295
+beta-D-Allose,b1090,b4041,plsX,plsB,double,0.7295
+beta-D-Allose,b3736,b3919,atpF,tpiA,double,0.7295
+beta-D-Allose,b1761,b3212,gdhA,gltB,double,0.7295
+beta-D-Allose,b2779,b3736,eno,atpF,double,0.7295
+beta-D-Allose,b2234,b4238,nrdA,nrdD,double,0.7295
+beta-D-Allose,b1779,b3735,gapA,atpH,double,0.7295
+beta-D-Allose,b3059,b4041,plsY,plsB,double,0.7295
+beta-D-Allose,b0674,b3744,asnB,asnA,double,0.7295
+beta-D-Allose,b0765,b2424,modC,cysU,double,0.7295
+beta-D-Allose,b0844,b3812,ybjI,yigB,double,0.7295
+beta-D-Allose,b3734,b3919,atpA,tpiA,double,0.7295
+beta-D-Allose,b2779,b3734,eno,atpA,double,0.7295
+beta-D-Allose,b0078,b3671,ilvH,ilvB,double,0.7295
+beta-D-Allose,b1378,b3924,pfo,fpr,double,0.7295
+beta-D-Allose,b0870,b2320,ltaE,pdxB,double,0.7295
+beta-D-Allose,b2926,b3733,pgk,atpG,double,0.7295
+beta-D-Allose,b2551,b4388,glyA,serB,double,0.7295
+beta-D-Allose,b0452,b0954,tesB,fabA,double,0.7295
+beta-D-Allose,b1692,b3281,ydiB,aroE,double,0.7295
+beta-D-Allose,b2582,b3781,trxC,trxA,double,0.7295
+D-Galactonic Acid,b0388,b3390,aroL,aroK,double,0.7121
+D-Galactonic Acid,b0765,b2422,modC,cysA,double,0.7121
+D-Galactonic Acid,b0928,b4054,aspC,tyrB,double,0.7121
+D-Galactonic Acid,b3117,b3772,tdcB,ilvA,double,0.7121
+D-Galactonic Acid,b2508,b2868,guaB,xdhC,double,0.7121
+D-Galactonic Acid,b0048,b1606,folA,folM,double,0.7121
+D-Galactonic Acid,b1779,b3738,gapA,atpB,double,0.7121
+D-Galactonic Acid,b2926,b3732,pgk,atpD,double,0.7121
+D-Galactonic Acid,b0764,b2423,modB,cysW,double,0.7121
+D-Galactonic Acid,b2414,b2421,cysK,cysM,double,0.7121
+D-Galactonic Acid,b1692,b3281,ydiB,aroE,double,0.7121
+D-Galactonic Acid,b2926,b3734,pgk,atpA,double,0.7121
+D-Galactonic Acid,b0155,b1592,clcA,clcB,double,0.7121
+D-Galactonic Acid,b2465,b2935,tktB,tktA,double,0.7121
+D-Galactonic Acid,b1779,b3731,gapA,atpC,double,0.7121
+D-Galactonic Acid,b0907,b2551,serC,glyA,double,0.7121
+D-Galactonic Acid,b1779,b3736,gapA,atpF,double,0.7121
+D-Galactonic Acid,b0870,b0907,ltaE,serC,double,0.7121
+D-Galactonic Acid,b1779,b3737,gapA,atpE,double,0.7121
+D-Galactonic Acid,b1702,b2779,ppsA,eno,double,0.7121
+D-Galactonic Acid,b0684,b2895,fldA,fldB,double,0.7121
+D-Galactonic Acid,b2926,b3738,pgk,atpB,double,0.7121
+D-Galactonic Acid,b0126,b0339,can,cynT,double,0.7121
+D-Galactonic Acid,b1779,b3732,gapA,atpD,double,0.7121
+D-Galactonic Acid,b0954,b2836,fabA,aas,double,0.7121
+D-Galactonic Acid,b0149,b3396,mrcB,mrcA,double,0.7121
+D-Galactonic Acid,b0099,b1865,mutT,nudB,double,0.7121
+D-Galactonic Acid,b1622,b3008,malY,metC,double,0.7121
+D-Galactonic Acid,b2508,b2867,guaB,xdhB,double,0.7121
+D-Galactonic Acid,b0032,b0521,carA,ybcF,double,0.7121
+D-Galactonic Acid,b1779,b3733,gapA,atpG,double,0.7121
+D-Galactonic Acid,b3829,b4019,metE,metH,double,0.7121
+D-Galactonic Acid,b2551,b2913,glyA,serA,double,0.7121
+D-Galactonic Acid,b3386,b4025,rpe,pgi,double,0.7121
+D-Galactonic Acid,b0954,b3846,fabA,fadB,double,0.7121
+D-Galactonic Acid,b2508,b2866,guaB,xdhA,double,0.7121
+D-Galactonic Acid,b2029,b3386,gnd,rpe,double,0.7121
+D-Galactonic Acid,b0763,b2422,modA,cysA,double,0.7121
+D-Galactonic Acid,b0870,b2551,ltaE,glyA,double,0.7121
+D-Galactonic Acid,b0073,b1800,leuB,dmlA,double,0.7121
+D-Galactonic Acid,b0002,b3940,thrA,metL,double,0.7121
+D-Galactonic Acid,b0238,b2508,gpt,guaB,double,0.7121
+D-Galactonic Acid,b2926,b3735,pgk,atpH,double,0.7121
+D-Galactonic Acid,b0077,b3671,ilvI,ilvB,double,0.7121
+D-Galactonic Acid,b0171,b0910,pyrH,cmk,double,0.7121
+D-Galactonic Acid,b1190,b4053,dadX,alr,double,0.7121
+D-Galactonic Acid,b0118,b1276,acnB,acnA,double,0.7121
+D-Galactonic Acid,b0764,b2422,modB,cysA,double,0.7121
+D-Galactonic Acid,b1852,b3386,zwf,rpe,double,0.7121
+D-Galactonic Acid,b0763,b2424,modA,cysU,double,0.7121
+D-Galactonic Acid,b1761,b3213,gdhA,gltD,double,0.7121
+D-Galactonic Acid,b1702,b1779,ppsA,gapA,double,0.7121
+D-Galactonic Acid,b0033,b0521,carB,ybcF,double,0.7121
+D-Galactonic Acid,b0092,b0381,ddlB,ddlA,double,0.7121
+D-Galactonic Acid,b1096,b4039,pabC,ubiC,double,0.7121
+D-Galactonic Acid,b0764,b2424,modB,cysU,double,0.7121
+D-Galactonic Acid,b0273,b4254,argF,argI,double,0.7121
+D-Galactonic Acid,b0763,b2423,modA,cysW,double,0.7121
+D-Galactonic Acid,b2926,b3737,pgk,atpE,double,0.7121
+D-Galactonic Acid,b0765,b2423,modC,cysW,double,0.7121
+D-Galactonic Acid,b2926,b3736,pgk,atpF,double,0.7121
+D-Galactonic Acid,b2926,b3731,pgk,atpC,double,0.7121
+D-Galactonic Acid,b1779,b3734,gapA,atpA,double,0.7121
+D-Galactonic Acid,b1849,b2500,purT,purN,double,0.7121
+D-Galactonic Acid,b0767,b3386,pgl,rpe,double,0.7121
+D-Galactonic Acid,b0078,b3670,ilvH,ilvN,double,0.7121
+D-Galactonic Acid,b1702,b2926,ppsA,pgk,double,0.7121
+D-Galactonic Acid,b2436,b3867,hemF,hemN,double,0.7121
+D-Galactonic Acid,b0077,b3670,ilvI,ilvN,double,0.7121
+D-Galactonic Acid,b2235,b4238,nrdB,nrdD,double,0.7121
+D-Galactonic Acid,b1090,b4041,plsX,plsB,double,0.7121
+D-Galactonic Acid,b1761,b3212,gdhA,gltB,double,0.7121
+D-Galactonic Acid,b2234,b4238,nrdA,nrdD,double,0.7121
+D-Galactonic Acid,b1779,b3735,gapA,atpH,double,0.7121
+D-Galactonic Acid,b3059,b4041,plsY,plsB,double,0.7121
+D-Galactonic Acid,b0674,b3744,asnB,asnA,double,0.7121
+D-Galactonic Acid,b0765,b2424,modC,cysU,double,0.7121
+D-Galactonic Acid,b0844,b3812,ybjI,yigB,double,0.7121
+D-Galactonic Acid,b0078,b3671,ilvH,ilvB,double,0.7121
+D-Galactonic Acid,b1378,b3924,pfo,fpr,double,0.7121
+D-Galactonic Acid,b0870,b2320,ltaE,pdxB,double,0.7121
+D-Galactonic Acid,b2551,b4388,glyA,serB,double,0.7121
+D-Galactonic Acid,b2926,b3733,pgk,atpG,double,0.7121
+D-Galactonic Acid,b0452,b0954,tesB,fabA,double,0.7121
+D-Galactonic Acid,b2708,b3197,srlQ,kdsD,double,0.7121
+D-Galactonic Acid,b2582,b3781,trxC,trxA,double,0.7121
+L-Galactonic Acid,b0388,b3390,aroL,aroK,double,0.7121
+L-Galactonic Acid,b0765,b2422,modC,cysA,double,0.7121
+L-Galactonic Acid,b0928,b4054,aspC,tyrB,double,0.7121
+L-Galactonic Acid,b3117,b3772,tdcB,ilvA,double,0.7121
+L-Galactonic Acid,b2508,b2868,guaB,xdhC,double,0.7121
+L-Galactonic Acid,b0048,b1606,folA,folM,double,0.7121
+L-Galactonic Acid,b2926,b3732,pgk,atpD,double,0.7121
+L-Galactonic Acid,b1779,b3738,gapA,atpB,double,0.7121
+L-Galactonic Acid,b0764,b2423,modB,cysW,double,0.7121
+L-Galactonic Acid,b2414,b2421,cysK,cysM,double,0.7121
+L-Galactonic Acid,b1692,b3281,ydiB,aroE,double,0.7121
+L-Galactonic Acid,b0155,b1592,clcA,clcB,double,0.7121
+L-Galactonic Acid,b2926,b3734,pgk,atpA,double,0.7121
+L-Galactonic Acid,b2465,b2935,tktB,tktA,double,0.7121
+L-Galactonic Acid,b1779,b3731,gapA,atpC,double,0.7121
+L-Galactonic Acid,b0907,b2551,serC,glyA,double,0.7121
+L-Galactonic Acid,b1779,b3736,gapA,atpF,double,0.7121
+L-Galactonic Acid,b0870,b0907,ltaE,serC,double,0.7121
+L-Galactonic Acid,b1779,b3737,gapA,atpE,double,0.7121
+L-Galactonic Acid,b1702,b2779,ppsA,eno,double,0.7121
+L-Galactonic Acid,b0684,b2895,fldA,fldB,double,0.7121
+L-Galactonic Acid,b2926,b3738,pgk,atpB,double,0.7121
+L-Galactonic Acid,b0126,b0339,can,cynT,double,0.7121
+L-Galactonic Acid,b1779,b3732,gapA,atpD,double,0.7121
+L-Galactonic Acid,b0954,b2836,fabA,aas,double,0.7121
+L-Galactonic Acid,b0149,b3396,mrcB,mrcA,double,0.7121
+L-Galactonic Acid,b0099,b1865,mutT,nudB,double,0.7121
+L-Galactonic Acid,b1622,b3008,malY,metC,double,0.7121
+L-Galactonic Acid,b2508,b2867,guaB,xdhB,double,0.7121
+L-Galactonic Acid,b0032,b0521,carA,ybcF,double,0.7121
+L-Galactonic Acid,b1779,b3733,gapA,atpG,double,0.7121
+L-Galactonic Acid,b3829,b4019,metE,metH,double,0.7121
+L-Galactonic Acid,b2551,b2913,glyA,serA,double,0.7121
+L-Galactonic Acid,b3386,b4025,rpe,pgi,double,0.7121
+L-Galactonic Acid,b0954,b3846,fabA,fadB,double,0.7121
+L-Galactonic Acid,b2508,b2866,guaB,xdhA,double,0.7121
+L-Galactonic Acid,b2029,b3386,gnd,rpe,double,0.7121
+L-Galactonic Acid,b0763,b2422,modA,cysA,double,0.7121
+L-Galactonic Acid,b0870,b2551,ltaE,glyA,double,0.7121
+L-Galactonic Acid,b0002,b3940,thrA,metL,double,0.7121
+L-Galactonic Acid,b0238,b2508,gpt,guaB,double,0.7121
+L-Galactonic Acid,b0073,b1800,leuB,dmlA,double,0.7121
+L-Galactonic Acid,b2926,b3735,pgk,atpH,double,0.7121
+L-Galactonic Acid,b0077,b3671,ilvI,ilvB,double,0.7121
+L-Galactonic Acid,b0171,b0910,pyrH,cmk,double,0.7121
+L-Galactonic Acid,b1190,b4053,dadX,alr,double,0.7121
+L-Galactonic Acid,b0118,b1276,acnB,acnA,double,0.7121
+L-Galactonic Acid,b0764,b2422,modB,cysA,double,0.7121
+L-Galactonic Acid,b1852,b3386,zwf,rpe,double,0.7121
+L-Galactonic Acid,b0763,b2424,modA,cysU,double,0.7121
+L-Galactonic Acid,b1761,b3213,gdhA,gltD,double,0.7121
+L-Galactonic Acid,b1702,b1779,ppsA,gapA,double,0.7121
+L-Galactonic Acid,b0033,b0521,carB,ybcF,double,0.7121
+L-Galactonic Acid,b0092,b0381,ddlB,ddlA,double,0.7121
+L-Galactonic Acid,b1096,b4039,pabC,ubiC,double,0.7121
+L-Galactonic Acid,b0764,b2424,modB,cysU,double,0.7121
+L-Galactonic Acid,b0273,b4254,argF,argI,double,0.7121
+L-Galactonic Acid,b0763,b2423,modA,cysW,double,0.7121
+L-Galactonic Acid,b2926,b3737,pgk,atpE,double,0.7121
+L-Galactonic Acid,b0765,b2423,modC,cysW,double,0.7121
+L-Galactonic Acid,b2926,b3736,pgk,atpF,double,0.7121
+L-Galactonic Acid,b2926,b3731,pgk,atpC,double,0.7121
+L-Galactonic Acid,b1779,b3734,gapA,atpA,double,0.7121
+L-Galactonic Acid,b1849,b2500,purT,purN,double,0.7121
+L-Galactonic Acid,b0767,b3386,pgl,rpe,double,0.7121
+L-Galactonic Acid,b0078,b3670,ilvH,ilvN,double,0.7121
+L-Galactonic Acid,b1702,b2926,ppsA,pgk,double,0.7121
+L-Galactonic Acid,b2436,b3867,hemF,hemN,double,0.7121
+L-Galactonic Acid,b0077,b3670,ilvI,ilvN,double,0.7121
+L-Galactonic Acid,b2235,b4238,nrdB,nrdD,double,0.7121
+L-Galactonic Acid,b1090,b4041,plsX,plsB,double,0.7121
+L-Galactonic Acid,b1761,b3212,gdhA,gltB,double,0.7121
+L-Galactonic Acid,b2234,b4238,nrdA,nrdD,double,0.7121
+L-Galactonic Acid,b1779,b3735,gapA,atpH,double,0.7121
+L-Galactonic Acid,b3059,b4041,plsY,plsB,double,0.7121
+L-Galactonic Acid,b0674,b3744,asnB,asnA,double,0.7121
+L-Galactonic Acid,b0765,b2424,modC,cysU,double,0.7121
+L-Galactonic Acid,b0844,b3812,ybjI,yigB,double,0.7121
+L-Galactonic Acid,b0078,b3671,ilvH,ilvB,double,0.7121
+L-Galactonic Acid,b1378,b3924,pfo,fpr,double,0.7121
+L-Galactonic Acid,b0870,b2320,ltaE,pdxB,double,0.7121
+L-Galactonic Acid,b2551,b4388,glyA,serB,double,0.7121
+L-Galactonic Acid,b2926,b3733,pgk,atpG,double,0.7121
+L-Galactonic Acid,b0452,b0954,tesB,fabA,double,0.7121
+L-Galactonic Acid,b2708,b3197,srlQ,kdsD,double,0.7121
+L-Galactonic Acid,b2582,b3781,trxC,trxA,double,0.7121
+D-Glucuronic Acid,b0388,b3390,aroL,aroK,double,0.6986
+D-Glucuronic Acid,b0765,b2422,modC,cysA,double,0.6986
+D-Glucuronic Acid,b0928,b4054,aspC,tyrB,double,0.6986
+D-Glucuronic Acid,b3117,b3772,tdcB,ilvA,double,0.6986
+D-Glucuronic Acid,b2508,b2868,guaB,xdhC,double,0.6986
+D-Glucuronic Acid,b0048,b1606,folA,folM,double,0.6986
+D-Glucuronic Acid,b1779,b3738,gapA,atpB,double,0.6986
+D-Glucuronic Acid,b2926,b3732,pgk,atpD,double,0.6986
+D-Glucuronic Acid,b0764,b2423,modB,cysW,double,0.6986
+D-Glucuronic Acid,b2414,b2421,cysK,cysM,double,0.6986
+D-Glucuronic Acid,b1692,b3281,ydiB,aroE,double,0.6986
+D-Glucuronic Acid,b0155,b1592,clcA,clcB,double,0.6986
+D-Glucuronic Acid,b2926,b3734,pgk,atpA,double,0.6986
+D-Glucuronic Acid,b1779,b3731,gapA,atpC,double,0.6986
+D-Glucuronic Acid,b2465,b2935,tktB,tktA,double,0.6986
+D-Glucuronic Acid,b0907,b2551,serC,glyA,double,0.6986
+D-Glucuronic Acid,b1779,b3736,gapA,atpF,double,0.6986
+D-Glucuronic Acid,b0870,b0907,ltaE,serC,double,0.6986
+D-Glucuronic Acid,b1779,b3737,gapA,atpE,double,0.6986
+D-Glucuronic Acid,b1702,b2779,ppsA,eno,double,0.6986
+D-Glucuronic Acid,b0684,b2895,fldA,fldB,double,0.6986
+D-Glucuronic Acid,b0126,b0339,can,cynT,double,0.6986
+D-Glucuronic Acid,b1779,b3732,gapA,atpD,double,0.6986
+D-Glucuronic Acid,b2926,b3738,pgk,atpB,double,0.6986
+D-Glucuronic Acid,b0954,b2836,fabA,aas,double,0.6986
+D-Glucuronic Acid,b0149,b3396,mrcB,mrcA,double,0.6986
+D-Glucuronic Acid,b0099,b1865,mutT,nudB,double,0.6986
+D-Glucuronic Acid,b1622,b3008,malY,metC,double,0.6986
+D-Glucuronic Acid,b2508,b2867,guaB,xdhB,double,0.6986
+D-Glucuronic Acid,b0032,b0521,carA,ybcF,double,0.6986
+D-Glucuronic Acid,b1779,b3733,gapA,atpG,double,0.6986
+D-Glucuronic Acid,b3829,b4019,metE,metH,double,0.6986
+D-Glucuronic Acid,b2551,b2913,glyA,serA,double,0.6986
+D-Glucuronic Acid,b3386,b4025,rpe,pgi,double,0.6986
+D-Glucuronic Acid,b0954,b3846,fabA,fadB,double,0.6986
+D-Glucuronic Acid,b2508,b2866,guaB,xdhA,double,0.6986
+D-Glucuronic Acid,b2029,b3386,gnd,rpe,double,0.6986
+D-Glucuronic Acid,b0763,b2422,modA,cysA,double,0.6986
+D-Glucuronic Acid,b0870,b2551,ltaE,glyA,double,0.6986
+D-Glucuronic Acid,b0002,b3940,thrA,metL,double,0.6986
+D-Glucuronic Acid,b0238,b2508,gpt,guaB,double,0.6986
+D-Glucuronic Acid,b0073,b1800,leuB,dmlA,double,0.6986
+D-Glucuronic Acid,b2926,b3735,pgk,atpH,double,0.6986
+D-Glucuronic Acid,b0077,b3671,ilvI,ilvB,double,0.6986
+D-Glucuronic Acid,b0171,b0910,pyrH,cmk,double,0.6986
+D-Glucuronic Acid,b1190,b4053,dadX,alr,double,0.6986
+D-Glucuronic Acid,b0118,b1276,acnB,acnA,double,0.6986
+D-Glucuronic Acid,b0764,b2422,modB,cysA,double,0.6986
+D-Glucuronic Acid,b1852,b3386,zwf,rpe,double,0.6986
+D-Glucuronic Acid,b0763,b2424,modA,cysU,double,0.6986
+D-Glucuronic Acid,b1702,b1779,ppsA,gapA,double,0.6986
+D-Glucuronic Acid,b1761,b3213,gdhA,gltD,double,0.6986
+D-Glucuronic Acid,b0033,b0521,carB,ybcF,double,0.6986
+D-Glucuronic Acid,b0092,b0381,ddlB,ddlA,double,0.6986
+D-Glucuronic Acid,b3093,b3909,exuT,kdgT,double,0.6986
+D-Glucuronic Acid,b1096,b4039,pabC,ubiC,double,0.6986
+D-Glucuronic Acid,b0764,b2424,modB,cysU,double,0.6986
+D-Glucuronic Acid,b0273,b4254,argF,argI,double,0.6986
+D-Glucuronic Acid,b0763,b2423,modA,cysW,double,0.6986
+D-Glucuronic Acid,b2926,b3737,pgk,atpE,double,0.6986
+D-Glucuronic Acid,b0765,b2423,modC,cysW,double,0.6986
+D-Glucuronic Acid,b2926,b3736,pgk,atpF,double,0.6986
+D-Glucuronic Acid,b2926,b3731,pgk,atpC,double,0.6986
+D-Glucuronic Acid,b1779,b3734,gapA,atpA,double,0.6986
+D-Glucuronic Acid,b1849,b2500,purT,purN,double,0.6986
+D-Glucuronic Acid,b0767,b3386,pgl,rpe,double,0.6986
+D-Glucuronic Acid,b0078,b3670,ilvH,ilvN,double,0.6986
+D-Glucuronic Acid,b1702,b2926,ppsA,pgk,double,0.6986
+D-Glucuronic Acid,b2436,b3867,hemF,hemN,double,0.6986
+D-Glucuronic Acid,b0077,b3670,ilvI,ilvN,double,0.6986
+D-Glucuronic Acid,b2235,b4238,nrdB,nrdD,double,0.6986
+D-Glucuronic Acid,b1090,b4041,plsX,plsB,double,0.6986
+D-Glucuronic Acid,b1761,b3212,gdhA,gltB,double,0.6986
+D-Glucuronic Acid,b2234,b4238,nrdA,nrdD,double,0.6986
+D-Glucuronic Acid,b1779,b3735,gapA,atpH,double,0.6986
+D-Glucuronic Acid,b3059,b4041,plsY,plsB,double,0.6986
+D-Glucuronic Acid,b0674,b3744,asnB,asnA,double,0.6986
+D-Glucuronic Acid,b0765,b2424,modC,cysU,double,0.6986
+D-Glucuronic Acid,b0844,b3812,ybjI,yigB,double,0.6986
+D-Glucuronic Acid,b0078,b3671,ilvH,ilvB,double,0.6986
+D-Glucuronic Acid,b1378,b3924,pfo,fpr,double,0.6986
+D-Glucuronic Acid,b0870,b2320,ltaE,pdxB,double,0.6986
+D-Glucuronic Acid,b2551,b4388,glyA,serB,double,0.6986
+D-Glucuronic Acid,b2926,b3733,pgk,atpG,double,0.6986
+D-Glucuronic Acid,b0452,b0954,tesB,fabA,double,0.6986
+D-Glucuronic Acid,b2708,b3197,srlQ,kdsD,double,0.6986
+D-Glucuronic Acid,b2582,b3781,trxC,trxA,double,0.6986
+D-Ribose,b0388,b3390,aroL,aroK,double,0.6698
+D-Ribose,b0765,b2422,modC,cysA,double,0.6698
+D-Ribose,b0928,b4054,aspC,tyrB,double,0.6698
+D-Ribose,b3117,b3772,tdcB,ilvA,double,0.6698
+D-Ribose,b2508,b2868,guaB,xdhC,double,0.6698
+D-Ribose,b0048,b1606,folA,folM,double,0.6698
+D-Ribose,b1779,b3738,gapA,atpB,double,0.6698
+D-Ribose,b2926,b3732,pgk,atpD,double,0.6698
+D-Ribose,b0764,b2423,modB,cysW,double,0.6698
+D-Ribose,b2414,b2421,cysK,cysM,double,0.6698
+D-Ribose,b3386,b3736,rpe,atpF,double,0.6698
+D-Ribose,b1692,b3281,ydiB,aroE,double,0.6698
+D-Ribose,b0155,b1592,clcA,clcB,double,0.6698
+D-Ribose,b2926,b3734,pgk,atpA,double,0.6698
+D-Ribose,b1779,b3731,gapA,atpC,double,0.6698
+D-Ribose,b2465,b2935,tktB,tktA,double,0.6698
+D-Ribose,b0907,b2551,serC,glyA,double,0.6698
+D-Ribose,b1779,b3736,gapA,atpF,double,0.6698
+D-Ribose,b0870,b0907,ltaE,serC,double,0.6698
+D-Ribose,b1779,b3737,gapA,atpE,double,0.6698
+D-Ribose,b1702,b2779,ppsA,eno,double,0.6698
+D-Ribose,b0684,b2895,fldA,fldB,double,0.6698
+D-Ribose,b0126,b0339,can,cynT,double,0.6698
+D-Ribose,b1779,b3732,gapA,atpD,double,0.6698
+D-Ribose,b2926,b3738,pgk,atpB,double,0.6698
+D-Ribose,b3735,b3919,atpH,tpiA,double,0.6698
+D-Ribose,b2779,b3733,eno,atpG,double,0.6698
+D-Ribose,b3733,b3919,atpG,tpiA,double,0.6698
+D-Ribose,b2779,b3735,eno,atpH,double,0.6698
+D-Ribose,b3737,b3919,atpE,tpiA,double,0.6698
+D-Ribose,b2779,b3737,eno,atpE,double,0.6698
+D-Ribose,b2779,b3731,eno,atpC,double,0.6698
+D-Ribose,b3731,b3919,atpC,tpiA,double,0.6698
+D-Ribose,b0954,b2836,fabA,aas,double,0.6698
+D-Ribose,b0149,b3396,mrcB,mrcA,double,0.6698
+D-Ribose,b0099,b1865,mutT,nudB,double,0.6698
+D-Ribose,b1622,b3008,malY,metC,double,0.6698
+D-Ribose,b2508,b2867,guaB,xdhB,double,0.6698
+D-Ribose,b0032,b0521,carA,ybcF,double,0.6698
+D-Ribose,b1779,b3733,gapA,atpG,double,0.6698
+D-Ribose,b3829,b4019,metE,metH,double,0.6698
+D-Ribose,b2551,b2913,glyA,serA,double,0.6698
+D-Ribose,b3386,b3735,rpe,atpH,double,0.6698
+D-Ribose,b0954,b3846,fabA,fadB,double,0.6698
+D-Ribose,b3386,b3738,rpe,atpB,double,0.6698
+D-Ribose,b2508,b2866,guaB,xdhA,double,0.6698
+D-Ribose,b0763,b2422,modA,cysA,double,0.6698
+D-Ribose,b0870,b2551,ltaE,glyA,double,0.6698
+D-Ribose,b1517,b3386,lsrF,rpe,double,0.6698
+D-Ribose,b0002,b3940,thrA,metL,double,0.6698
+D-Ribose,b0238,b2508,gpt,guaB,double,0.6698
+D-Ribose,b0073,b1800,leuB,dmlA,double,0.6698
+D-Ribose,b2926,b3735,pgk,atpH,double,0.6698
+D-Ribose,b0077,b3671,ilvI,ilvB,double,0.6698
+D-Ribose,b3386,b3732,rpe,atpD,double,0.6698
+D-Ribose,b0171,b0910,pyrH,cmk,double,0.6698
+D-Ribose,b1190,b4053,dadX,alr,double,0.6698
+D-Ribose,b0118,b1276,acnB,acnA,double,0.6698
+D-Ribose,b0764,b2422,modB,cysA,double,0.6698
+D-Ribose,b2779,b3732,eno,atpD,double,0.6698
+D-Ribose,b3732,b3919,atpD,tpiA,double,0.6698
+D-Ribose,b0763,b2424,modA,cysU,double,0.6698
+D-Ribose,b1702,b1779,ppsA,gapA,double,0.6698
+D-Ribose,b1761,b3213,gdhA,gltD,double,0.6698
+D-Ribose,b0033,b0521,carB,ybcF,double,0.6698
+D-Ribose,b0092,b0381,ddlB,ddlA,double,0.6698
+D-Ribose,b1096,b4039,pabC,ubiC,double,0.6698
+D-Ribose,b0764,b2424,modB,cysU,double,0.6698
+D-Ribose,b0273,b4254,argF,argI,double,0.6698
+D-Ribose,b0763,b2423,modA,cysW,double,0.6698
+D-Ribose,b2926,b3737,pgk,atpE,double,0.6698
+D-Ribose,b0765,b2423,modC,cysW,double,0.6698
+D-Ribose,b2926,b3736,pgk,atpF,double,0.6698
+D-Ribose,b2926,b3731,pgk,atpC,double,0.6698
+D-Ribose,b1779,b3734,gapA,atpA,double,0.6698
+D-Ribose,b1849,b2500,purT,purN,double,0.6698
+D-Ribose,b3386,b3731,rpe,atpC,double,0.6698
+D-Ribose,b3386,b3733,rpe,atpG,double,0.6698
+D-Ribose,b1518,b3386,lsrG,rpe,double,0.6698
+D-Ribose,b1511,b3386,lsrK,rpe,double,0.6698
+D-Ribose,b0078,b3670,ilvH,ilvN,double,0.6698
+D-Ribose,b1702,b2926,ppsA,pgk,double,0.6698
+D-Ribose,b2436,b3867,hemF,hemN,double,0.6698
+D-Ribose,b2779,b3738,eno,atpB,double,0.6698
+D-Ribose,b0077,b3670,ilvI,ilvN,double,0.6698
+D-Ribose,b3738,b3919,atpB,tpiA,double,0.6698
+D-Ribose,b2235,b4238,nrdB,nrdD,double,0.6698
+D-Ribose,b3386,b3734,rpe,atpA,double,0.6698
+D-Ribose,b1090,b4041,plsX,plsB,double,0.6698
+D-Ribose,b3736,b3919,atpF,tpiA,double,0.6698
+D-Ribose,b1761,b3212,gdhA,gltB,double,0.6698
+D-Ribose,b2779,b3736,eno,atpF,double,0.6698
+D-Ribose,b2234,b4238,nrdA,nrdD,double,0.6698
+D-Ribose,b1779,b3735,gapA,atpH,double,0.6698
+D-Ribose,b3059,b4041,plsY,plsB,double,0.6698
+D-Ribose,b0261,b3386,mmuM,rpe,double,0.6698
+D-Ribose,b3386,b3737,rpe,atpE,double,0.6698
+D-Ribose,b0674,b3744,asnB,asnA,double,0.6698
+D-Ribose,b0765,b2424,modC,cysU,double,0.6698
+D-Ribose,b0844,b3812,ybjI,yigB,double,0.6698
+D-Ribose,b3734,b3919,atpA,tpiA,double,0.6698
+D-Ribose,b2779,b3734,eno,atpA,double,0.6698
+D-Ribose,b0078,b3671,ilvH,ilvB,double,0.6698
+D-Ribose,b1378,b3924,pfo,fpr,double,0.6698
+D-Ribose,b0870,b2320,ltaE,pdxB,double,0.6698
+D-Ribose,b2551,b4388,glyA,serB,double,0.6698
+D-Ribose,b2926,b3733,pgk,atpG,double,0.6698
+D-Ribose,b0452,b0954,tesB,fabA,double,0.6698
+D-Ribose,b2708,b3197,srlQ,kdsD,double,0.6698
+D-Ribose,b2582,b3781,trxC,trxA,double,0.6698
+L-Rhamnose,b0092,b0381,ddlB,ddlA,double,0.6455
+L-Rhamnose,b0388,b3390,aroL,aroK,double,0.6455
+L-Rhamnose,b2436,b3867,hemF,hemN,double,0.6455
+L-Rhamnose,b0077,b3670,ilvI,ilvN,double,0.6455
+L-Rhamnose,b0765,b2422,modC,cysA,double,0.6455
+L-Rhamnose,b2235,b4238,nrdB,nrdD,double,0.6455
+L-Rhamnose,b3829,b4019,metE,metH,double,0.6455
+L-Rhamnose,b0928,b4054,aspC,tyrB,double,0.6455
+L-Rhamnose,b1096,b4039,pabC,ubiC,double,0.6455
+L-Rhamnose,b2551,b2913,glyA,serA,double,0.6455
+L-Rhamnose,b3117,b3772,tdcB,ilvA,double,0.6455
+L-Rhamnose,b0452,b0954,tesB,fabA,double,0.6455
+L-Rhamnose,b0325,b1415,yahK,aldA,double,0.6455
+L-Rhamnose,b0033,b0521,carB,ybcF,double,0.6455
+L-Rhamnose,b3386,b4025,rpe,pgi,double,0.6455
+L-Rhamnose,b1090,b4041,plsX,plsB,double,0.6455
+L-Rhamnose,b2508,b2868,guaB,xdhC,double,0.6455
+L-Rhamnose,b0048,b1606,folA,folM,double,0.6455
+L-Rhamnose,b1761,b3212,gdhA,gltB,double,0.6455
+L-Rhamnose,b0954,b3846,fabA,fadB,double,0.6455
+L-Rhamnose,b0764,b2423,modB,cysW,double,0.6455
+L-Rhamnose,b0764,b2424,modB,cysU,double,0.6455
+L-Rhamnose,b2414,b2421,cysK,cysM,double,0.6455
+L-Rhamnose,b0273,b4254,argF,argI,double,0.6455
+L-Rhamnose,b0763,b2423,modA,cysW,double,0.6455
+L-Rhamnose,b2508,b2866,guaB,xdhA,double,0.6455
+L-Rhamnose,b1692,b3281,ydiB,aroE,double,0.6455
+L-Rhamnose,b2029,b3386,gnd,rpe,double,0.6455
+L-Rhamnose,b0765,b2423,modC,cysW,double,0.6455
+L-Rhamnose,b2234,b4238,nrdA,nrdD,double,0.6455
+L-Rhamnose,b0763,b2422,modA,cysA,double,0.6455
+L-Rhamnose,b0870,b2551,ltaE,glyA,double,0.6455
+L-Rhamnose,b3059,b4041,plsY,plsB,double,0.6455
+L-Rhamnose,b0155,b1592,clcA,clcB,double,0.6455
+L-Rhamnose,b2465,b2935,tktB,tktA,double,0.6455
+L-Rhamnose,b0073,b1800,leuB,dmlA,double,0.6455
+L-Rhamnose,b0907,b2551,serC,glyA,double,0.6455
+L-Rhamnose,b0002,b3940,thrA,metL,double,0.6455
+L-Rhamnose,b0238,b2508,gpt,guaB,double,0.6455
+L-Rhamnose,b0870,b0907,ltaE,serC,double,0.6455
+L-Rhamnose,b0674,b3744,asnB,asnA,double,0.6455
+L-Rhamnose,b0077,b3671,ilvI,ilvB,double,0.6455
+L-Rhamnose,b0765,b2424,modC,cysU,double,0.6455
+L-Rhamnose,b0763,b2424,modA,cysU,double,0.6455
+L-Rhamnose,b0844,b3812,ybjI,yigB,double,0.6455
+L-Rhamnose,b0171,b0910,pyrH,cmk,double,0.6455
+L-Rhamnose,b0126,b0339,can,cynT,double,0.6455
+L-Rhamnose,b1190,b4053,dadX,alr,double,0.6455
+L-Rhamnose,b0684,b2895,fldA,fldB,double,0.6455
+L-Rhamnose,b1378,b3924,pfo,fpr,double,0.6455
+L-Rhamnose,b0078,b3671,ilvH,ilvB,double,0.6455
+L-Rhamnose,b0032,b0521,carA,ybcF,double,0.6455
+L-Rhamnose,b0118,b1276,acnB,acnA,double,0.6455
+L-Rhamnose,b1849,b2500,purT,purN,double,0.6455
+L-Rhamnose,b0870,b2320,ltaE,pdxB,double,0.6455
+L-Rhamnose,b0764,b2422,modB,cysA,double,0.6455
+L-Rhamnose,b1852,b3386,zwf,rpe,double,0.6455
+L-Rhamnose,b0954,b2836,fabA,aas,double,0.6455
+L-Rhamnose,b0767,b3386,pgl,rpe,double,0.6455
+L-Rhamnose,b0149,b3396,mrcB,mrcA,double,0.6455
+L-Rhamnose,b0099,b1865,mutT,nudB,double,0.6455
+L-Rhamnose,b2551,b4388,glyA,serB,double,0.6455
+L-Rhamnose,b1622,b3008,malY,metC,double,0.6455
+L-Rhamnose,b1761,b3213,gdhA,gltD,double,0.6455
+L-Rhamnose,b2508,b2867,guaB,xdhB,double,0.6455
+L-Rhamnose,b2708,b3197,srlQ,kdsD,double,0.6455
+L-Rhamnose,b0078,b3670,ilvH,ilvN,double,0.6455
+L-Rhamnose,b0755,b3612,gpmA,gpmM,double,0.6455
+L-Rhamnose,b2582,b3781,trxC,trxA,double,0.6455
+L-Fucose,b0092,b0381,ddlB,ddlA,double,0.6455
+L-Fucose,b0388,b3390,aroL,aroK,double,0.6455
+L-Fucose,b2436,b3867,hemF,hemN,double,0.6455
+L-Fucose,b0077,b3670,ilvI,ilvN,double,0.6455
+L-Fucose,b0765,b2422,modC,cysA,double,0.6455
+L-Fucose,b2235,b4238,nrdB,nrdD,double,0.6455
+L-Fucose,b3829,b4019,metE,metH,double,0.6455
+L-Fucose,b0928,b4054,aspC,tyrB,double,0.6455
+L-Fucose,b1096,b4039,pabC,ubiC,double,0.6455
+L-Fucose,b2551,b2913,glyA,serA,double,0.6455
+L-Fucose,b3117,b3772,tdcB,ilvA,double,0.6455
+L-Fucose,b0452,b0954,tesB,fabA,double,0.6455
+L-Fucose,b0325,b1415,yahK,aldA,double,0.6455
+L-Fucose,b0033,b0521,carB,ybcF,double,0.6455
+L-Fucose,b3386,b4025,rpe,pgi,double,0.6455
+L-Fucose,b1090,b4041,plsX,plsB,double,0.6455
+L-Fucose,b2508,b2868,guaB,xdhC,double,0.6455
+L-Fucose,b0048,b1606,folA,folM,double,0.6455
+L-Fucose,b1761,b3212,gdhA,gltB,double,0.6455
+L-Fucose,b0954,b3846,fabA,fadB,double,0.6455
+L-Fucose,b0764,b2423,modB,cysW,double,0.6455
+L-Fucose,b0764,b2424,modB,cysU,double,0.6455
+L-Fucose,b2414,b2421,cysK,cysM,double,0.6455
+L-Fucose,b0273,b4254,argF,argI,double,0.6455
+L-Fucose,b0763,b2423,modA,cysW,double,0.6455
+L-Fucose,b2508,b2866,guaB,xdhA,double,0.6455
+L-Fucose,b1692,b3281,ydiB,aroE,double,0.6455
+L-Fucose,b2029,b3386,gnd,rpe,double,0.6455
+L-Fucose,b0765,b2423,modC,cysW,double,0.6455
+L-Fucose,b2738,b2800,ygbL,fucA,double,0.6455
+L-Fucose,b2234,b4238,nrdA,nrdD,double,0.6455
+L-Fucose,b0870,b2551,ltaE,glyA,double,0.6455
+L-Fucose,b0763,b2422,modA,cysA,double,0.6455
+L-Fucose,b3059,b4041,plsY,plsB,double,0.6455
+L-Fucose,b0155,b1592,clcA,clcB,double,0.6455
+L-Fucose,b2465,b2935,tktB,tktA,double,0.6455
+L-Fucose,b0073,b1800,leuB,dmlA,double,0.6455
+L-Fucose,b0907,b2551,serC,glyA,double,0.6455
+L-Fucose,b0002,b3940,thrA,metL,double,0.6455
+L-Fucose,b0238,b2508,gpt,guaB,double,0.6455
+L-Fucose,b0870,b0907,ltaE,serC,double,0.6455
+L-Fucose,b0674,b3744,asnB,asnA,double,0.6455
+L-Fucose,b0077,b3671,ilvI,ilvB,double,0.6455
+L-Fucose,b0765,b2424,modC,cysU,double,0.6455
+L-Fucose,b0763,b2424,modA,cysU,double,0.6455
+L-Fucose,b0844,b3812,ybjI,yigB,double,0.6455
+L-Fucose,b0171,b0910,pyrH,cmk,double,0.6455
+L-Fucose,b0126,b0339,can,cynT,double,0.6455
+L-Fucose,b1190,b4053,dadX,alr,double,0.6455
+L-Fucose,b0684,b2895,fldA,fldB,double,0.6455
+L-Fucose,b1378,b3924,pfo,fpr,double,0.6455
+L-Fucose,b0078,b3671,ilvH,ilvB,double,0.6455
+L-Fucose,b0032,b0521,carA,ybcF,double,0.6455
+L-Fucose,b0118,b1276,acnB,acnA,double,0.6455
+L-Fucose,b1849,b2500,purT,purN,double,0.6455
+L-Fucose,b0870,b2320,ltaE,pdxB,double,0.6455
+L-Fucose,b0764,b2422,modB,cysA,double,0.6455
+L-Fucose,b1852,b3386,zwf,rpe,double,0.6455
+L-Fucose,b0954,b2836,fabA,aas,double,0.6455
+L-Fucose,b0767,b3386,pgl,rpe,double,0.6455
+L-Fucose,b0149,b3396,mrcB,mrcA,double,0.6455
+L-Fucose,b0099,b1865,mutT,nudB,double,0.6455
+L-Fucose,b2551,b4388,glyA,serB,double,0.6455
+L-Fucose,b1622,b3008,malY,metC,double,0.6455
+L-Fucose,b1761,b3213,gdhA,gltD,double,0.6455
+L-Fucose,b2508,b2867,guaB,xdhB,double,0.6455
+L-Fucose,b2708,b3197,srlQ,kdsD,double,0.6455
+L-Fucose,b0078,b3670,ilvH,ilvN,double,0.6455
+L-Fucose,b0755,b3612,gpmA,gpmM,double,0.6455
+L-Fucose,b2582,b3781,trxC,trxA,double,0.6455
+D-Saccharic Acid,b0092,b0381,ddlB,ddlA,double,0.6025
+D-Saccharic Acid,b0388,b3390,aroL,aroK,double,0.6025
+D-Saccharic Acid,b2436,b3867,hemF,hemN,double,0.6025
+D-Saccharic Acid,b0077,b3670,ilvI,ilvN,double,0.6025
+D-Saccharic Acid,b0765,b2422,modC,cysA,double,0.6025
+D-Saccharic Acid,b2235,b4238,nrdB,nrdD,double,0.6025
+D-Saccharic Acid,b3829,b4019,metE,metH,double,0.6025
+D-Saccharic Acid,b0928,b4054,aspC,tyrB,double,0.6025
+D-Saccharic Acid,b2551,b2913,glyA,serA,double,0.6025
+D-Saccharic Acid,b1096,b4039,pabC,ubiC,double,0.6025
+D-Saccharic Acid,b3117,b3772,tdcB,ilvA,double,0.6025
+D-Saccharic Acid,b0033,b0521,carB,ybcF,double,0.6025
+D-Saccharic Acid,b3386,b4025,rpe,pgi,double,0.6025
+D-Saccharic Acid,b1090,b4041,plsX,plsB,double,0.6025
+D-Saccharic Acid,b2508,b2868,guaB,xdhC,double,0.6025
+D-Saccharic Acid,b0048,b1606,folA,folM,double,0.6025
+D-Saccharic Acid,b1761,b3212,gdhA,gltB,double,0.6025
+D-Saccharic Acid,b0954,b3846,fabA,fadB,double,0.6025
+D-Saccharic Acid,b0764,b2423,modB,cysW,double,0.6025
+D-Saccharic Acid,b2414,b2421,cysK,cysM,double,0.6025
+D-Saccharic Acid,b0764,b2424,modB,cysU,double,0.6025
+D-Saccharic Acid,b0273,b4254,argF,argI,double,0.6025
+D-Saccharic Acid,b0763,b2423,modA,cysW,double,0.6025
+D-Saccharic Acid,b2508,b2866,guaB,xdhA,double,0.6025
+D-Saccharic Acid,b0514,b3124,glxK,garK,double,0.6025
+D-Saccharic Acid,b1692,b3281,ydiB,aroE,double,0.6025
+D-Saccharic Acid,b0765,b2423,modC,cysW,double,0.6025
+D-Saccharic Acid,b2029,b3386,gnd,rpe,double,0.6025
+D-Saccharic Acid,b2234,b4238,nrdA,nrdD,double,0.6025
+D-Saccharic Acid,b0763,b2422,modA,cysA,double,0.6025
+D-Saccharic Acid,b0870,b2551,ltaE,glyA,double,0.6025
+D-Saccharic Acid,b3059,b4041,plsY,plsB,double,0.6025
+D-Saccharic Acid,b0155,b1592,clcA,clcB,double,0.6025
+D-Saccharic Acid,b2465,b2935,tktB,tktA,double,0.6025
+D-Saccharic Acid,b0002,b3940,thrA,metL,double,0.6025
+D-Saccharic Acid,b0907,b2551,serC,glyA,double,0.6025
+D-Saccharic Acid,b0238,b2508,gpt,guaB,double,0.6025
+D-Saccharic Acid,b0073,b1800,leuB,dmlA,double,0.6025
+D-Saccharic Acid,b0870,b0907,ltaE,serC,double,0.6025
+D-Saccharic Acid,b0674,b3744,asnB,asnA,double,0.6025
+D-Saccharic Acid,b0077,b3671,ilvI,ilvB,double,0.6025
+D-Saccharic Acid,b0765,b2424,modC,cysU,double,0.6025
+D-Saccharic Acid,b0763,b2424,modA,cysU,double,0.6025
+D-Saccharic Acid,b0844,b3812,ybjI,yigB,double,0.6025
+D-Saccharic Acid,b1761,b3213,gdhA,gltD,double,0.6025
+D-Saccharic Acid,b2787,b2788,gudD,gudX,double,0.6025
+D-Saccharic Acid,b0171,b0910,pyrH,cmk,double,0.6025
+D-Saccharic Acid,b0126,b0339,can,cynT,double,0.6025
+D-Saccharic Acid,b0684,b2895,fldA,fldB,double,0.6025
+D-Saccharic Acid,b0078,b3671,ilvH,ilvB,double,0.6025
+D-Saccharic Acid,b1378,b3924,pfo,fpr,double,0.6025
+D-Saccharic Acid,b1190,b4053,dadX,alr,double,0.6025
+D-Saccharic Acid,b0032,b0521,carA,ybcF,double,0.6025
+D-Saccharic Acid,b0118,b1276,acnB,acnA,double,0.6025
+D-Saccharic Acid,b1849,b2500,purT,purN,double,0.6025
+D-Saccharic Acid,b0870,b2320,ltaE,pdxB,double,0.6025
+D-Saccharic Acid,b0764,b2422,modB,cysA,double,0.6025
+D-Saccharic Acid,b1852,b3386,zwf,rpe,double,0.6025
+D-Saccharic Acid,b0954,b2836,fabA,aas,double,0.6025
+D-Saccharic Acid,b0767,b3386,pgl,rpe,double,0.6025
+D-Saccharic Acid,b0149,b3396,mrcB,mrcA,double,0.6025
+D-Saccharic Acid,b0099,b1865,mutT,nudB,double,0.6025
+D-Saccharic Acid,b2551,b4388,glyA,serB,double,0.6025
+D-Saccharic Acid,b1622,b3008,malY,metC,double,0.6025
+D-Saccharic Acid,b0452,b0954,tesB,fabA,double,0.6025
+D-Saccharic Acid,b2508,b2867,guaB,xdhB,double,0.6025
+D-Saccharic Acid,b2708,b3197,srlQ,kdsD,double,0.6025
+D-Saccharic Acid,b0078,b3670,ilvH,ilvN,double,0.6025
+D-Saccharic Acid,b2789,b3127,gudP,garP,double,0.6025
+D-Saccharic Acid,b2582,b3781,trxC,trxA,double,0.6025
+Mucic Acid,b0092,b0381,ddlB,ddlA,double,0.6025
+Mucic Acid,b0388,b3390,aroL,aroK,double,0.6025
+Mucic Acid,b2436,b3867,hemF,hemN,double,0.6025
+Mucic Acid,b0077,b3670,ilvI,ilvN,double,0.6025
+Mucic Acid,b0765,b2422,modC,cysA,double,0.6025
+Mucic Acid,b2235,b4238,nrdB,nrdD,double,0.6025
+Mucic Acid,b3829,b4019,metE,metH,double,0.6025
+Mucic Acid,b0928,b4054,aspC,tyrB,double,0.6025
+Mucic Acid,b1096,b4039,pabC,ubiC,double,0.6025
+Mucic Acid,b2551,b2913,glyA,serA,double,0.6025
+Mucic Acid,b3117,b3772,tdcB,ilvA,double,0.6025
+Mucic Acid,b0033,b0521,carB,ybcF,double,0.6025
+Mucic Acid,b3386,b4025,rpe,pgi,double,0.6025
+Mucic Acid,b1090,b4041,plsX,plsB,double,0.6025
+Mucic Acid,b2508,b2868,guaB,xdhC,double,0.6025
+Mucic Acid,b0048,b1606,folA,folM,double,0.6025
+Mucic Acid,b1761,b3212,gdhA,gltB,double,0.6025
+Mucic Acid,b0954,b3846,fabA,fadB,double,0.6025
+Mucic Acid,b0764,b2423,modB,cysW,double,0.6025
+Mucic Acid,b0764,b2424,modB,cysU,double,0.6025
+Mucic Acid,b2414,b2421,cysK,cysM,double,0.6025
+Mucic Acid,b0273,b4254,argF,argI,double,0.6025
+Mucic Acid,b0763,b2423,modA,cysW,double,0.6025
+Mucic Acid,b2508,b2866,guaB,xdhA,double,0.6025
+Mucic Acid,b1692,b3281,ydiB,aroE,double,0.6025
+Mucic Acid,b2029,b3386,gnd,rpe,double,0.6025
+Mucic Acid,b0765,b2423,modC,cysW,double,0.6025
+Mucic Acid,b2234,b4238,nrdA,nrdD,double,0.6025
+Mucic Acid,b0763,b2422,modA,cysA,double,0.6025
+Mucic Acid,b0870,b2551,ltaE,glyA,double,0.6025
+Mucic Acid,b3059,b4041,plsY,plsB,double,0.6025
+Mucic Acid,b0155,b1592,clcA,clcB,double,0.6025
+Mucic Acid,b2465,b2935,tktB,tktA,double,0.6025
+Mucic Acid,b0073,b1800,leuB,dmlA,double,0.6025
+Mucic Acid,b0907,b2551,serC,glyA,double,0.6025
+Mucic Acid,b0002,b3940,thrA,metL,double,0.6025
+Mucic Acid,b0238,b2508,gpt,guaB,double,0.6025
+Mucic Acid,b0870,b0907,ltaE,serC,double,0.6025
+Mucic Acid,b0674,b3744,asnB,asnA,double,0.6025
+Mucic Acid,b0077,b3671,ilvI,ilvB,double,0.6025
+Mucic Acid,b0765,b2424,modC,cysU,double,0.6025
+Mucic Acid,b0763,b2424,modA,cysU,double,0.6025
+Mucic Acid,b0844,b3812,ybjI,yigB,double,0.6025
+Mucic Acid,b1761,b3213,gdhA,gltD,double,0.6025
+Mucic Acid,b0126,b0339,can,cynT,double,0.6025
+Mucic Acid,b0171,b0910,pyrH,cmk,double,0.6025
+Mucic Acid,b1190,b4053,dadX,alr,double,0.6025
+Mucic Acid,b0684,b2895,fldA,fldB,double,0.6025
+Mucic Acid,b1378,b3924,pfo,fpr,double,0.6025
+Mucic Acid,b0078,b3671,ilvH,ilvB,double,0.6025
+Mucic Acid,b0118,b1276,acnB,acnA,double,0.6025
+Mucic Acid,b1849,b2500,purT,purN,double,0.6025
+Mucic Acid,b0870,b2320,ltaE,pdxB,double,0.6025
+Mucic Acid,b0764,b2422,modB,cysA,double,0.6025
+Mucic Acid,b1852,b3386,zwf,rpe,double,0.6025
+Mucic Acid,b0767,b3386,pgl,rpe,double,0.6025
+Mucic Acid,b0954,b2836,fabA,aas,double,0.6025
+Mucic Acid,b2789,b3127,gudP,garP,double,0.6025
+Mucic Acid,b0099,b1865,mutT,nudB,double,0.6025
+Mucic Acid,b0149,b3396,mrcB,mrcA,double,0.6025
+Mucic Acid,b2551,b4388,glyA,serB,double,0.6025
+Mucic Acid,b1622,b3008,malY,metC,double,0.6025
+Mucic Acid,b2582,b3781,trxC,trxA,double,0.6025
+Mucic Acid,b0452,b0954,tesB,fabA,double,0.6025
+Mucic Acid,b2508,b2867,guaB,xdhB,double,0.6025
+Mucic Acid,b2708,b3197,srlQ,kdsD,double,0.6025
+Mucic Acid,b0078,b3670,ilvH,ilvN,double,0.6025
+Mucic Acid,b0755,b3612,gpmA,gpmM,double,0.6025
+Mucic Acid,b0032,b0521,carA,ybcF,double,0.6025
+alpha-Keto-Glutaric,b0721,b3732,sdhC,atpD,double,0.5413
+alpha-Keto-Glutaric,b0723,b3731,sdhA,atpC,double,0.5413
+alpha-Keto-Glutaric,b0388,b3390,aroL,aroK,double,0.5413
+alpha-Keto-Glutaric,b0729,b3732,sucD,atpD,double,0.5413
+alpha-Keto-Glutaric,b0765,b2422,modC,cysA,double,0.5413
+alpha-Keto-Glutaric,b0928,b4054,aspC,tyrB,double,0.5413
+alpha-Keto-Glutaric,b0116,b3738,lpd,atpB,double,0.5413
+alpha-Keto-Glutaric,b3117,b3772,tdcB,ilvA,double,0.5413
+alpha-Keto-Glutaric,b0616,b0721,citE,sdhC,double,0.5413
+alpha-Keto-Glutaric,b0617,b0721,citD,sdhC,double,0.5413
+alpha-Keto-Glutaric,b0722,b3732,sdhD,atpD,double,0.5413
+alpha-Keto-Glutaric,b2508,b2868,guaB,xdhC,double,0.5413
+alpha-Keto-Glutaric,b0048,b1606,folA,folM,double,0.5413
+alpha-Keto-Glutaric,b0617,b0723,citD,sdhA,double,0.5413
+alpha-Keto-Glutaric,b0724,b3737,sdhB,atpE,double,0.5413
+alpha-Keto-Glutaric,b0764,b2423,modB,cysW,double,0.5413
+alpha-Keto-Glutaric,b2414,b2421,cysK,cysM,double,0.5413
+alpha-Keto-Glutaric,b0116,b3734,lpd,atpA,double,0.5413
+alpha-Keto-Glutaric,b0724,b3731,sdhB,atpC,double,0.5413
+alpha-Keto-Glutaric,b0615,b0723,citF,sdhA,double,0.5413
+alpha-Keto-Glutaric,b0724,b3735,sdhB,atpH,double,0.5413
+alpha-Keto-Glutaric,b0723,b3734,sdhA,atpA,double,0.5413
+alpha-Keto-Glutaric,b0155,b1592,clcA,clcB,double,0.5413
+alpha-Keto-Glutaric,b2465,b2935,tktB,tktA,double,0.5413
+alpha-Keto-Glutaric,b0907,b2551,serC,glyA,double,0.5413
+alpha-Keto-Glutaric,b0870,b0907,ltaE,serC,double,0.5413
+alpha-Keto-Glutaric,b0684,b2895,fldA,fldB,double,0.5413
+alpha-Keto-Glutaric,b0126,b0339,can,cynT,double,0.5413
+alpha-Keto-Glutaric,b0615,b0721,citF,sdhC,double,0.5413
+alpha-Keto-Glutaric,b0721,b3734,sdhC,atpA,double,0.5413
+alpha-Keto-Glutaric,b0116,b3737,lpd,atpE,double,0.5413
+alpha-Keto-Glutaric,b0722,b3738,sdhD,atpB,double,0.5413
+alpha-Keto-Glutaric,b2708,b3197,srlQ,kdsD,double,0.5413
+alpha-Keto-Glutaric,b0614,b0721,citX,sdhC,double,0.5413
+alpha-Keto-Glutaric,b0954,b2836,fabA,aas,double,0.5413
+alpha-Keto-Glutaric,b0149,b3396,mrcB,mrcA,double,0.5413
+alpha-Keto-Glutaric,b0099,b1865,mutT,nudB,double,0.5413
+alpha-Keto-Glutaric,b1622,b3008,malY,metC,double,0.5413
+alpha-Keto-Glutaric,b2508,b2867,guaB,xdhB,double,0.5413
+alpha-Keto-Glutaric,b0032,b0521,carA,ybcF,double,0.5413
+alpha-Keto-Glutaric,b0729,b3736,sucD,atpF,double,0.5413
+alpha-Keto-Glutaric,b3829,b4019,metE,metH,double,0.5413
+alpha-Keto-Glutaric,b2551,b2913,glyA,serA,double,0.5413
+alpha-Keto-Glutaric,b0727,b3733,sucB,atpG,double,0.5413
+alpha-Keto-Glutaric,b0721,b3736,sdhC,atpF,double,0.5413
+alpha-Keto-Glutaric,b0727,b3736,sucB,atpF,double,0.5413
+alpha-Keto-Glutaric,b3386,b4025,rpe,pgi,double,0.5413
+alpha-Keto-Glutaric,b0727,b3731,sucB,atpC,double,0.5413
+alpha-Keto-Glutaric,b0729,b3735,sucD,atpH,double,0.5413
+alpha-Keto-Glutaric,b0954,b3846,fabA,fadB,double,0.5413
+alpha-Keto-Glutaric,b0722,b3734,sdhD,atpA,double,0.5413
+alpha-Keto-Glutaric,b2508,b2866,guaB,xdhA,double,0.5413
+alpha-Keto-Glutaric,b2029,b3386,gnd,rpe,double,0.5413
+alpha-Keto-Glutaric,b0722,b3735,sdhD,atpH,double,0.5413
+alpha-Keto-Glutaric,b0763,b2422,modA,cysA,double,0.5413
+alpha-Keto-Glutaric,b0870,b2551,ltaE,glyA,double,0.5413
+alpha-Keto-Glutaric,b0002,b3940,thrA,metL,double,0.5413
+alpha-Keto-Glutaric,b0238,b2508,gpt,guaB,double,0.5413
+alpha-Keto-Glutaric,b0073,b1800,leuB,dmlA,double,0.5413
+alpha-Keto-Glutaric,b0723,b3733,sdhA,atpG,double,0.5413
+alpha-Keto-Glutaric,b0728,b3738,sucC,atpB,double,0.5413
+alpha-Keto-Glutaric,b0727,b3732,sucB,atpD,double,0.5413
+alpha-Keto-Glutaric,b0726,b3738,sucA,atpB,double,0.5413
+alpha-Keto-Glutaric,b0077,b3671,ilvI,ilvB,double,0.5413
+alpha-Keto-Glutaric,b0723,b3737,sdhA,atpE,double,0.5413
+alpha-Keto-Glutaric,b0116,b3733,lpd,atpG,double,0.5413
+alpha-Keto-Glutaric,b0171,b0910,pyrH,cmk,double,0.5413
+alpha-Keto-Glutaric,b1190,b4053,dadX,alr,double,0.5413
+alpha-Keto-Glutaric,b0726,b3731,sucA,atpC,double,0.5413
+alpha-Keto-Glutaric,b0728,b3731,sucC,atpC,double,0.5413
+alpha-Keto-Glutaric,b0726,b3736,sucA,atpF,double,0.5413
+alpha-Keto-Glutaric,b0728,b3736,sucC,atpF,double,0.5413
+alpha-Keto-Glutaric,b0764,b2422,modB,cysA,double,0.5413
+alpha-Keto-Glutaric,b1852,b3386,zwf,rpe,double,0.5413
+alpha-Keto-Glutaric,b0616,b0723,citE,sdhA,double,0.5413
+alpha-Keto-Glutaric,b0729,b3731,sucD,atpC,double,0.5413
+alpha-Keto-Glutaric,b0721,b3737,sdhC,atpE,double,0.5413
+alpha-Keto-Glutaric,b1761,b3213,gdhA,gltD,double,0.5413
+alpha-Keto-Glutaric,b0721,b3731,sdhC,atpC,double,0.5413
+alpha-Keto-Glutaric,b0763,b2424,modA,cysU,double,0.5413
+alpha-Keto-Glutaric,b0729,b3737,sucD,atpE,double,0.5413
+alpha-Keto-Glutaric,b0033,b0521,carB,ybcF,double,0.5413
+alpha-Keto-Glutaric,b0724,b3733,sdhB,atpG,double,0.5413
+alpha-Keto-Glutaric,b0092,b0381,ddlB,ddlA,double,0.5413
+alpha-Keto-Glutaric,b1096,b4039,pabC,ubiC,double,0.5413
+alpha-Keto-Glutaric,b0728,b3735,sucC,atpH,double,0.5413
+alpha-Keto-Glutaric,b0726,b3735,sucA,atpH,double,0.5413
+alpha-Keto-Glutaric,b0723,b3738,sdhA,atpB,double,0.5413
+alpha-Keto-Glutaric,b0729,b3734,sucD,atpA,double,0.5413
+alpha-Keto-Glutaric,b0764,b2424,modB,cysU,double,0.5413
+alpha-Keto-Glutaric,b0724,b3734,sdhB,atpA,double,0.5413
+alpha-Keto-Glutaric,b0273,b4254,argF,argI,double,0.5413
+alpha-Keto-Glutaric,b0763,b2423,modA,cysW,double,0.5413
+alpha-Keto-Glutaric,b0614,b0724,citX,sdhB,double,0.5413
+alpha-Keto-Glutaric,b0765,b2423,modC,cysW,double,0.5413
+alpha-Keto-Glutaric,b0723,b3736,sdhA,atpF,double,0.5413
+alpha-Keto-Glutaric,b0616,b0724,citE,sdhB,double,0.5413
+alpha-Keto-Glutaric,b0617,b0724,citD,sdhB,double,0.5413
+alpha-Keto-Glutaric,b0722,b3736,sdhD,atpF,double,0.5413
+alpha-Keto-Glutaric,b0723,b3732,sdhA,atpD,double,0.5413
+alpha-Keto-Glutaric,b0614,b0723,citX,sdhA,double,0.5413
+alpha-Keto-Glutaric,b1849,b2500,purT,purN,double,0.5413
+alpha-Keto-Glutaric,b0727,b3735,sucB,atpH,double,0.5413
+alpha-Keto-Glutaric,b0721,b3735,sdhC,atpH,double,0.5413
+alpha-Keto-Glutaric,b0116,b3732,lpd,atpD,double,0.5413
+alpha-Keto-Glutaric,b0767,b3386,pgl,rpe,double,0.5413
+alpha-Keto-Glutaric,b0615,b0722,citF,sdhD,double,0.5413
+alpha-Keto-Glutaric,b0729,b3738,sucD,atpB,double,0.5413
+alpha-Keto-Glutaric,b0721,b3738,sdhC,atpB,double,0.5413
+alpha-Keto-Glutaric,b0078,b3670,ilvH,ilvN,double,0.5413
+alpha-Keto-Glutaric,b0755,b3612,gpmA,gpmM,double,0.5413
+alpha-Keto-Glutaric,b0722,b3733,sdhD,atpG,double,0.5413
+alpha-Keto-Glutaric,b2436,b3867,hemF,hemN,double,0.5413
+alpha-Keto-Glutaric,b0077,b3670,ilvI,ilvN,double,0.5413
+alpha-Keto-Glutaric,b0116,b3736,lpd,atpF,double,0.5413
+alpha-Keto-Glutaric,b2235,b4238,nrdB,nrdD,double,0.5413
+alpha-Keto-Glutaric,b0724,b3732,sdhB,atpD,double,0.5413
+alpha-Keto-Glutaric,b0727,b3734,sucB,atpA,double,0.5413
+alpha-Keto-Glutaric,b1090,b4041,plsX,plsB,double,0.5413
+alpha-Keto-Glutaric,b0116,b3735,lpd,atpH,double,0.5413
+alpha-Keto-Glutaric,b0722,b3737,sdhD,atpE,double,0.5413
+alpha-Keto-Glutaric,b1761,b3212,gdhA,gltB,double,0.5413
+alpha-Keto-Glutaric,b0728,b3737,sucC,atpE,double,0.5413
+alpha-Keto-Glutaric,b0726,b3737,sucA,atpE,double,0.5413
+alpha-Keto-Glutaric,b0722,b3731,sdhD,atpC,double,0.5413
+alpha-Keto-Glutaric,b0614,b0722,citX,sdhD,double,0.5413
+alpha-Keto-Glutaric,b0726,b3732,sucA,atpD,double,0.5413
+alpha-Keto-Glutaric,b2234,b4238,nrdA,nrdD,double,0.5413
+alpha-Keto-Glutaric,b0728,b3732,sucC,atpD,double,0.5413
+alpha-Keto-Glutaric,b0727,b3738,sucB,atpB,double,0.5413
+alpha-Keto-Glutaric,b3059,b4041,plsY,plsB,double,0.5413
+alpha-Keto-Glutaric,b0616,b0722,citE,sdhD,double,0.5413
+alpha-Keto-Glutaric,b0617,b0722,citD,sdhD,double,0.5413
+alpha-Keto-Glutaric,b0724,b3736,sdhB,atpF,double,0.5413
+alpha-Keto-Glutaric,b0674,b3744,asnB,asnA,double,0.5413
+alpha-Keto-Glutaric,b0765,b2424,modC,cysU,double,0.5413
+alpha-Keto-Glutaric,b0844,b3812,ybjI,yigB,double,0.5413
+alpha-Keto-Glutaric,b0721,b3733,sdhC,atpG,double,0.5413
+alpha-Keto-Glutaric,b0727,b3737,sucB,atpE,double,0.5413
+alpha-Keto-Glutaric,b0729,b3733,sucD,atpG,double,0.5413
+alpha-Keto-Glutaric,b0078,b3671,ilvH,ilvB,double,0.5413
+alpha-Keto-Glutaric,b1378,b3924,pfo,fpr,double,0.5413
+alpha-Keto-Glutaric,b0726,b3734,sucA,atpA,double,0.5413
+alpha-Keto-Glutaric,b0728,b3734,sucC,atpA,double,0.5413
+alpha-Keto-Glutaric,b0724,b3738,sdhB,atpB,double,0.5413
+alpha-Keto-Glutaric,b0870,b2320,ltaE,pdxB,double,0.5413
+alpha-Keto-Glutaric,b0728,b3733,sucC,atpG,double,0.5413
+alpha-Keto-Glutaric,b0726,b3733,sucA,atpG,double,0.5413
+alpha-Keto-Glutaric,b0723,b3735,sdhA,atpH,double,0.5413
+alpha-Keto-Glutaric,b2551,b4388,glyA,serB,double,0.5413
+alpha-Keto-Glutaric,b0615,b0724,citF,sdhB,double,0.5413
+alpha-Keto-Glutaric,b0116,b3731,lpd,atpC,double,0.5413
+alpha-Keto-Glutaric,b0452,b0954,tesB,fabA,double,0.5413
+alpha-Keto-Glutaric,b1692,b3281,ydiB,aroE,double,0.5413
+alpha-Keto-Glutaric,b2582,b3781,trxC,trxA,double,0.5413
+Glycerol,b0825,b3946,fsaA,fsaB,double,0.4855
+Glycerol,b0092,b0381,ddlB,ddlA,double,0.4855
+Glycerol,b0388,b3390,aroL,aroK,double,0.4855
+Glycerol,b2436,b3867,hemF,hemN,double,0.4855
+Glycerol,b0077,b3670,ilvI,ilvN,double,0.4855
+Glycerol,b0765,b2422,modC,cysA,double,0.4855
+Glycerol,b2235,b4238,nrdB,nrdD,double,0.4855
+Glycerol,b3829,b4019,metE,metH,double,0.4855
+Glycerol,b0928,b4054,aspC,tyrB,double,0.4855
+Glycerol,b1096,b4039,pabC,ubiC,double,0.4855
+Glycerol,b2551,b2913,glyA,serA,double,0.4855
+Glycerol,b3117,b3772,tdcB,ilvA,double,0.4855
+Glycerol,b1723,b3916,pfkB,pfkA,double,0.4855
+Glycerol,b0033,b0521,carB,ybcF,double,0.4855
+Glycerol,b3386,b4025,rpe,pgi,double,0.4855
+Glycerol,b1090,b4041,plsX,plsB,double,0.4855
+Glycerol,b2508,b2868,guaB,xdhC,double,0.4855
+Glycerol,b0048,b1606,folA,folM,double,0.4855
+Glycerol,b1761,b3212,gdhA,gltB,double,0.4855
+Glycerol,b0954,b3846,fabA,fadB,double,0.4855
+Glycerol,b0764,b2423,modB,cysW,double,0.4855
+Glycerol,b0764,b2424,modB,cysU,double,0.4855
+Glycerol,b2414,b2421,cysK,cysM,double,0.4855
+Glycerol,b0273,b4254,argF,argI,double,0.4855
+Glycerol,b0763,b2423,modA,cysW,double,0.4855
+Glycerol,b2508,b2866,guaB,xdhA,double,0.4855
+Glycerol,b1692,b3281,ydiB,aroE,double,0.4855
+Glycerol,b2029,b3386,gnd,rpe,double,0.4855
+Glycerol,b0765,b2423,modC,cysW,double,0.4855
+Glycerol,b2234,b4238,nrdA,nrdD,double,0.4855
+Glycerol,b0763,b2422,modA,cysA,double,0.4855
+Glycerol,b0870,b2551,ltaE,glyA,double,0.4855
+Glycerol,b0155,b1592,clcA,clcB,double,0.4855
+Glycerol,b3059,b4041,plsY,plsB,double,0.4855
+Glycerol,b2465,b2935,tktB,tktA,double,0.4855
+Glycerol,b0002,b3940,thrA,metL,double,0.4855
+Glycerol,b0238,b2508,gpt,guaB,double,0.4855
+Glycerol,b0073,b1800,leuB,dmlA,double,0.4855
+Glycerol,b0907,b2551,serC,glyA,double,0.4855
+Glycerol,b0870,b0907,ltaE,serC,double,0.4855
+Glycerol,b0674,b3744,asnB,asnA,double,0.4855
+Glycerol,b0077,b3671,ilvI,ilvB,double,0.4855
+Glycerol,b0765,b2424,modC,cysU,double,0.4855
+Glycerol,b0763,b2424,modA,cysU,double,0.4855
+Glycerol,b0844,b3812,ybjI,yigB,double,0.4855
+Glycerol,b1761,b3213,gdhA,gltD,double,0.4855
+Glycerol,b0126,b0339,can,cynT,double,0.4855
+Glycerol,b0684,b2895,fldA,fldB,double,0.4855
+Glycerol,b0078,b3671,ilvH,ilvB,double,0.4855
+Glycerol,b1190,b4053,dadX,alr,double,0.4855
+Glycerol,b1378,b3924,pfo,fpr,double,0.4855
+Glycerol,b0171,b0910,pyrH,cmk,double,0.4855
+Glycerol,b0118,b1276,acnB,acnA,double,0.4855
+Glycerol,b1849,b2500,purT,purN,double,0.4855
+Glycerol,b0870,b2320,ltaE,pdxB,double,0.4855
+Glycerol,b0764,b2422,modB,cysA,double,0.4855
+Glycerol,b1852,b3386,zwf,rpe,double,0.4855
+Glycerol,b0767,b3386,pgl,rpe,double,0.4855
+Glycerol,b0149,b3396,mrcB,mrcA,double,0.4855
+Glycerol,b2551,b4388,glyA,serB,double,0.4855
+Glycerol,b0099,b1865,mutT,nudB,double,0.4855
+Glycerol,b0954,b2836,fabA,aas,double,0.4855
+Glycerol,b1622,b3008,malY,metC,double,0.4855
+Glycerol,b2097,b2925,fbaB,fbaA,double,0.4855
+Glycerol,b0452,b0954,tesB,fabA,double,0.4855
+Glycerol,b2582,b3781,trxC,trxA,double,0.4855
+Glycerol,b2508,b2867,guaB,xdhB,double,0.4855
+Glycerol,b2708,b3197,srlQ,kdsD,double,0.4855
+Glycerol,b0078,b3670,ilvH,ilvN,double,0.4855
+Glycerol,b0755,b3612,gpmA,gpmM,double,0.4855
+Glycerol,b0032,b0521,carA,ybcF,double,0.4855
+Succinic Acid,b0092,b0381,ddlB,ddlA,double,0.444
+Succinic Acid,b0388,b3390,aroL,aroK,double,0.444
+Succinic Acid,b2436,b3867,hemF,hemN,double,0.444
+Succinic Acid,b0077,b3670,ilvI,ilvN,double,0.444
+Succinic Acid,b0765,b2422,modC,cysA,double,0.444
+Succinic Acid,b2235,b4238,nrdB,nrdD,double,0.444
+Succinic Acid,b3829,b4019,metE,metH,double,0.444
+Succinic Acid,b0928,b4054,aspC,tyrB,double,0.444
+Succinic Acid,b2551,b2913,glyA,serA,double,0.444
+Succinic Acid,b1096,b4039,pabC,ubiC,double,0.444
+Succinic Acid,b3117,b3772,tdcB,ilvA,double,0.444
+Succinic Acid,b3386,b4025,rpe,pgi,double,0.444
+Succinic Acid,b1090,b4041,plsX,plsB,double,0.444
+Succinic Acid,b2508,b2868,guaB,xdhC,double,0.444
+Succinic Acid,b0048,b1606,folA,folM,double,0.444
+Succinic Acid,b1761,b3212,gdhA,gltB,double,0.444
+Succinic Acid,b0954,b3846,fabA,fadB,double,0.444
+Succinic Acid,b0764,b2423,modB,cysW,double,0.444
+Succinic Acid,b2414,b2421,cysK,cysM,double,0.444
+Succinic Acid,b0764,b2424,modB,cysU,double,0.444
+Succinic Acid,b0273,b4254,argF,argI,double,0.444
+Succinic Acid,b0763,b2423,modA,cysW,double,0.444
+Succinic Acid,b2508,b2866,guaB,xdhA,double,0.444
+Succinic Acid,b0765,b2423,modC,cysW,double,0.444
+Succinic Acid,b2029,b3386,gnd,rpe,double,0.444
+Succinic Acid,b2234,b4238,nrdA,nrdD,double,0.444
+Succinic Acid,b0763,b2422,modA,cysA,double,0.444
+Succinic Acid,b0870,b2551,ltaE,glyA,double,0.444
+Succinic Acid,b3059,b4041,plsY,plsB,double,0.444
+Succinic Acid,b0155,b1592,clcA,clcB,double,0.444
+Succinic Acid,b2465,b2935,tktB,tktA,double,0.444
+Succinic Acid,b0002,b3940,thrA,metL,double,0.444
+Succinic Acid,b0907,b2551,serC,glyA,double,0.444
+Succinic Acid,b0238,b2508,gpt,guaB,double,0.444
+Succinic Acid,b0073,b1800,leuB,dmlA,double,0.444
+Succinic Acid,b0870,b0907,ltaE,serC,double,0.444
+Succinic Acid,b0674,b3744,asnB,asnA,double,0.444
+Succinic Acid,b0077,b3671,ilvI,ilvB,double,0.444
+Succinic Acid,b0765,b2424,modC,cysU,double,0.444
+Succinic Acid,b0763,b2424,modA,cysU,double,0.444
+Succinic Acid,b0844,b3812,ybjI,yigB,double,0.444
+Succinic Acid,b1761,b3213,gdhA,gltD,double,0.444
+Succinic Acid,b0171,b0910,pyrH,cmk,double,0.444
+Succinic Acid,b0684,b2895,fldA,fldB,double,0.444
+Succinic Acid,b0078,b3671,ilvH,ilvB,double,0.444
+Succinic Acid,b0126,b0339,can,cynT,double,0.444
+Succinic Acid,b1378,b3924,pfo,fpr,double,0.444
+Succinic Acid,b1190,b4053,dadX,alr,double,0.444
+Succinic Acid,b0032,b0521,carA,ybcF,double,0.444
+Succinic Acid,b0118,b1276,acnB,acnA,double,0.444
+Succinic Acid,b0755,b3612,gpmA,gpmM,double,0.444
+Succinic Acid,b1849,b2500,purT,purN,double,0.444
+Succinic Acid,b2708,b3197,srlQ,kdsD,double,0.444
+Succinic Acid,b0870,b2320,ltaE,pdxB,double,0.444
+Succinic Acid,b0764,b2422,modB,cysA,double,0.444
+Succinic Acid,b1852,b3386,zwf,rpe,double,0.444
+Succinic Acid,b0954,b2836,fabA,aas,double,0.444
+Succinic Acid,b0149,b3396,mrcB,mrcA,double,0.444
+Succinic Acid,b2551,b4388,glyA,serB,double,0.444
+Succinic Acid,b0099,b1865,mutT,nudB,double,0.444
+Succinic Acid,b0767,b3386,pgl,rpe,double,0.444
+Succinic Acid,b1622,b3008,malY,metC,double,0.444
+Succinic Acid,b0452,b0954,tesB,fabA,double,0.444
+Succinic Acid,b2508,b2867,guaB,xdhB,double,0.444
+Succinic Acid,b1692,b3281,ydiB,aroE,double,0.444
+Succinic Acid,b0078,b3670,ilvH,ilvN,double,0.444
+Succinic Acid,b0033,b0521,carB,ybcF,double,0.444
+Succinic Acid,b2582,b3781,trxC,trxA,double,0.444
+L-Aspartic Acid,b0092,b0381,ddlB,ddlA,double,0.4051
+L-Aspartic Acid,b0388,b3390,aroL,aroK,double,0.4051
+L-Aspartic Acid,b2436,b3867,hemF,hemN,double,0.4051
+L-Aspartic Acid,b0077,b3670,ilvI,ilvN,double,0.4051
+L-Aspartic Acid,b0765,b2422,modC,cysA,double,0.4051
+L-Aspartic Acid,b2235,b4238,nrdB,nrdD,double,0.4051
+L-Aspartic Acid,b3829,b4019,metE,metH,double,0.4051
+L-Aspartic Acid,b2551,b2913,glyA,serA,double,0.4051
+L-Aspartic Acid,b1096,b4039,pabC,ubiC,double,0.4051
+L-Aspartic Acid,b3117,b3772,tdcB,ilvA,double,0.4051
+L-Aspartic Acid,b0033,b0521,carB,ybcF,double,0.4051
+L-Aspartic Acid,b3386,b4025,rpe,pgi,double,0.4051
+L-Aspartic Acid,b1090,b4041,plsX,plsB,double,0.4051
+L-Aspartic Acid,b2508,b2868,guaB,xdhC,double,0.4051
+L-Aspartic Acid,b0048,b1606,folA,folM,double,0.4051
+L-Aspartic Acid,b0954,b3846,fabA,fadB,double,0.4051
+L-Aspartic Acid,b0764,b2423,modB,cysW,double,0.4051
+L-Aspartic Acid,b2414,b2421,cysK,cysM,double,0.4051
+L-Aspartic Acid,b0764,b2424,modB,cysU,double,0.4051
+L-Aspartic Acid,b0273,b4254,argF,argI,double,0.4051
+L-Aspartic Acid,b0763,b2423,modA,cysW,double,0.4051
+L-Aspartic Acid,b2508,b2866,guaB,xdhA,double,0.4051
+L-Aspartic Acid,b1692,b3281,ydiB,aroE,double,0.4051
+L-Aspartic Acid,b0765,b2423,modC,cysW,double,0.4051
+L-Aspartic Acid,b2029,b3386,gnd,rpe,double,0.4051
+L-Aspartic Acid,b2234,b4238,nrdA,nrdD,double,0.4051
+L-Aspartic Acid,b0763,b2422,modA,cysA,double,0.4051
+L-Aspartic Acid,b0870,b2551,ltaE,glyA,double,0.4051
+L-Aspartic Acid,b3059,b4041,plsY,plsB,double,0.4051
+L-Aspartic Acid,b0155,b1592,clcA,clcB,double,0.4051
+L-Aspartic Acid,b2465,b2935,tktB,tktA,double,0.4051
+L-Aspartic Acid,b0002,b3940,thrA,metL,double,0.4051
+L-Aspartic Acid,b0907,b2551,serC,glyA,double,0.4051
+L-Aspartic Acid,b0238,b2508,gpt,guaB,double,0.4051
+L-Aspartic Acid,b0073,b1800,leuB,dmlA,double,0.4051
+L-Aspartic Acid,b0870,b0907,ltaE,serC,double,0.4051
+L-Aspartic Acid,b0674,b3744,asnB,asnA,double,0.4051
+L-Aspartic Acid,b0077,b3671,ilvI,ilvB,double,0.4051
+L-Aspartic Acid,b0765,b2424,modC,cysU,double,0.4051
+L-Aspartic Acid,b0763,b2424,modA,cysU,double,0.4051
+L-Aspartic Acid,b0844,b3812,ybjI,yigB,double,0.4051
+L-Aspartic Acid,b0171,b0910,pyrH,cmk,double,0.4051
+L-Aspartic Acid,b0126,b0339,can,cynT,double,0.4051
+L-Aspartic Acid,b0684,b2895,fldA,fldB,double,0.4051
+L-Aspartic Acid,b0078,b3671,ilvH,ilvB,double,0.4051
+L-Aspartic Acid,b1378,b3924,pfo,fpr,double,0.4051
+L-Aspartic Acid,b1190,b4053,dadX,alr,double,0.4051
+L-Aspartic Acid,b0032,b0521,carA,ybcF,double,0.4051
+L-Aspartic Acid,b0118,b1276,acnB,acnA,double,0.4051
+L-Aspartic Acid,b1849,b2500,purT,purN,double,0.4051
+L-Aspartic Acid,b0870,b2320,ltaE,pdxB,double,0.4051
+L-Aspartic Acid,b0764,b2422,modB,cysA,double,0.4051
+L-Aspartic Acid,b1852,b3386,zwf,rpe,double,0.4051
+L-Aspartic Acid,b0954,b2836,fabA,aas,double,0.4051
+L-Aspartic Acid,b0767,b3386,pgl,rpe,double,0.4051
+L-Aspartic Acid,b0149,b3396,mrcB,mrcA,double,0.4051
+L-Aspartic Acid,b0099,b1865,mutT,nudB,double,0.4051
+L-Aspartic Acid,b2551,b4388,glyA,serB,double,0.4051
+L-Aspartic Acid,b1622,b3008,malY,metC,double,0.4051
+L-Aspartic Acid,b0452,b0954,tesB,fabA,double,0.4051
+L-Aspartic Acid,b2508,b2867,guaB,xdhB,double,0.4051
+L-Aspartic Acid,b2708,b3197,srlQ,kdsD,double,0.4051
+L-Aspartic Acid,b0078,b3670,ilvH,ilvN,double,0.4051
+L-Aspartic Acid,b0755,b3612,gpmA,gpmM,double,0.4051
+L-Aspartic Acid,b2582,b3781,trxC,trxA,double,0.4051
+L-Malic Acid,b0092,b0381,ddlB,ddlA,double,0.4051
+L-Malic Acid,b0388,b3390,aroL,aroK,double,0.4051
+L-Malic Acid,b2436,b3867,hemF,hemN,double,0.4051
+L-Malic Acid,b0077,b3670,ilvI,ilvN,double,0.4051
+L-Malic Acid,b0765,b2422,modC,cysA,double,0.4051
+L-Malic Acid,b2235,b4238,nrdB,nrdD,double,0.4051
+L-Malic Acid,b3829,b4019,metE,metH,double,0.4051
+L-Malic Acid,b0928,b4054,aspC,tyrB,double,0.4051
+L-Malic Acid,b2551,b2913,glyA,serA,double,0.4051
+L-Malic Acid,b1096,b4039,pabC,ubiC,double,0.4051
+L-Malic Acid,b3117,b3772,tdcB,ilvA,double,0.4051
+L-Malic Acid,b0452,b0954,tesB,fabA,double,0.4051
+L-Malic Acid,b1702,b3403,ppsA,pck,double,0.4051
+L-Malic Acid,b0033,b0521,carB,ybcF,double,0.4051
+L-Malic Acid,b3386,b4025,rpe,pgi,double,0.4051
+L-Malic Acid,b1090,b4041,plsX,plsB,double,0.4051
+L-Malic Acid,b2508,b2868,guaB,xdhC,double,0.4051
+L-Malic Acid,b0048,b1606,folA,folM,double,0.4051
+L-Malic Acid,b1761,b3212,gdhA,gltB,double,0.4051
+L-Malic Acid,b0954,b3846,fabA,fadB,double,0.4051
+L-Malic Acid,b0764,b2423,modB,cysW,double,0.4051
+L-Malic Acid,b2414,b2421,cysK,cysM,double,0.4051
+L-Malic Acid,b0764,b2424,modB,cysU,double,0.4051
+L-Malic Acid,b0273,b4254,argF,argI,double,0.4051
+L-Malic Acid,b0763,b2423,modA,cysW,double,0.4051
+L-Malic Acid,b2508,b2866,guaB,xdhA,double,0.4051
+L-Malic Acid,b1692,b3281,ydiB,aroE,double,0.4051
+L-Malic Acid,b0765,b2423,modC,cysW,double,0.4051
+L-Malic Acid,b2029,b3386,gnd,rpe,double,0.4051
+L-Malic Acid,b2234,b4238,nrdA,nrdD,double,0.4051
+L-Malic Acid,b0763,b2422,modA,cysA,double,0.4051
+L-Malic Acid,b0870,b2551,ltaE,glyA,double,0.4051
+L-Malic Acid,b3059,b4041,plsY,plsB,double,0.4051
+L-Malic Acid,b0155,b1592,clcA,clcB,double,0.4051
+L-Malic Acid,b2465,b2935,tktB,tktA,double,0.4051
+L-Malic Acid,b0073,b1800,leuB,dmlA,double,0.4051
+L-Malic Acid,b0907,b2551,serC,glyA,double,0.4051
+L-Malic Acid,b0002,b3940,thrA,metL,double,0.4051
+L-Malic Acid,b0238,b2508,gpt,guaB,double,0.4051
+L-Malic Acid,b0870,b0907,ltaE,serC,double,0.4051
+L-Malic Acid,b0674,b3744,asnB,asnA,double,0.4051
+L-Malic Acid,b0077,b3671,ilvI,ilvB,double,0.4051
+L-Malic Acid,b0765,b2424,modC,cysU,double,0.4051
+L-Malic Acid,b0763,b2424,modA,cysU,double,0.4051
+L-Malic Acid,b0844,b3812,ybjI,yigB,double,0.4051
+L-Malic Acid,b0171,b0910,pyrH,cmk,double,0.4051
+L-Malic Acid,b0126,b0339,can,cynT,double,0.4051
+L-Malic Acid,b1190,b4053,dadX,alr,double,0.4051
+L-Malic Acid,b0684,b2895,fldA,fldB,double,0.4051
+L-Malic Acid,b1378,b3924,pfo,fpr,double,0.4051
+L-Malic Acid,b0078,b3671,ilvH,ilvB,double,0.4051
+L-Malic Acid,b0032,b0521,carA,ybcF,double,0.4051
+L-Malic Acid,b0118,b1276,acnB,acnA,double,0.4051
+L-Malic Acid,b1849,b2500,purT,purN,double,0.4051
+L-Malic Acid,b0870,b2320,ltaE,pdxB,double,0.4051
+L-Malic Acid,b0764,b2422,modB,cysA,double,0.4051
+L-Malic Acid,b1852,b3386,zwf,rpe,double,0.4051
+L-Malic Acid,b0954,b2836,fabA,aas,double,0.4051
+L-Malic Acid,b0767,b3386,pgl,rpe,double,0.4051
+L-Malic Acid,b0149,b3396,mrcB,mrcA,double,0.4051
+L-Malic Acid,b0099,b1865,mutT,nudB,double,0.4051
+L-Malic Acid,b2551,b4388,glyA,serB,double,0.4051
+L-Malic Acid,b1622,b3008,malY,metC,double,0.4051
+L-Malic Acid,b1761,b3213,gdhA,gltD,double,0.4051
+L-Malic Acid,b2508,b2867,guaB,xdhB,double,0.4051
+L-Malic Acid,b2708,b3197,srlQ,kdsD,double,0.4051
+L-Malic Acid,b0078,b3670,ilvH,ilvN,double,0.4051
+L-Malic Acid,b0755,b3612,gpmA,gpmM,double,0.4051
+L-Malic Acid,b2582,b3781,trxC,trxA,double,0.4051
+Fumaric Acid,b0092,b0381,ddlB,ddlA,double,0.4051
+Fumaric Acid,b0388,b3390,aroL,aroK,double,0.4051
+Fumaric Acid,b2436,b3867,hemF,hemN,double,0.4051
+Fumaric Acid,b0077,b3670,ilvI,ilvN,double,0.4051
+Fumaric Acid,b0765,b2422,modC,cysA,double,0.4051
+Fumaric Acid,b2235,b4238,nrdB,nrdD,double,0.4051
+Fumaric Acid,b3829,b4019,metE,metH,double,0.4051
+Fumaric Acid,b0928,b4054,aspC,tyrB,double,0.4051
+Fumaric Acid,b2551,b2913,glyA,serA,double,0.4051
+Fumaric Acid,b1096,b4039,pabC,ubiC,double,0.4051
+Fumaric Acid,b3117,b3772,tdcB,ilvA,double,0.4051
+Fumaric Acid,b1702,b3403,ppsA,pck,double,0.4051
+Fumaric Acid,b0033,b0521,carB,ybcF,double,0.4051
+Fumaric Acid,b3386,b4025,rpe,pgi,double,0.4051
+Fumaric Acid,b1090,b4041,plsX,plsB,double,0.4051
+Fumaric Acid,b2508,b2868,guaB,xdhC,double,0.4051
+Fumaric Acid,b0048,b1606,folA,folM,double,0.4051
+Fumaric Acid,b1761,b3212,gdhA,gltB,double,0.4051
+Fumaric Acid,b0954,b3846,fabA,fadB,double,0.4051
+Fumaric Acid,b0764,b2423,modB,cysW,double,0.4051
+Fumaric Acid,b2414,b2421,cysK,cysM,double,0.4051
+Fumaric Acid,b0764,b2424,modB,cysU,double,0.4051
+Fumaric Acid,b0273,b4254,argF,argI,double,0.4051
+Fumaric Acid,b0763,b2423,modA,cysW,double,0.4051
+Fumaric Acid,b2508,b2866,guaB,xdhA,double,0.4051
+Fumaric Acid,b1692,b3281,ydiB,aroE,double,0.4051
+Fumaric Acid,b0765,b2423,modC,cysW,double,0.4051
+Fumaric Acid,b2029,b3386,gnd,rpe,double,0.4051
+Fumaric Acid,b2234,b4238,nrdA,nrdD,double,0.4051
+Fumaric Acid,b0763,b2422,modA,cysA,double,0.4051
+Fumaric Acid,b0870,b2551,ltaE,glyA,double,0.4051
+Fumaric Acid,b3059,b4041,plsY,plsB,double,0.4051
+Fumaric Acid,b0155,b1592,clcA,clcB,double,0.4051
+Fumaric Acid,b2465,b2935,tktB,tktA,double,0.4051
+Fumaric Acid,b0002,b3940,thrA,metL,double,0.4051
+Fumaric Acid,b0907,b2551,serC,glyA,double,0.4051
+Fumaric Acid,b0238,b2508,gpt,guaB,double,0.4051
+Fumaric Acid,b0073,b1800,leuB,dmlA,double,0.4051
+Fumaric Acid,b0870,b0907,ltaE,serC,double,0.4051
+Fumaric Acid,b0674,b3744,asnB,asnA,double,0.4051
+Fumaric Acid,b0077,b3671,ilvI,ilvB,double,0.4051
+Fumaric Acid,b0765,b2424,modC,cysU,double,0.4051
+Fumaric Acid,b0763,b2424,modA,cysU,double,0.4051
+Fumaric Acid,b0844,b3812,ybjI,yigB,double,0.4051
+Fumaric Acid,b1761,b3213,gdhA,gltD,double,0.4051
+Fumaric Acid,b0126,b0339,can,cynT,double,0.4051
+Fumaric Acid,b0171,b0910,pyrH,cmk,double,0.4051
+Fumaric Acid,b0684,b2895,fldA,fldB,double,0.4051
+Fumaric Acid,b0078,b3671,ilvH,ilvB,double,0.4051
+Fumaric Acid,b1378,b3924,pfo,fpr,double,0.4051
+Fumaric Acid,b1190,b4053,dadX,alr,double,0.4051
+Fumaric Acid,b0118,b1276,acnB,acnA,double,0.4051
+Fumaric Acid,b1849,b2500,purT,purN,double,0.4051
+Fumaric Acid,b0870,b2320,ltaE,pdxB,double,0.4051
+Fumaric Acid,b0764,b2422,modB,cysA,double,0.4051
+Fumaric Acid,b1852,b3386,zwf,rpe,double,0.4051
+Fumaric Acid,b0767,b3386,pgl,rpe,double,0.4051
+Fumaric Acid,b0954,b2836,fabA,aas,double,0.4051
+Fumaric Acid,b0149,b3396,mrcB,mrcA,double,0.4051
+Fumaric Acid,b0099,b1865,mutT,nudB,double,0.4051
+Fumaric Acid,b2551,b4388,glyA,serB,double,0.4051
+Fumaric Acid,b1622,b3008,malY,metC,double,0.4051
+Fumaric Acid,b2582,b3781,trxC,trxA,double,0.4051
+Fumaric Acid,b0452,b0954,tesB,fabA,double,0.4051
+Fumaric Acid,b2508,b2867,guaB,xdhB,double,0.4051
+Fumaric Acid,b2708,b3197,srlQ,kdsD,double,0.4051
+Fumaric Acid,b0078,b3670,ilvH,ilvN,double,0.4051
+Fumaric Acid,b0755,b3612,gpmA,gpmM,double,0.4051
+Fumaric Acid,b0032,b0521,carA,ybcF,double,0.4051
+D-Alanine,b0092,b0381,ddlB,ddlA,double,0.3699
+D-Alanine,b0388,b3390,aroL,aroK,double,0.3699
+D-Alanine,b2436,b3867,hemF,hemN,double,0.3699
+D-Alanine,b0077,b3670,ilvI,ilvN,double,0.3699
+D-Alanine,b0765,b2422,modC,cysA,double,0.3699
+D-Alanine,b2235,b4238,nrdB,nrdD,double,0.3699
+D-Alanine,b3829,b4019,metE,metH,double,0.3699
+D-Alanine,b0928,b4054,aspC,tyrB,double,0.3699
+D-Alanine,b2551,b2913,glyA,serA,double,0.3699
+D-Alanine,b1096,b4039,pabC,ubiC,double,0.3699
+D-Alanine,b3117,b3772,tdcB,ilvA,double,0.3699
+D-Alanine,b3386,b4025,rpe,pgi,double,0.3699
+D-Alanine,b1090,b4041,plsX,plsB,double,0.3699
+D-Alanine,b2508,b2868,guaB,xdhC,double,0.3699
+D-Alanine,b0048,b1606,folA,folM,double,0.3699
+D-Alanine,b0954,b3846,fabA,fadB,double,0.3699
+D-Alanine,b0764,b2423,modB,cysW,double,0.3699
+D-Alanine,b2414,b2421,cysK,cysM,double,0.3699
+D-Alanine,b0764,b2424,modB,cysU,double,0.3699
+D-Alanine,b0273,b4254,argF,argI,double,0.3699
+D-Alanine,b0763,b2423,modA,cysW,double,0.3699
+D-Alanine,b2508,b2866,guaB,xdhA,double,0.3699
+D-Alanine,b0765,b2423,modC,cysW,double,0.3699
+D-Alanine,b2029,b3386,gnd,rpe,double,0.3699
+D-Alanine,b2234,b4238,nrdA,nrdD,double,0.3699
+D-Alanine,b0763,b2422,modA,cysA,double,0.3699
+D-Alanine,b0870,b2551,ltaE,glyA,double,0.3699
+D-Alanine,b3059,b4041,plsY,plsB,double,0.3699
+D-Alanine,b0155,b1592,clcA,clcB,double,0.3699
+D-Alanine,b2465,b2935,tktB,tktA,double,0.3699
+D-Alanine,b0002,b3940,thrA,metL,double,0.3699
+D-Alanine,b0907,b2551,serC,glyA,double,0.3699
+D-Alanine,b0238,b2508,gpt,guaB,double,0.3699
+D-Alanine,b0073,b1800,leuB,dmlA,double,0.3699
+D-Alanine,b0870,b0907,ltaE,serC,double,0.3699
+D-Alanine,b0674,b3744,asnB,asnA,double,0.3699
+D-Alanine,b0077,b3671,ilvI,ilvB,double,0.3699
+D-Alanine,b0765,b2424,modC,cysU,double,0.3699
+D-Alanine,b0763,b2424,modA,cysU,double,0.3699
+D-Alanine,b0844,b3812,ybjI,yigB,double,0.3699
+D-Alanine,b0171,b0910,pyrH,cmk,double,0.3699
+D-Alanine,b0684,b2895,fldA,fldB,double,0.3699
+D-Alanine,b0078,b3671,ilvH,ilvB,double,0.3699
+D-Alanine,b0126,b0339,can,cynT,double,0.3699
+D-Alanine,b1378,b3924,pfo,fpr,double,0.3699
+D-Alanine,b0032,b0521,carA,ybcF,double,0.3699
+D-Alanine,b0118,b1276,acnB,acnA,double,0.3699
+D-Alanine,b0755,b3612,gpmA,gpmM,double,0.3699
+D-Alanine,b1849,b2500,purT,purN,double,0.3699
+D-Alanine,b2708,b3197,srlQ,kdsD,double,0.3699
+D-Alanine,b0870,b2320,ltaE,pdxB,double,0.3699
+D-Alanine,b0764,b2422,modB,cysA,double,0.3699
+D-Alanine,b1852,b3386,zwf,rpe,double,0.3699
+D-Alanine,b0954,b2836,fabA,aas,double,0.3699
+D-Alanine,b0149,b3396,mrcB,mrcA,double,0.3699
+D-Alanine,b2551,b4388,glyA,serB,double,0.3699
+D-Alanine,b0099,b1865,mutT,nudB,double,0.3699
+D-Alanine,b0767,b3386,pgl,rpe,double,0.3699
+D-Alanine,b1622,b3008,malY,metC,double,0.3699
+D-Alanine,b0452,b0954,tesB,fabA,double,0.3699
+D-Alanine,b2508,b2867,guaB,xdhB,double,0.3699
+D-Alanine,b1692,b3281,ydiB,aroE,double,0.3699
+D-Alanine,b0078,b3670,ilvH,ilvN,double,0.3699
+D-Alanine,b0033,b0521,carB,ybcF,double,0.3699
+D-Alanine,b2582,b3781,trxC,trxA,double,0.3699
+D-Malic Acid,b0092,b0381,ddlB,ddlA,double,0.3697
+D-Malic Acid,b0388,b3390,aroL,aroK,double,0.3697
+D-Malic Acid,b2436,b3867,hemF,hemN,double,0.3697
+D-Malic Acid,b0077,b3670,ilvI,ilvN,double,0.3697
+D-Malic Acid,b0765,b2422,modC,cysA,double,0.3697
+D-Malic Acid,b2235,b4238,nrdB,nrdD,double,0.3697
+D-Malic Acid,b3829,b4019,metE,metH,double,0.3697
+D-Malic Acid,b0928,b4054,aspC,tyrB,double,0.3697
+D-Malic Acid,b1096,b4039,pabC,ubiC,double,0.3697
+D-Malic Acid,b2551,b2913,glyA,serA,double,0.3697
+D-Malic Acid,b3117,b3772,tdcB,ilvA,double,0.3697
+D-Malic Acid,b0452,b0954,tesB,fabA,double,0.3697
+D-Malic Acid,b3386,b4025,rpe,pgi,double,0.3697
+D-Malic Acid,b1090,b4041,plsX,plsB,double,0.3697
+D-Malic Acid,b2508,b2868,guaB,xdhC,double,0.3697
+D-Malic Acid,b0048,b1606,folA,folM,double,0.3697
+D-Malic Acid,b1761,b3212,gdhA,gltB,double,0.3697
+D-Malic Acid,b0954,b3846,fabA,fadB,double,0.3697
+D-Malic Acid,b0764,b2423,modB,cysW,double,0.3697
+D-Malic Acid,b0764,b2424,modB,cysU,double,0.3697
+D-Malic Acid,b2414,b2421,cysK,cysM,double,0.3697
+D-Malic Acid,b0273,b4254,argF,argI,double,0.3697
+D-Malic Acid,b0763,b2423,modA,cysW,double,0.3697
+D-Malic Acid,b2508,b2866,guaB,xdhA,double,0.3697
+D-Malic Acid,b2029,b3386,gnd,rpe,double,0.3697
+D-Malic Acid,b0765,b2423,modC,cysW,double,0.3697
+D-Malic Acid,b2234,b4238,nrdA,nrdD,double,0.3697
+D-Malic Acid,b0763,b2422,modA,cysA,double,0.3697
+D-Malic Acid,b0870,b2551,ltaE,glyA,double,0.3697
+D-Malic Acid,b3059,b4041,plsY,plsB,double,0.3697
+D-Malic Acid,b0155,b1592,clcA,clcB,double,0.3697
+D-Malic Acid,b2465,b2935,tktB,tktA,double,0.3697
+D-Malic Acid,b0002,b3940,thrA,metL,double,0.3697
+D-Malic Acid,b0907,b2551,serC,glyA,double,0.3697
+D-Malic Acid,b0238,b2508,gpt,guaB,double,0.3697
+D-Malic Acid,b0870,b0907,ltaE,serC,double,0.3697
+D-Malic Acid,b0674,b3744,asnB,asnA,double,0.3697
+D-Malic Acid,b0077,b3671,ilvI,ilvB,double,0.3697
+D-Malic Acid,b0765,b2424,modC,cysU,double,0.3697
+D-Malic Acid,b0763,b2424,modA,cysU,double,0.3697
+D-Malic Acid,b0844,b3812,ybjI,yigB,double,0.3697
+D-Malic Acid,b0171,b0910,pyrH,cmk,double,0.3697
+D-Malic Acid,b0684,b2895,fldA,fldB,double,0.3697
+D-Malic Acid,b1190,b4053,dadX,alr,double,0.3697
+D-Malic Acid,b0078,b3671,ilvH,ilvB,double,0.3697
+D-Malic Acid,b1378,b3924,pfo,fpr,double,0.3697
+D-Malic Acid,b0126,b0339,can,cynT,double,0.3697
+D-Malic Acid,b0032,b0521,carA,ybcF,double,0.3697
+D-Malic Acid,b0118,b1276,acnB,acnA,double,0.3697
+D-Malic Acid,b0755,b3612,gpmA,gpmM,double,0.3697
+D-Malic Acid,b1849,b2500,purT,purN,double,0.3697
+D-Malic Acid,b2708,b3197,srlQ,kdsD,double,0.3697
+D-Malic Acid,b0870,b2320,ltaE,pdxB,double,0.3697
+D-Malic Acid,b0764,b2422,modB,cysA,double,0.3697
+D-Malic Acid,b1852,b3386,zwf,rpe,double,0.3697
+D-Malic Acid,b0954,b2836,fabA,aas,double,0.3697
+D-Malic Acid,b0149,b3396,mrcB,mrcA,double,0.3697
+D-Malic Acid,b2551,b4388,glyA,serB,double,0.3697
+D-Malic Acid,b0099,b1865,mutT,nudB,double,0.3697
+D-Malic Acid,b0767,b3386,pgl,rpe,double,0.3697
+D-Malic Acid,b1622,b3008,malY,metC,double,0.3697
+D-Malic Acid,b1761,b3213,gdhA,gltD,double,0.3697
+D-Malic Acid,b2508,b2867,guaB,xdhB,double,0.3697
+D-Malic Acid,b1692,b3281,ydiB,aroE,double,0.3697
+D-Malic Acid,b0078,b3670,ilvH,ilvN,double,0.3697
+D-Malic Acid,b0033,b0521,carB,ybcF,double,0.3697
+D-Malic Acid,b2582,b3781,trxC,trxA,double,0.3697
+L-Lactic Acid,b0092,b0381,ddlB,ddlA,double,0.3419
+L-Lactic Acid,b0388,b3390,aroL,aroK,double,0.3419
+L-Lactic Acid,b2436,b3867,hemF,hemN,double,0.3419
+L-Lactic Acid,b0077,b3670,ilvI,ilvN,double,0.3419
+L-Lactic Acid,b0765,b2422,modC,cysA,double,0.3419
+L-Lactic Acid,b2235,b4238,nrdB,nrdD,double,0.3419
+L-Lactic Acid,b3829,b4019,metE,metH,double,0.3419
+L-Lactic Acid,b0928,b4054,aspC,tyrB,double,0.3419
+L-Lactic Acid,b2551,b2913,glyA,serA,double,0.3419
+L-Lactic Acid,b1096,b4039,pabC,ubiC,double,0.3419
+L-Lactic Acid,b3117,b3772,tdcB,ilvA,double,0.3419
+L-Lactic Acid,b0452,b0954,tesB,fabA,double,0.3419
+L-Lactic Acid,b2975,b3603,glcA,lldP,double,0.3419
+L-Lactic Acid,b0306,b3605,ykgE,lldD,double,0.3419
+L-Lactic Acid,b3386,b4025,rpe,pgi,double,0.3419
+L-Lactic Acid,b1090,b4041,plsX,plsB,double,0.3419
+L-Lactic Acid,b2508,b2868,guaB,xdhC,double,0.3419
+L-Lactic Acid,b0048,b1606,folA,folM,double,0.3419
+L-Lactic Acid,b1761,b3212,gdhA,gltB,double,0.3419
+L-Lactic Acid,b0954,b3846,fabA,fadB,double,0.3419
+L-Lactic Acid,b0764,b2423,modB,cysW,double,0.3419
+L-Lactic Acid,b2414,b2421,cysK,cysM,double,0.3419
+L-Lactic Acid,b0764,b2424,modB,cysU,double,0.3419
+L-Lactic Acid,b0273,b4254,argF,argI,double,0.3419
+L-Lactic Acid,b0763,b2423,modA,cysW,double,0.3419
+L-Lactic Acid,b2508,b2866,guaB,xdhA,double,0.3419
+L-Lactic Acid,b0765,b2423,modC,cysW,double,0.3419
+L-Lactic Acid,b2029,b3386,gnd,rpe,double,0.3419
+L-Lactic Acid,b2234,b4238,nrdA,nrdD,double,0.3419
+L-Lactic Acid,b0763,b2422,modA,cysA,double,0.3419
+L-Lactic Acid,b0870,b2551,ltaE,glyA,double,0.3419
+L-Lactic Acid,b0307,b3605,ykgF,lldD,double,0.3419
+L-Lactic Acid,b0155,b1592,clcA,clcB,double,0.3419
+L-Lactic Acid,b3059,b4041,plsY,plsB,double,0.3419
+L-Lactic Acid,b2465,b2935,tktB,tktA,double,0.3419
+L-Lactic Acid,b0002,b3940,thrA,metL,double,0.3419
+L-Lactic Acid,b0238,b2508,gpt,guaB,double,0.3419
+L-Lactic Acid,b0907,b2551,serC,glyA,double,0.3419
+L-Lactic Acid,b0073,b1800,leuB,dmlA,double,0.3419
+L-Lactic Acid,b0870,b0907,ltaE,serC,double,0.3419
+L-Lactic Acid,b0674,b3744,asnB,asnA,double,0.3419
+L-Lactic Acid,b0077,b3671,ilvI,ilvB,double,0.3419
+L-Lactic Acid,b0765,b2424,modC,cysU,double,0.3419
+L-Lactic Acid,b1761,b3213,gdhA,gltD,double,0.3419
+L-Lactic Acid,b0844,b3812,ybjI,yigB,double,0.3419
+L-Lactic Acid,b0684,b2895,fldA,fldB,double,0.3419
+L-Lactic Acid,b0126,b0339,can,cynT,double,0.3419
+L-Lactic Acid,b0078,b3671,ilvH,ilvB,double,0.3419
+L-Lactic Acid,b0171,b0910,pyrH,cmk,double,0.3419
+L-Lactic Acid,b1378,b3924,pfo,fpr,double,0.3419
+L-Lactic Acid,b1190,b4053,dadX,alr,double,0.3419
+L-Lactic Acid,b0118,b1276,acnB,acnA,double,0.3419
+L-Lactic Acid,b0755,b3612,gpmA,gpmM,double,0.3419
+L-Lactic Acid,b1849,b2500,purT,purN,double,0.3419
+L-Lactic Acid,b2708,b3197,srlQ,kdsD,double,0.3419
+L-Lactic Acid,b0870,b2320,ltaE,pdxB,double,0.3419
+L-Lactic Acid,b0764,b2422,modB,cysA,double,0.3419
+L-Lactic Acid,b0308,b3605,ykgG,lldD,double,0.3419
+L-Lactic Acid,b0767,b3386,pgl,rpe,double,0.3419
+L-Lactic Acid,b0149,b3396,mrcB,mrcA,double,0.3419
+L-Lactic Acid,b2551,b4388,glyA,serB,double,0.3419
+L-Lactic Acid,b0099,b1865,mutT,nudB,double,0.3419
+L-Lactic Acid,b0954,b2836,fabA,aas,double,0.3419
+L-Lactic Acid,b1852,b3386,zwf,rpe,double,0.3419
+L-Lactic Acid,b1622,b3008,malY,metC,double,0.3419
+L-Lactic Acid,b2582,b3781,trxC,trxA,double,0.3419
+L-Lactic Acid,b0763,b2424,modA,cysU,double,0.3419
+L-Lactic Acid,b2508,b2867,guaB,xdhB,double,0.3419
+L-Lactic Acid,b1692,b3281,ydiB,aroE,double,0.3419
+L-Lactic Acid,b0078,b3670,ilvH,ilvN,double,0.3419
+L-Lactic Acid,b0033,b0521,carB,ybcF,double,0.3419
+L-Lactic Acid,b0032,b0521,carA,ybcF,double,0.3419
+D-Serine,b0092,b0381,ddlB,ddlA,double,0.3087
+D-Serine,b0388,b3390,aroL,aroK,double,0.3087
+D-Serine,b2436,b3867,hemF,hemN,double,0.3087
+D-Serine,b0077,b3670,ilvI,ilvN,double,0.3087
+D-Serine,b0765,b2422,modC,cysA,double,0.3087
+D-Serine,b2235,b4238,nrdB,nrdD,double,0.3087
+D-Serine,b3829,b4019,metE,metH,double,0.3087
+D-Serine,b0928,b4054,aspC,tyrB,double,0.3087
+D-Serine,b1096,b4039,pabC,ubiC,double,0.3087
+D-Serine,b3117,b3772,tdcB,ilvA,double,0.3087
+D-Serine,b0033,b0521,carB,ybcF,double,0.3087
+D-Serine,b3386,b4025,rpe,pgi,double,0.3087
+D-Serine,b1090,b4041,plsX,plsB,double,0.3087
+D-Serine,b2508,b2868,guaB,xdhC,double,0.3087
+D-Serine,b0048,b1606,folA,folM,double,0.3087
+D-Serine,b1761,b3212,gdhA,gltB,double,0.3087
+D-Serine,b0954,b3846,fabA,fadB,double,0.3087
+D-Serine,b0764,b2423,modB,cysW,double,0.3087
+D-Serine,b2414,b2421,cysK,cysM,double,0.3087
+D-Serine,b0764,b2424,modB,cysU,double,0.3087
+D-Serine,b0273,b4254,argF,argI,double,0.3087
+D-Serine,b0763,b2423,modA,cysW,double,0.3087
+D-Serine,b2508,b2866,guaB,xdhA,double,0.3087
+D-Serine,b1692,b3281,ydiB,aroE,double,0.3087
+D-Serine,b0765,b2423,modC,cysW,double,0.3087
+D-Serine,b2029,b3386,gnd,rpe,double,0.3087
+D-Serine,b2234,b4238,nrdA,nrdD,double,0.3087
+D-Serine,b0763,b2422,modA,cysA,double,0.3087
+D-Serine,b0870,b2551,ltaE,glyA,double,0.3087
+D-Serine,b0155,b1592,clcA,clcB,double,0.3087
+D-Serine,b3059,b4041,plsY,plsB,double,0.3087
+D-Serine,b2465,b2935,tktB,tktA,double,0.3087
+D-Serine,b0002,b3940,thrA,metL,double,0.3087
+D-Serine,b0238,b2508,gpt,guaB,double,0.3087
+D-Serine,b0073,b1800,leuB,dmlA,double,0.3087
+D-Serine,b0870,b0907,ltaE,serC,double,0.3087
+D-Serine,b0674,b3744,asnB,asnA,double,0.3087
+D-Serine,b0077,b3671,ilvI,ilvB,double,0.3087
+D-Serine,b0765,b2424,modC,cysU,double,0.3087
+D-Serine,b0763,b2424,modA,cysU,double,0.3087
+D-Serine,b0844,b3812,ybjI,yigB,double,0.3087
+D-Serine,b1761,b3213,gdhA,gltD,double,0.3087
+D-Serine,b0126,b0339,can,cynT,double,0.3087
+D-Serine,b1539,b2366,ydfG,dsdA,double,0.3087
+D-Serine,b0684,b2895,fldA,fldB,double,0.3087
+D-Serine,b0078,b3671,ilvH,ilvB,double,0.3087
+D-Serine,b0171,b0910,pyrH,cmk,double,0.3087
+D-Serine,b1378,b3924,pfo,fpr,double,0.3087
+D-Serine,b1190,b4053,dadX,alr,double,0.3087
+D-Serine,b0118,b1276,acnB,acnA,double,0.3087
+D-Serine,b1849,b2500,purT,purN,double,0.3087
+D-Serine,b0870,b2320,ltaE,pdxB,double,0.3087
+D-Serine,b0764,b2422,modB,cysA,double,0.3087
+D-Serine,b1852,b3386,zwf,rpe,double,0.3087
+D-Serine,b0767,b3386,pgl,rpe,double,0.3087
+D-Serine,b0149,b3396,mrcB,mrcA,double,0.3087
+D-Serine,b0954,b2836,fabA,aas,double,0.3087
+D-Serine,b0099,b1865,mutT,nudB,double,0.3087
+D-Serine,b1622,b3008,malY,metC,double,0.3087
+D-Serine,b2582,b3781,trxC,trxA,double,0.3087
+D-Serine,b0452,b0954,tesB,fabA,double,0.3087
+D-Serine,b2508,b2867,guaB,xdhB,double,0.3087
+D-Serine,b2708,b3197,srlQ,kdsD,double,0.3087
+D-Serine,b0078,b3670,ilvH,ilvN,double,0.3087
+D-Serine,b0755,b3612,gpmA,gpmM,double,0.3087
+D-Serine,b0032,b0521,carA,ybcF,double,0.3087
+L-Serine,b0092,b0381,ddlB,ddlA,double,0.3087
+L-Serine,b0388,b3390,aroL,aroK,double,0.3087
+L-Serine,b2436,b3867,hemF,hemN,double,0.3087
+L-Serine,b0077,b3670,ilvI,ilvN,double,0.3087
+L-Serine,b0765,b2422,modC,cysA,double,0.3087
+L-Serine,b2235,b4238,nrdB,nrdD,double,0.3087
+L-Serine,b3829,b4019,metE,metH,double,0.3087
+L-Serine,b0928,b4054,aspC,tyrB,double,0.3087
+L-Serine,b1096,b4039,pabC,ubiC,double,0.3087
+L-Serine,b3117,b3772,tdcB,ilvA,double,0.3087
+L-Serine,b0033,b0521,carB,ybcF,double,0.3087
+L-Serine,b3386,b4025,rpe,pgi,double,0.3087
+L-Serine,b1090,b4041,plsX,plsB,double,0.3087
+L-Serine,b2508,b2868,guaB,xdhC,double,0.3087
+L-Serine,b0048,b1606,folA,folM,double,0.3087
+L-Serine,b1761,b3212,gdhA,gltB,double,0.3087
+L-Serine,b0954,b3846,fabA,fadB,double,0.3087
+L-Serine,b0764,b2423,modB,cysW,double,0.3087
+L-Serine,b2414,b2421,cysK,cysM,double,0.3087
+L-Serine,b0764,b2424,modB,cysU,double,0.3087
+L-Serine,b0273,b4254,argF,argI,double,0.3087
+L-Serine,b0763,b2423,modA,cysW,double,0.3087
+L-Serine,b2508,b2866,guaB,xdhA,double,0.3087
+L-Serine,b1692,b3281,ydiB,aroE,double,0.3087
+L-Serine,b0765,b2423,modC,cysW,double,0.3087
+L-Serine,b2029,b3386,gnd,rpe,double,0.3087
+L-Serine,b2234,b4238,nrdA,nrdD,double,0.3087
+L-Serine,b0763,b2422,modA,cysA,double,0.3087
+L-Serine,b0870,b2551,ltaE,glyA,double,0.3087
+L-Serine,b3059,b4041,plsY,plsB,double,0.3087
+L-Serine,b0155,b1592,clcA,clcB,double,0.3087
+L-Serine,b2465,b2935,tktB,tktA,double,0.3087
+L-Serine,b0002,b3940,thrA,metL,double,0.3087
+L-Serine,b0238,b2508,gpt,guaB,double,0.3087
+L-Serine,b0073,b1800,leuB,dmlA,double,0.3087
+L-Serine,b0870,b0907,ltaE,serC,double,0.3087
+L-Serine,b0674,b3744,asnB,asnA,double,0.3087
+L-Serine,b0077,b3671,ilvI,ilvB,double,0.3087
+L-Serine,b0765,b2424,modC,cysU,double,0.3087
+L-Serine,b0763,b2424,modA,cysU,double,0.3087
+L-Serine,b0844,b3812,ybjI,yigB,double,0.3087
+L-Serine,b1761,b3213,gdhA,gltD,double,0.3087
+L-Serine,b0126,b0339,can,cynT,double,0.3087
+L-Serine,b0171,b0910,pyrH,cmk,double,0.3087
+L-Serine,b0684,b2895,fldA,fldB,double,0.3087
+L-Serine,b0078,b3671,ilvH,ilvB,double,0.3087
+L-Serine,b1378,b3924,pfo,fpr,double,0.3087
+L-Serine,b1190,b4053,dadX,alr,double,0.3087
+L-Serine,b0118,b1276,acnB,acnA,double,0.3087
+L-Serine,b1849,b2500,purT,purN,double,0.3087
+L-Serine,b0870,b2320,ltaE,pdxB,double,0.3087
+L-Serine,b0764,b2422,modB,cysA,double,0.3087
+L-Serine,b1852,b3386,zwf,rpe,double,0.3087
+L-Serine,b0767,b3386,pgl,rpe,double,0.3087
+L-Serine,b0954,b2836,fabA,aas,double,0.3087
+L-Serine,b0149,b3396,mrcB,mrcA,double,0.3087
+L-Serine,b0099,b1865,mutT,nudB,double,0.3087
+L-Serine,b1622,b3008,malY,metC,double,0.3087
+L-Serine,b2582,b3781,trxC,trxA,double,0.3087
+L-Serine,b0452,b0954,tesB,fabA,double,0.3087
+L-Serine,b2508,b2867,guaB,xdhB,double,0.3087
+L-Serine,b2708,b3197,srlQ,kdsD,double,0.3087
+L-Serine,b0078,b3670,ilvH,ilvN,double,0.3087
+L-Serine,b0755,b3612,gpmA,gpmM,double,0.3087
+L-Serine,b0032,b0521,carA,ybcF,double,0.3087
+Pyruvic Acid,b0092,b0381,ddlB,ddlA,double,0.3046
+Pyruvic Acid,b0388,b3390,aroL,aroK,double,0.3046
+Pyruvic Acid,b2436,b3867,hemF,hemN,double,0.3046
+Pyruvic Acid,b0077,b3670,ilvI,ilvN,double,0.3046
+Pyruvic Acid,b0765,b2422,modC,cysA,double,0.3046
+Pyruvic Acid,b2235,b4238,nrdB,nrdD,double,0.3046
+Pyruvic Acid,b3829,b4019,metE,metH,double,0.3046
+Pyruvic Acid,b0928,b4054,aspC,tyrB,double,0.3046
+Pyruvic Acid,b2551,b2913,glyA,serA,double,0.3046
+Pyruvic Acid,b1096,b4039,pabC,ubiC,double,0.3046
+Pyruvic Acid,b3117,b3772,tdcB,ilvA,double,0.3046
+Pyruvic Acid,b3386,b4025,rpe,pgi,double,0.3046
+Pyruvic Acid,b1090,b4041,plsX,plsB,double,0.3046
+Pyruvic Acid,b2508,b2868,guaB,xdhC,double,0.3046
+Pyruvic Acid,b0048,b1606,folA,folM,double,0.3046
+Pyruvic Acid,b1761,b3212,gdhA,gltB,double,0.3046
+Pyruvic Acid,b0954,b3846,fabA,fadB,double,0.3046
+Pyruvic Acid,b0764,b2423,modB,cysW,double,0.3046
+Pyruvic Acid,b2414,b2421,cysK,cysM,double,0.3046
+Pyruvic Acid,b0764,b2424,modB,cysU,double,0.3046
+Pyruvic Acid,b0273,b4254,argF,argI,double,0.3046
+Pyruvic Acid,b0763,b2423,modA,cysW,double,0.3046
+Pyruvic Acid,b2508,b2866,guaB,xdhA,double,0.3046
+Pyruvic Acid,b0765,b2423,modC,cysW,double,0.3046
+Pyruvic Acid,b2029,b3386,gnd,rpe,double,0.3046
+Pyruvic Acid,b2234,b4238,nrdA,nrdD,double,0.3046
+Pyruvic Acid,b0763,b2422,modA,cysA,double,0.3046
+Pyruvic Acid,b0870,b2551,ltaE,glyA,double,0.3046
+Pyruvic Acid,b3059,b4041,plsY,plsB,double,0.3046
+Pyruvic Acid,b0155,b1592,clcA,clcB,double,0.3046
+Pyruvic Acid,b2465,b2935,tktB,tktA,double,0.3046
+Pyruvic Acid,b0002,b3940,thrA,metL,double,0.3046
+Pyruvic Acid,b0238,b2508,gpt,guaB,double,0.3046
+Pyruvic Acid,b0907,b2551,serC,glyA,double,0.3046
+Pyruvic Acid,b0073,b1800,leuB,dmlA,double,0.3046
+Pyruvic Acid,b0870,b0907,ltaE,serC,double,0.3046
+Pyruvic Acid,b0674,b3744,asnB,asnA,double,0.3046
+Pyruvic Acid,b0077,b3671,ilvI,ilvB,double,0.3046
+Pyruvic Acid,b0765,b2424,modC,cysU,double,0.3046
+Pyruvic Acid,b0763,b2424,modA,cysU,double,0.3046
+Pyruvic Acid,b0844,b3812,ybjI,yigB,double,0.3046
+Pyruvic Acid,b1761,b3213,gdhA,gltD,double,0.3046
+Pyruvic Acid,b0684,b2895,fldA,fldB,double,0.3046
+Pyruvic Acid,b0171,b0910,pyrH,cmk,double,0.3046
+Pyruvic Acid,b0078,b3671,ilvH,ilvB,double,0.3046
+Pyruvic Acid,b0126,b0339,can,cynT,double,0.3046
+Pyruvic Acid,b1378,b3924,pfo,fpr,double,0.3046
+Pyruvic Acid,b1190,b4053,dadX,alr,double,0.3046
+Pyruvic Acid,b0032,b0521,carA,ybcF,double,0.3046
+Pyruvic Acid,b0118,b1276,acnB,acnA,double,0.3046
+Pyruvic Acid,b0755,b3612,gpmA,gpmM,double,0.3046
+Pyruvic Acid,b1849,b2500,purT,purN,double,0.3046
+Pyruvic Acid,b2708,b3197,srlQ,kdsD,double,0.3046
+Pyruvic Acid,b0870,b2320,ltaE,pdxB,double,0.3046
+Pyruvic Acid,b0764,b2422,modB,cysA,double,0.3046
+Pyruvic Acid,b1852,b3386,zwf,rpe,double,0.3046
+Pyruvic Acid,b0954,b2836,fabA,aas,double,0.3046
+Pyruvic Acid,b0149,b3396,mrcB,mrcA,double,0.3046
+Pyruvic Acid,b2551,b4388,glyA,serB,double,0.3046
+Pyruvic Acid,b0099,b1865,mutT,nudB,double,0.3046
+Pyruvic Acid,b0767,b3386,pgl,rpe,double,0.3046
+Pyruvic Acid,b1622,b3008,malY,metC,double,0.3046
+Pyruvic Acid,b0452,b0954,tesB,fabA,double,0.3046
+Pyruvic Acid,b2508,b2867,guaB,xdhB,double,0.3046
+Pyruvic Acid,b1692,b3281,ydiB,aroE,double,0.3046
+Pyruvic Acid,b0078,b3670,ilvH,ilvN,double,0.3046
+Pyruvic Acid,b0033,b0521,carB,ybcF,double,0.3046
+Pyruvic Acid,b2582,b3781,trxC,trxA,double,0.3046

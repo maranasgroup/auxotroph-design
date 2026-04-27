@@ -1,0 +1,376 @@
+substrate,gene1,gene2,gene3,gene1_name,gene2_name,gene3_name,ko_type,wt_growth
+Maltotriose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,1.3595
+Maltotriose,b0763,b2425,b3917,modA,cysP,sbp,triple,1.3595
+Maltotriose,b0765,b2425,b3917,modC,cysP,sbp,triple,1.3595
+Maltotriose,b2502,b2744,b4226,ppx,umpG,ppa,triple,1.3595
+Maltotriose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,1.3595
+Maltotriose,b0754,b1704,b2601,aroG,aroH,aroF,triple,1.3595
+Maltotriose,b0764,b2425,b3917,modB,cysP,sbp,triple,1.3595
+D-Trehalose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,1.1071
+D-Trehalose,b0763,b2425,b3917,modA,cysP,sbp,triple,1.1071
+D-Trehalose,b0765,b2425,b3917,modC,cysP,sbp,triple,1.1071
+D-Trehalose,b2502,b2744,b4226,ppx,umpG,ppa,triple,1.1071
+D-Trehalose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,1.1071
+D-Trehalose,b0754,b1704,b2601,aroG,aroH,aroF,triple,1.1071
+D-Trehalose,b0764,b2425,b3917,modB,cysP,sbp,triple,1.1071
+Maltose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,1.1071
+Maltose,b0763,b2425,b3917,modA,cysP,sbp,triple,1.1071
+Maltose,b0765,b2425,b3917,modC,cysP,sbp,triple,1.1071
+Maltose,b2502,b2744,b4226,ppx,umpG,ppa,triple,1.1071
+Maltose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,1.1071
+Maltose,b0754,b1704,b2601,aroG,aroH,aroF,triple,1.1071
+Maltose,b0764,b2425,b3917,modB,cysP,sbp,triple,1.1071
+Lactose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.8091
+Lactose,b0763,b2425,b3917,modA,cysP,sbp,triple,0.8091
+Lactose,b0765,b2425,b3917,modC,cysP,sbp,triple,0.8091
+Lactose,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.8091
+Lactose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.8091
+Lactose,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.8091
+Lactose,b0764,b2425,b3917,modB,cysP,sbp,triple,0.8091
+D-Melibiose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,1.0861
+D-Melibiose,b0763,b2425,b3917,modA,cysP,sbp,triple,1.0861
+D-Melibiose,b0765,b2425,b3917,modC,cysP,sbp,triple,1.0861
+D-Melibiose,b2502,b2744,b4226,ppx,umpG,ppa,triple,1.0861
+D-Melibiose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,1.0861
+D-Melibiose,b0754,b1704,b2601,aroG,aroH,aroF,triple,1.0861
+D-Melibiose,b0764,b2425,b3917,modB,cysP,sbp,triple,1.0861
+N-Acetyl-Neuraminic,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.9193
+N-Acetyl-Neuraminic,b0763,b2425,b3917,modA,cysP,sbp,triple,0.9193
+N-Acetyl-Neuraminic,b0765,b2425,b3917,modC,cysP,sbp,triple,0.9193
+N-Acetyl-Neuraminic,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.9193
+N-Acetyl-Neuraminic,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.9193
+N-Acetyl-Neuraminic,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.9193
+N-Acetyl-Neuraminic,b0929,b2215,b4311,ompF,ompC,nanC,triple,0.9193
+N-Acetyl-Neuraminic,b0764,b2425,b3917,modB,cysP,sbp,triple,0.9193
+Adenosine,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.7942
+Adenosine,b0763,b2425,b3917,modA,cysP,sbp,triple,0.7942
+Adenosine,b0765,b2425,b3917,modC,cysP,sbp,triple,0.7942
+Adenosine,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.7942
+Adenosine,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.7942
+Adenosine,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.7942
+Adenosine,b0764,b2425,b3917,modB,cysP,sbp,triple,0.7942
+Glucose-6-Phosphate,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.8689
+Glucose-6-Phosphate,b0763,b2425,b3917,modA,cysP,sbp,triple,0.8689
+Glucose-6-Phosphate,b0765,b2425,b3917,modC,cysP,sbp,triple,0.8689
+Glucose-6-Phosphate,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.8689
+Glucose-6-Phosphate,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.8689
+Glucose-6-Phosphate,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.8689
+Glucose-6-Phosphate,b0764,b2425,b3917,modB,cysP,sbp,triple,0.8689
+Fructose-6-Phosphate,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.8689
+Fructose-6-Phosphate,b0763,b2425,b3917,modA,cysP,sbp,triple,0.8689
+Fructose-6-Phosphate,b0765,b2425,b3917,modC,cysP,sbp,triple,0.8689
+Fructose-6-Phosphate,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.8689
+Fructose-6-Phosphate,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.8689
+Fructose-6-Phosphate,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.8689
+Fructose-6-Phosphate,b0764,b2425,b3917,modB,cysP,sbp,triple,0.8689
+Inosine,b2393,b2406,b2964,nupC,xapB,nupG,triple,0.845
+Inosine,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.845
+Inosine,b0763,b2425,b3917,modA,cysP,sbp,triple,0.845
+Inosine,b0765,b2425,b3917,modC,cysP,sbp,triple,0.845
+Inosine,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.845
+Inosine,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.845
+Inosine,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.845
+Inosine,b0764,b2425,b3917,modB,cysP,sbp,triple,0.845
+2-DeoxyAdenosine,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.8327
+2-DeoxyAdenosine,b0763,b2425,b3917,modA,cysP,sbp,triple,0.8327
+2-DeoxyAdenosine,b0765,b2425,b3917,modC,cysP,sbp,triple,0.8327
+2-DeoxyAdenosine,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.8327
+2-DeoxyAdenosine,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.8327
+2-DeoxyAdenosine,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.8327
+2-DeoxyAdenosine,b0764,b2425,b3917,modB,cysP,sbp,triple,0.8327
+N-Acetyl-D-Glucosamine,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.8297
+N-Acetyl-D-Glucosamine,b0763,b2425,b3917,modA,cysP,sbp,triple,0.8297
+N-Acetyl-D-Glucosamine,b0765,b2425,b3917,modC,cysP,sbp,triple,0.8297
+N-Acetyl-D-Glucosamine,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.8297
+N-Acetyl-D-Glucosamine,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.8297
+N-Acetyl-D-Glucosamine,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.8297
+N-Acetyl-D-Glucosamine,b0764,b2425,b3917,modB,cysP,sbp,triple,0.8297
+Uridine,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.6435
+Uridine,b0763,b2425,b3917,modA,cysP,sbp,triple,0.6435
+Uridine,b0765,b2425,b3917,modC,cysP,sbp,triple,0.6435
+Uridine,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.6435
+Uridine,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.6435
+Uridine,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.6435
+Uridine,b0764,b2425,b3917,modB,cysP,sbp,triple,0.6435
+D-Mannose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.8091
+D-Mannose,b0763,b2425,b3917,modA,cysP,sbp,triple,0.8091
+D-Mannose,b0765,b2425,b3917,modC,cysP,sbp,triple,0.8091
+D-Mannose,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.8091
+D-Mannose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.8091
+D-Mannose,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.8091
+D-Mannose,b0764,b2425,b3917,modB,cysP,sbp,triple,0.8091
+D-Fructose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.8091
+D-Fructose,b0763,b2425,b3917,modA,cysP,sbp,triple,0.8091
+D-Fructose,b0765,b2425,b3917,modC,cysP,sbp,triple,0.8091
+D-Fructose,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.8091
+D-Fructose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.8091
+D-Fructose,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.8091
+D-Fructose,b0764,b2425,b3917,modB,cysP,sbp,triple,0.8091
+Glucose-1-Phosphate,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.8091
+Glucose-1-Phosphate,b0763,b2425,b3917,modA,cysP,sbp,triple,0.8091
+Glucose-1-Phosphate,b0765,b2425,b3917,modC,cysP,sbp,triple,0.8091
+Glucose-1-Phosphate,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.8091
+Glucose-1-Phosphate,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.8091
+Glucose-1-Phosphate,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.8091
+Glucose-1-Phosphate,b0764,b2425,b3917,modB,cysP,sbp,triple,0.8091
+D-Sorbitol,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.8191
+D-Sorbitol,b0763,b2425,b3917,modA,cysP,sbp,triple,0.8191
+D-Sorbitol,b0765,b2425,b3917,modC,cysP,sbp,triple,0.8191
+D-Sorbitol,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.8191
+D-Sorbitol,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.8191
+D-Sorbitol,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.8191
+D-Sorbitol,b0764,b2425,b3917,modB,cysP,sbp,triple,0.8191
+D-Mannitol,b2703,b2933,b3599,srlE,cmtA,mtlA,triple,0.8191
+D-Mannitol,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.8191
+D-Mannitol,b2702,b2934,b3599,srlA,cmtB,mtlA,triple,0.8191
+D-Mannitol,b0763,b2425,b3917,modA,cysP,sbp,triple,0.8191
+D-Mannitol,b0765,b2425,b3917,modC,cysP,sbp,triple,0.8191
+D-Mannitol,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.8191
+D-Mannitol,b2704,b2933,b3599,srlB,cmtA,mtlA,triple,0.8191
+D-Mannitol,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.8191
+D-Mannitol,b2703,b2934,b3599,srlE,cmtB,mtlA,triple,0.8191
+D-Mannitol,b2704,b2934,b3599,srlB,cmtB,mtlA,triple,0.8191
+D-Mannitol,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.8191
+D-Mannitol,b0764,b2425,b3917,modB,cysP,sbp,triple,0.8191
+D-Mannitol,b2702,b2933,b3599,srlA,cmtA,mtlA,triple,0.8191
+D-Galactose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.7892
+D-Galactose,b0763,b2425,b3917,modA,cysP,sbp,triple,0.7892
+D-Galactose,b0765,b2425,b3917,modC,cysP,sbp,triple,0.7892
+D-Galactose,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.7892
+D-Galactose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.7892
+D-Galactose,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.7892
+D-Galactose,b0764,b2425,b3917,modB,cysP,sbp,triple,0.7892
+D-Gluconic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.7698
+D-Gluconic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.7698
+D-Gluconic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.7698
+D-Gluconic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.7698
+D-Gluconic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.7698
+D-Gluconic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.7698
+D-Gluconic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.7698
+5-Keto-D-Gluconate,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.7235
+5-Keto-D-Gluconate,b0763,b2425,b3917,modA,cysP,sbp,triple,0.7235
+5-Keto-D-Gluconate,b0765,b2425,b3917,modC,cysP,sbp,triple,0.7235
+5-Keto-D-Gluconate,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.7235
+5-Keto-D-Gluconate,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.7235
+5-Keto-D-Gluconate,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.7235
+5-Keto-D-Gluconate,b0764,b2425,b3917,modB,cysP,sbp,triple,0.7235
+Thymidine,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.753
+Thymidine,b0763,b2425,b3917,modA,cysP,sbp,triple,0.753
+Thymidine,b0765,b2425,b3917,modC,cysP,sbp,triple,0.753
+Thymidine,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.753
+Thymidine,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.753
+Thymidine,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.753
+Thymidine,b0764,b2425,b3917,modB,cysP,sbp,triple,0.753
+D-Xylose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.7112
+D-Xylose,b0763,b2425,b3917,modA,cysP,sbp,triple,0.7112
+D-Xylose,b0765,b2425,b3917,modC,cysP,sbp,triple,0.7112
+D-Xylose,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.7112
+D-Xylose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.7112
+D-Xylose,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.7112
+D-Xylose,b0764,b2425,b3917,modB,cysP,sbp,triple,0.7112
+L-Arabinose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.7112
+L-Arabinose,b0061,b3583,b4198,araD,sgbE,ulaF,triple,0.7112
+L-Arabinose,b0763,b2425,b3917,modA,cysP,sbp,triple,0.7112
+L-Arabinose,b0765,b2425,b3917,modC,cysP,sbp,triple,0.7112
+L-Arabinose,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.7112
+L-Arabinose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.7112
+L-Arabinose,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.7112
+L-Arabinose,b0764,b2425,b3917,modB,cysP,sbp,triple,0.7112
+beta-D-Allose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.7295
+beta-D-Allose,b0763,b2425,b3917,modA,cysP,sbp,triple,0.7295
+beta-D-Allose,b0765,b2425,b3917,modC,cysP,sbp,triple,0.7295
+beta-D-Allose,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.7295
+beta-D-Allose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.7295
+beta-D-Allose,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.7295
+beta-D-Allose,b0764,b2425,b3917,modB,cysP,sbp,triple,0.7295
+D-Galactonic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.7121
+D-Galactonic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.7121
+D-Galactonic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.7121
+D-Galactonic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.7121
+D-Galactonic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.7121
+D-Galactonic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.7121
+D-Galactonic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.7121
+L-Galactonic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.7121
+L-Galactonic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.7121
+L-Galactonic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.7121
+L-Galactonic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.7121
+L-Galactonic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.7121
+L-Galactonic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.7121
+L-Galactonic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.7121
+D-Glucuronic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.6986
+D-Glucuronic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.6986
+D-Glucuronic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.6986
+D-Glucuronic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.6986
+D-Glucuronic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.6986
+D-Glucuronic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.6986
+D-Glucuronic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.6986
+D-Ribose,b3749,b4088,b4230,rbsA,alsB,ytfT,triple,0.6698
+D-Ribose,b3751,b4086,b4231,rbsB,alsC,yjfF,triple,0.6698
+D-Ribose,b3751,b4087,b4230,rbsB,alsA,ytfT,triple,0.6698
+D-Ribose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.6698
+D-Ribose,b3748,b4088,b4230,rbsD,alsB,ytfT,triple,0.6698
+D-Ribose,b3749,b4088,b4485,rbsA,alsB,ytfR,triple,0.6698
+D-Ribose,b3750,b4088,b4230,rbsC,alsB,ytfT,triple,0.6698
+D-Ribose,b3751,b4087,b4485,rbsB,alsA,ytfR,triple,0.6698
+D-Ribose,b3750,b4087,b4227,rbsC,alsA,ytfQ,triple,0.6698
+D-Ribose,b3748,b4087,b4231,rbsD,alsA,yjfF,triple,0.6698
+D-Ribose,b3748,b4088,b4485,rbsD,alsB,ytfR,triple,0.6698
+D-Ribose,b3750,b4088,b4485,rbsC,alsB,ytfR,triple,0.6698
+D-Ribose,b3749,b4086,b4231,rbsA,alsC,yjfF,triple,0.6698
+D-Ribose,b3751,b4086,b4227,rbsB,alsC,ytfQ,triple,0.6698
+D-Ribose,b3748,b4086,b4231,rbsD,alsC,yjfF,triple,0.6698
+D-Ribose,b3750,b4087,b4230,rbsC,alsA,ytfT,triple,0.6698
+D-Ribose,b0763,b2425,b3917,modA,cysP,sbp,triple,0.6698
+D-Ribose,b3750,b4087,b4485,rbsC,alsA,ytfR,triple,0.6698
+D-Ribose,b3749,b4086,b4227,rbsA,alsC,ytfQ,triple,0.6698
+D-Ribose,b3751,b4086,b4230,rbsB,alsC,ytfT,triple,0.6698
+D-Ribose,b0765,b2425,b3917,modC,cysP,sbp,triple,0.6698
+D-Ribose,b3748,b4086,b4227,rbsD,alsC,ytfQ,triple,0.6698
+D-Ribose,b3751,b4088,b4231,rbsB,alsB,yjfF,triple,0.6698
+D-Ribose,b3751,b4086,b4485,rbsB,alsC,ytfR,triple,0.6698
+D-Ribose,b3749,b4087,b4231,rbsA,alsA,yjfF,triple,0.6698
+D-Ribose,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.6698
+D-Ribose,b3748,b4086,b4230,rbsD,alsC,ytfT,triple,0.6698
+D-Ribose,b3750,b4086,b4231,rbsC,alsC,yjfF,triple,0.6698
+D-Ribose,b3751,b4087,b4231,rbsB,alsA,yjfF,triple,0.6698
+D-Ribose,b3748,b4088,b4231,rbsD,alsB,yjfF,triple,0.6698
+D-Ribose,b3748,b4086,b4485,rbsD,alsC,ytfR,triple,0.6698
+D-Ribose,b3749,b4087,b4227,rbsA,alsA,ytfQ,triple,0.6698
+D-Ribose,b3748,b4087,b4227,rbsD,alsA,ytfQ,triple,0.6698
+D-Ribose,b3750,b4086,b4227,rbsC,alsC,ytfQ,triple,0.6698
+D-Ribose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.6698
+D-Ribose,b3750,b4087,b4231,rbsC,alsA,yjfF,triple,0.6698
+D-Ribose,b3749,b4087,b4230,rbsA,alsA,ytfT,triple,0.6698
+D-Ribose,b3748,b4087,b4230,rbsD,alsA,ytfT,triple,0.6698
+D-Ribose,b3749,b4087,b4485,rbsA,alsA,ytfR,triple,0.6698
+D-Ribose,b3750,b4086,b4230,rbsC,alsC,ytfT,triple,0.6698
+D-Ribose,b3749,b4086,b4230,rbsA,alsC,ytfT,triple,0.6698
+D-Ribose,b3748,b4087,b4485,rbsD,alsA,ytfR,triple,0.6698
+D-Ribose,b3750,b4086,b4485,rbsC,alsC,ytfR,triple,0.6698
+D-Ribose,b3749,b4088,b4231,rbsA,alsB,yjfF,triple,0.6698
+D-Ribose,b3749,b4086,b4485,rbsA,alsC,ytfR,triple,0.6698
+D-Ribose,b3751,b4088,b4227,rbsB,alsB,ytfQ,triple,0.6698
+D-Ribose,b3750,b4088,b4231,rbsC,alsB,yjfF,triple,0.6698
+D-Ribose,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.6698
+D-Ribose,b3749,b4088,b4227,rbsA,alsB,ytfQ,triple,0.6698
+D-Ribose,b3751,b4088,b4230,rbsB,alsB,ytfT,triple,0.6698
+D-Ribose,b3751,b4087,b4227,rbsB,alsA,ytfQ,triple,0.6698
+D-Ribose,b0764,b2425,b3917,modB,cysP,sbp,triple,0.6698
+D-Ribose,b3748,b4088,b4227,rbsD,alsB,ytfQ,triple,0.6698
+D-Ribose,b3751,b4088,b4485,rbsB,alsB,ytfR,triple,0.6698
+D-Ribose,b3750,b4088,b4227,rbsC,alsB,ytfQ,triple,0.6698
+L-Rhamnose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.6455
+L-Rhamnose,b0763,b2425,b3917,modA,cysP,sbp,triple,0.6455
+L-Rhamnose,b0765,b2425,b3917,modC,cysP,sbp,triple,0.6455
+L-Rhamnose,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.6455
+L-Rhamnose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.6455
+L-Rhamnose,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.6455
+L-Rhamnose,b0764,b2425,b3917,modB,cysP,sbp,triple,0.6455
+L-Fucose,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.6455
+L-Fucose,b0763,b2425,b3917,modA,cysP,sbp,triple,0.6455
+L-Fucose,b0765,b2425,b3917,modC,cysP,sbp,triple,0.6455
+L-Fucose,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.6455
+L-Fucose,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.6455
+L-Fucose,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.6455
+L-Fucose,b0764,b2425,b3917,modB,cysP,sbp,triple,0.6455
+D-Saccharic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.6025
+D-Saccharic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.6025
+D-Saccharic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.6025
+D-Saccharic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.6025
+D-Saccharic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.6025
+D-Saccharic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.6025
+D-Saccharic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.6025
+Mucic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.6025
+Mucic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.6025
+Mucic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.6025
+Mucic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.6025
+Mucic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.6025
+Mucic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.6025
+Mucic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.6025
+alpha-Keto-Glutaric,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.5413
+alpha-Keto-Glutaric,b0763,b2425,b3917,modA,cysP,sbp,triple,0.5413
+alpha-Keto-Glutaric,b0765,b2425,b3917,modC,cysP,sbp,triple,0.5413
+alpha-Keto-Glutaric,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.5413
+alpha-Keto-Glutaric,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.5413
+alpha-Keto-Glutaric,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.5413
+alpha-Keto-Glutaric,b0764,b2425,b3917,modB,cysP,sbp,triple,0.5413
+Glycerol,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.4855
+Glycerol,b0763,b2425,b3917,modA,cysP,sbp,triple,0.4855
+Glycerol,b0765,b2425,b3917,modC,cysP,sbp,triple,0.4855
+Glycerol,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.4855
+Glycerol,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.4855
+Glycerol,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.4855
+Glycerol,b0764,b2425,b3917,modB,cysP,sbp,triple,0.4855
+Succinic Acid,b1611,b1612,b4122,fumC,fumA,fumB,triple,0.444
+Succinic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.444
+Succinic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.444
+Succinic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.444
+Succinic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.444
+Succinic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.444
+Succinic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.444
+Succinic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.444
+L-Aspartic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.4051
+L-Aspartic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.4051
+L-Aspartic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.4051
+L-Aspartic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.4051
+L-Aspartic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.4051
+L-Aspartic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.4051
+L-Aspartic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.4051
+L-Malic Acid,b0621,b4123,b4138,dcuC,dcuB,dcuA,triple,0.4051
+L-Malic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.4051
+L-Malic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.4051
+L-Malic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.4051
+L-Malic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.4051
+L-Malic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.4051
+L-Malic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.4051
+L-Malic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.4051
+Fumaric Acid,b1611,b1612,b4122,fumC,fumA,fumB,triple,0.4051
+Fumaric Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.4051
+Fumaric Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.4051
+Fumaric Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.4051
+Fumaric Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.4051
+Fumaric Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.4051
+Fumaric Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.4051
+Fumaric Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.4051
+D-Alanine,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.3699
+D-Alanine,b0763,b2425,b3917,modA,cysP,sbp,triple,0.3699
+D-Alanine,b0765,b2425,b3917,modC,cysP,sbp,triple,0.3699
+D-Alanine,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.3699
+D-Alanine,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.3699
+D-Alanine,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.3699
+D-Alanine,b0764,b2425,b3917,modB,cysP,sbp,triple,0.3699
+D-Malic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.3697
+D-Malic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.3697
+D-Malic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.3697
+D-Malic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.3697
+D-Malic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.3697
+D-Malic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.3697
+D-Malic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.3697
+L-Lactic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.3419
+L-Lactic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.3419
+L-Lactic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.3419
+L-Lactic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.3419
+L-Lactic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.3419
+L-Lactic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.3419
+L-Lactic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.3419
+D-Serine,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.3087
+D-Serine,b0763,b2425,b3917,modA,cysP,sbp,triple,0.3087
+D-Serine,b0765,b2425,b3917,modC,cysP,sbp,triple,0.3087
+D-Serine,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.3087
+D-Serine,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.3087
+D-Serine,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.3087
+D-Serine,b0764,b2425,b3917,modB,cysP,sbp,triple,0.3087
+L-Serine,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.3087
+L-Serine,b0763,b2425,b3917,modA,cysP,sbp,triple,0.3087
+L-Serine,b0765,b2425,b3917,modC,cysP,sbp,triple,0.3087
+L-Serine,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.3087
+L-Serine,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.3087
+L-Serine,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.3087
+L-Serine,b0764,b2425,b3917,modB,cysP,sbp,triple,0.3087
+Pyruvic Acid,b0475,b1019,b2431,hemH,efeB,yfeX,triple,0.3046
+Pyruvic Acid,b0763,b2425,b3917,modA,cysP,sbp,triple,0.3046
+Pyruvic Acid,b0765,b2425,b3917,modC,cysP,sbp,triple,0.3046
+Pyruvic Acid,b2502,b2744,b4226,ppx,umpG,ppa,triple,0.3046
+Pyruvic Acid,b0841,b1278,b3057,ybjG,pgpB,bacA,triple,0.3046
+Pyruvic Acid,b0754,b1704,b2601,aroG,aroH,aroF,triple,0.3046
+Pyruvic Acid,b0764,b2425,b3917,modB,cysP,sbp,triple,0.3046

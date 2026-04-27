@@ -1,0 +1,47 @@
+carbon_source,exchange_id,wt_growth,rfba_growth,growth_impact,pct_impact,n_applied,n_relaxed_FlagB,feasible
+Maltotriose,EX_malttr_e,1.1797,1.1788,0.0009,0.08,244,5,True
+D-Trehalose,EX_tre_e,0.9524,0.9517,0.0007,0.07,262,5,True
+Maltose,EX_malt_e,0.9524,0.9517,0.0007,0.07,244,5,True
+Lactose,EX_lcts_e,0.9314,0.6919,0.2395,25.71,261,5,True
+D-Melibiose,EX_melib_e,0.9314,0.9307,0.0007,0.07,259,8,True
+N-Acetyl-Neuraminic,EX_acnam_e,0.7847,0.7841,0.0006,0.07,259,7,True
+Adenosine,EX_adn_e,0.7599,0.6709,0.089,11.71,263,5,True
+Glucose-6-Phosphate,EX_g6p_e,0.7521,0.7516,0.0004,0.06,263,5,True
+Fructose-6-Phosphate,EX_f6p_e,0.7521,0.7516,0.0004,0.06,263,5,True
+Inosine,EX_ins_e,0.7359,0.7309,0.005,0.68,259,5,True
+2-DeoxyAdenosine,EX_dad_2_e,0.715,0.708,0.007,0.97,257,5,True
+N-Acetyl-D-Glucosamine,EX_acgam_e,0.7128,0.7124,0.0004,0.06,259,7,True
+Uridine,EX_uri_e,0.7029,0.5218,0.181,25.76,263,5,True
+D-Mannose,EX_man_e,0.6923,0.6919,0.0004,0.06,263,5,True
+D-Fructose,EX_fru_e,0.6923,0.6919,0.0004,0.06,258,5,True
+Glucose,EX_glc__D_e,0.6923,0.6919,0.0004,0.06,295,7,True
+Glucose-1-Phosphate,EX_g1p_e,0.6923,0.6919,0.0004,0.06,263,5,True
+D-Sorbitol,EX_sbt__D_e,0.6788,0.6783,0.0005,0.07,263,5,True
+D-Mannitol,EX_mnl_e,0.6788,0.6783,0.0005,0.07,262,5,True
+D-Galactose,EX_gal_e,0.6724,0.672,0.0004,0.06,260,8,True
+D-Gluconic Acid,EX_glcn_e,0.6566,0.6563,0.0003,0.05,298,7,True
+5-Keto-D-Gluconate,EX_5dglcn_e,0.6415,0.6412,0.0003,0.05,258,5,True
+Thymidine,EX_thymd_e,0.6338,0.6334,0.0004,0.07,254,5,True
+D-Xylose,EX_xyl__D_e,0.6126,0.6123,0.0004,0.06,260,5,True
+L-Arabinose,EX_arab__L_e,0.6126,0.6123,0.0004,0.06,260,7,True
+beta-D-Allose,EX_all__D_e,0.6126,0.6123,0.0004,0.06,262,6,True
+D-Galactonic Acid,EX_galctn__D_e,0.5932,0.5928,0.0004,0.07,259,5,True
+L-Galactonic Acid,EX_galctn__L_e,0.5932,0.5928,0.0004,0.07,260,6,True
+D-Glucuronic Acid,EX_glcur_e,0.5873,0.5869,0.0004,0.07,258,5,True
+D-Ribose,EX_rib__D_e,0.5529,0.5526,0.0003,0.06,262,6,True
+L-Rhamnose,EX_rmn_e,0.517,0.5133,0.0037,0.72,257,5,True
+L-Fucose,EX_fuc__L_e,0.517,0.5133,0.0037,0.72,258,5,True
+D-Saccharic Acid,EX_glcr_e,0.5153,0.5151,0.0002,0.05,258,5,True
+Mucic Acid,EX_galct__D_e,0.5153,0.5151,0.0002,0.05,261,7,True
+alpha-Keto-Glutaric,EX_akg_e,0.5124,0.5122,0.0002,0.05,263,5,True
+Glycerol,EX_glyc_e,0.4947,0.4913,0.0034,0.69,258,5,True
+Succinic Acid,EX_succ_e,0.4356,0.4354,0.0002,0.05,258,5,True
+L-Aspartic Acid,EX_asp__L_e,0.4112,0.4111,0.0001,0.02,257,5,True
+L-Malic Acid,EX_mal__L_e,0.4112,0.4111,0.0001,0.03,264,5,True
+Fumaric Acid,EX_fum_e,0.4112,0.4111,0.0001,0.02,258,5,True
+D-Alanine,EX_ala__D_e,0.38,0.3756,0.0044,1.15,263,5,True
+D-Malic Acid,EX_mal__D_e,0.3774,0.3752,0.0022,0.58,262,6,True
+L-Lactic Acid,EX_lac__L_e,0.3506,0.3477,0.0029,0.83,262,6,True
+D-Serine,EX_ser__D_e,0.3181,0.3145,0.0036,1.12,262,5,True
+L-Serine,EX_ser__L_e,0.3181,0.3145,0.0036,1.12,263,5,True
+Pyruvic Acid,EX_pyr_e,0.3139,0.3103,0.0036,1.15,262,6,True
